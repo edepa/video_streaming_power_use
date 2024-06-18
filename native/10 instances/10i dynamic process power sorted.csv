@@ -1,0 +1,309 @@
+PW Estimate (mW),Description
+2195.7027439024396,tick_sched_timer
+518.954125,[3] net_rx(softirq)
+161.77521341463446,[PID 17] [rcu_preempt]
+66.04878048780488,[PID 4489] ffmpeg -re -ss 1295 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+65.59451219512195,[PID 4496] ffmpeg -re -ss 2809 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+65.42682926829268,[PID 4501] ffmpeg -re -ss 2281 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+65.15243902439025,[PID 4491] ffmpeg -re -ss 1024 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+65.08841463414635,[PID 4483] ffmpeg -re -ss 1582 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+64.95426829268293,[PID 4497] ffmpeg -re -ss 2411 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+64.64024390243902,[PID 4494] ffmpeg -re -ss 403 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+64.02743902439025,[PID 4499] ffmpeg -re -ss 2271 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+63.76829268292682,[PID 4485] ffmpeg -re -ss 1901 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+63.58841463414634,[PID 4487] ffmpeg -re -ss 435 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+38.13079268292707,toggle_allocation_gate
+19.313719512195142,fb_flashcursor
+15.443292682926817,[PID 4449] ffmpeg -re -ss 435 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+15.35030487804878,watchdog_timer_fn
+14.841036585365853,[PID 3838] powertop --csv --iteration=328 --time=10 
+14.664024390243899,[PID 4461] ffmpeg -re -ss 2271 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+13.267987804878054,[PID 4477] ffmpeg -re -ss 403 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+12.8625,[PID 4445] ffmpeg -re -ss 2281 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+12.766158536585374,[PID 4453] ffmpeg -re -ss 1901 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+12.514024390243904,[PID 4457] ffmpeg -re -ss 2809 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+12.431707317073165,[PID 4465] ffmpeg -re -ss 1582 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+12.377134146341469,[PID 4469] ffmpeg -re -ss 1295 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+12.327743902439025,[PID 4481] ffmpeg -re -ss 1024 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+12.288109756097558,[PID 4476] ffmpeg -re -ss 2411 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+9.47807926829267,handle_update
+8.24765243902436,bnx2x_period_task
+7.775304878048752,bnx2x_sp_task
+7.745823170731713,[PID 118] [kcompactd0]
+4.850597560975618,[7] sched(softirq)
+3.90603658536587,pci_pme_list_scan
+3.6950884146341583,[60] eth0
+3.3818079268292793,[66] eth1
+2.938079268292682,"[PID 4473] socat TCP-LISTEN:8082,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 403 1800 "
+2.8283841463414627,"[PID 4458] socat TCP-LISTEN:8084,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 2271 1800 "
+2.796890243902439,"[PID 4446] socat TCP-LISTEN:8088,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 435 1800 "
+2.751798780487805,"[PID 4462] socat TCP-LISTEN:8081,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 1582 1800 "
+2.725396341463414,"[PID 4478] socat TCP-LISTEN:8083,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 1024 1800 "
+2.656036585365855,"[PID 4466] socat TCP-LISTEN:8087,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 1295 1800 "
+2.641371951219512,"[PID 4442] socat TCP-LISTEN:8089,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 2281 1800 "
+2.6013414634146335,"[PID 4450] socat TCP-LISTEN:8086,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 1901 1800 "
+2.6011585365853658,"[PID 4454] socat TCP-LISTEN:8085,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 2809 1800 "
+2.5228658536585367,"[PID 4470] socat TCP-LISTEN:8080,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 2411 1800 "
+2.2506707317073174,hrtimer_wakeup
+1.725750000000003,kfree_rcu_monitor
+1.583774390243904,lru_add_drain_per_cpu
+1.579317073170732,[4] block(softirq)
+1.4943689024390245,[9] RCU(softirq)
+1.2922652439024382,vmstat_shepherd
+1.0949847560975579,neigh_managed_work
+0.8769603658536589,flush_memcg_stats_dwork
+0.7021585365853659,[PID 25] [ksoftirqd/1]
+0.65340243902439,[PID 4342] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270881.6930554-195910535593141/AnsiballZ_command.py 
+0.639161585365854,[PID 4362] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270881.9292216-107351681436629/AnsiballZ_command.py 
+0.6094420731707315,[PID 4351] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270881.9275339-35867644329268/AnsiballZ_command.py 
+0.5699481707317073,[PID 4412] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270882.2553332-127855323777750/AnsiballZ_command.py 
+0.569621951219512,[PID 4387] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270882.0789988-157750929871913/AnsiballZ_command.py 
+0.5238353658536579,[1] timer(softirq)
+0.5156585365853658,[PID 4424] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270882.2277775-86969917069783/AnsiballZ_command.py 
+0.5121493902439024,[PID 4402] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270882.108864-187500736909066/AnsiballZ_command.py 
+0.5081189024390244,[PID 4407] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270882.3625247-165278529506311/AnsiballZ_command.py 
+0.5050457317073166,[PID 2029] [jbd2/sda3-8]
+0.5019329268292685,[PID 4417] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270882.1113532-248658684153411/AnsiballZ_command.py 
+0.5004207317073173,[PID 4429] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270882.241264-50894932493587/AnsiballZ_command.py 
+0.48344512195121975,[PID 16] [ksoftirqd/0]
+0.4670609756097561,process_timeout
+0.4468658536585365,kfree_rcu_work
+0.44587804878048803,[PID 109] [ksoftirqd/15]
+0.4287012195121955,[PID 121] [khugepaged]
+0.42605487804878156,blk_mq_run_work_fn
+0.4211067073170734,[PID 31] [ksoftirqd/2]
+0.40171036585365905,[PID 4427] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270882.241264-50894932493587/async_wrapper.py 721434
+0.40056097560975684,[PID 4410] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270882.2553332-127855323777750/async_wrapper.py 1476
+0.40021036585365843,[PID 4340] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270881.6930554-195910535593141/async_wrapper.py 2310
+0.39931097560975676,[PID 4415] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270882.1113532-248658684153411/async_wrapper.py 5414
+0.3992439024390251,[PID 4349] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270881.9275339-35867644329268/async_wrapper.py 73097
+0.3979878048780494,[PID 4400] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270882.108864-187500736909066/async_wrapper.py 14147
+0.3978750000000007,[PID 4421] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270882.2277775-86969917069783/async_wrapper.py 33233
+0.3968231707317081,[PID 4405] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270882.3625247-165278529506311/async_wrapper.py 7316
+0.39678658536585437,[PID 4385] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270882.0789988-157750929871913/async_wrapper.py 4370
+0.39677439024390293,[PID 4360] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270881.9292216-107351681436629/async_wrapper.py 2875
+0.3944756097560987,neigh_periodic_work
+0.3439115853658538,wb_workfn
+0.336118902439025,drm_fb_helper_damage_work
+0.33200304878048853,wb_update_bandwidth_workfn
+0.3170731707317073,[PID 3910] python3
+0.30243902439024395,[PID 3899] python3
+0.2920731707317073,[PID 3890] python3
+0.2914634146341463,[PID 3909] python3
+0.2911585365853659,[PID 3911] python3
+0.2891402439024387,delayed_work_timer_fn
+0.26920731707317075,[PID 3887] python3
+0.263109756097561,[PID 3893] python3
+0.2597560975609756,[PID 3895] python3
+0.2527439024390244,[PID 3908] python3
+0.250609756097561,[PID 3897] python3
+0.23696036585365848,delayed_vfree_work
+0.221923780487805,hpsa_event_monitor_worker
+0.21454268292682938,[6] tasklet(softirq)
+0.20754573170731716,blk_mq_timeout_work
+0.15867987804878053,netstamp_clear
+0.12713414634146342,[PID 4334] python3
+0.125,"[PID 3884] sshd: videoserver@pts/1,pts/6,pts/4,pts/3,pts/2,pts/5 "
+0.11693902439024391,[64] eth0-fp-2
+0.11676829268292682,[PID 4327] python3
+0.10609451219512199,[62] eth0-fp-0
+0.10465548780487795,[PID 3618] /sbin/syslogd -t -n 
+0.10396341463414635,[PID 4354] python3
+0.09878048780487805,[PID 4336] python3
+0.0953628048780487,ext4_end_io_rsv_work
+0.07530487804878049,[PID 4370] python3
+0.07382317073170731,[PID 3701] /usr/sbin/crond -c /etc/crontabs -f 
+0.06309146341463415,[65] eth0-fp-3
+0.061493902439024396,[PID 4486] ffmpeg -re -ss 435 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.060045731707317036,crng_reseed
+0.05865853658536585,[PID 4495] ffmpeg -re -ss 2411 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.053353658536585365,[PID 4378] python3
+0.052625,[PID 3674] /usr/sbin/chronyd -f /etc/chrony/chrony.conf 
+0.05237500000000002,tcp_write_timer
+0.049695121951219515,[PID 4482] ffmpeg -re -ss 1582 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.045195121951219504,[PID 91] [ksoftirqd/12]
+0.04164024390243902,[PID 3866] [kworker/u32:0]
+0.04071646341463415,[PID 551] [kworker/u32:7]
+0.03932926829268293,[PID 4392] python3
+0.03689024390243902,[PID 4393] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270882.2277775-86969917069783/async_wrapper.py 33233
+0.03669512195121951,[PID 73] [ksoftirqd/9]
+0.033640243902439027,check_lifetime
+0.033588414634146344,hpsa_monitor_ctlr_worker
+0.03343597560975609,[PID 85] [ksoftirqd/11]
+0.03309451219512195,[PID 79] [ksoftirqd/10]
+0.029085365853658535,[PID 4395] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270882.241264-50894932493587/async_wrapper.py 721434
+0.02882926829268293,addrconf_verify_work
+0.027780487804878067,[PID 397] [kworker/0:8]
+0.02774390243902439,[PID 4397] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270882.1113532-248658684153411/async_wrapper.py 5414
+0.027256097560975613,[PID 4488] ffmpeg -re -ss 1295 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.025439024390243908,[PID 61] [ksoftirqd/7]
+0.02521341463414634,[PID 3900] sshd
+0.02507926829268293,[PID 43] [ksoftirqd/4]
+0.024939024390243904,[PID 4354] sh
+0.024051829268292683,[PID 55] [ksoftirqd/6]
+0.02375914634146342,[PID 49] [ksoftirqd/5]
+0.02236280487804878,[PID 21] [kworker/u32:1]
+0.022277439024390246,[PID 97] [ksoftirqd/13]
+0.022103658536585368,[PID 4415] python3
+0.02207317073170732,[PID 4349] python3
+0.020670731707317074,[PID 4327] sh
+0.020640243902439025,[PID 4421] python3
+0.02051829268292683,[PID 4410] python3
+0.02030487804878049,[PID 3902] sshd
+0.020182926829268293,[PID 4360] python3
+0.019695121951219512,[PID 4339] [python3]
+0.019451219512195122,[PID 4385] python3
+0.019390243902439028,[PID 4400] python3
+0.019176829268292683,[PID 4427] python3
+0.018993902439024393,[PID 4340] python3
+0.01863109756097561,[PID 103] [ksoftirqd/14]
+0.018506097560975612,[PID 4405] python3
+0.018353658536585365,[PID 4370] sh
+0.017887195121951225,[PID 37] [ksoftirqd/3]
+0.017835365853658535,[PID 3891] sshd
+0.017743902439024392,[PID 4334] sh
+0.016371951219512196,[PID 4355] [python3]
+0.01628048780487805,[PID 4347] [python3]
+0.016115853658536586,[PID 67] [ksoftirqd/8]
+0.01576219512195122,[PID 4336] sh
+0.015640243902439024,[PID 3888] sshd
+0.015365853658536587,[PID 3885] sshd
+0.014939024390243904,[PID 4358] [python3]
+0.014908536585365853,[PID 4493] ffmpeg -re -ss 2809 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.014512195121951219,[PID 4490] ffmpeg -re -ss 1024 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.01375,[PID 4338] python3
+0.01350609756097561,[PID 3881] sshd
+0.013201219512195123,[PID 4500] ffmpeg -re -ss 2281 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.013201219512195123,[PID 3877] sshd
+0.013195121951219512,hpsa_rescan_ctlr_worker
+0.013140243902439024,[PID 4348] [python3]
+0.012926829268292684,[PID 4383] [python3]
+0.012439024390243903,[PID 4384] [python3]
+0.012381097560975612,vmstat_update
+0.012225609756097561,[PID 3873] sshd
+0.011981707317073171,[PID 3882] sshd
+0.01173780487804878,[PID 4484] ffmpeg -re -ss 1901 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.011615853658536585,[PID 4498] ffmpeg -re -ss 2271 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.01149390243902439,[PID 4378] sh
+0.010853658536585367,[PID 3909] sh
+0.010579268292682928,[PID 3911] sh
+0.010457317073170732,[PID 3901] sshd
+0.010426829268292684,[PID 3871] sshd: videoserver [priv] 
+0.009390243902439026,[PID 3876] sshd
+0.009176829268292682,[PID 3887] sh
+0.009085365853658536,[PID 3879] sshd
+0.008932926829268294,[PID 3874] sshd
+0.008689024390243903,[PID 3875] sshd
+0.008567073170731708,[PID 3872] sshd
+0.008536585365853657,[PID 3890] sh
+0.008445121951219513,bpf_prog_free_deferred
+0.008201219512195122,[PID 3878] sshd
+0.008201219512195122,[PID 3895] sh
+0.008170731707317073,[PID 3880] sshd
+0.008048780487804878,[PID 3883] sshd
+0.007957317073170732,[PID 3893] sh
+0.007917682926829268,[PID 1] /sbin/init 
+0.007713414634146341,[PID 3910] sh
+0.007289634146341465,sync_hw_clock
+0.007286585365853659,[PID 3899] sh
+0.007198170731707318,idle_cull_fn
+0.007164634146341464,[PID 3897] sh
+0.007073170731707316,"[PID 4368] socat TCP-LISTEN:8080,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 2411 1800 "
+0.0070426829268292685,[PID 3908] sh
+0.007015243902439024,mce_timer_fn
+0.006829268292682928,[PID 3903] sshd
+0.006100609756097562,tcp_orphan_update
+0.00551829268292683,[PID 3941] python3
+0.0052439024390243906,[PID 4341] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717270881.6930554-195910535593141/async_wrapper.py 2310
+0.005213414634146342,[PID 4240] python3
+0.004542682926829268,[PID 4444] sh /home/videoserver/native/stream.sh chosen.mp4 2281 1800 
+0.0024237804878048785,can_stat_update
+0.002027439024390244,[PID 4472] sh /home/videoserver/native/stream.sh chosen.mp4 2411 1800 
+0.002021341463414634,[PID 4452] sh /home/videoserver/native/stream.sh chosen.mp4 1901 1800 
+0.002021341463414634,[PID 4565] [crond]
+0.0020182926829268293,[PID 3870] [crond]
+0.0020152439024390244,[PID 4468] sh /home/videoserver/native/stream.sh chosen.mp4 1295 1800 
+0.0020152439024390244,[PID 4480] sh /home/videoserver/native/stream.sh chosen.mp4 1024 1800 
+0.0020091463414634147,[PID 4456] sh /home/videoserver/native/stream.sh chosen.mp4 2809 1800 
+0.0019359756097560978,[PID 4448] sh /home/videoserver/native/stream.sh chosen.mp4 435 1800 
+0.0018658536585365853,[PID 4460] sh /home/videoserver/native/stream.sh chosen.mp4 2271 1800 
+0.001820121951219512,[PID 4502] [crond]
+0.0017865853658536584,[PID 4475] sh /home/videoserver/native/stream.sh chosen.mp4 403 1800 
+0.0016402439024390245,[PID 4464] sh /home/videoserver/native/stream.sh chosen.mp4 1582 1800 
+0.001326219512195122,"[PID 4443] socat TCP-LISTEN:8089,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 2281 1800 "
+0.0013262195121951218,bnx2x_timer
+0.0013231707317073172,"[PID 4451] socat TCP-LISTEN:8086,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 1901 1800 "
+0.0013231707317073172,"[PID 4447] socat TCP-LISTEN:8088,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 435 1800 "
+0.0013201219512195123,"[PID 4455] socat TCP-LISTEN:8085,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 2809 1800 "
+0.0013201219512195123,"[PID 4479] socat TCP-LISTEN:8083,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 1024 1800 "
+0.0013201219512195123,"[PID 4471] socat TCP-LISTEN:8080,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 2411 1800 "
+0.0013109756097560976,"[PID 4467] socat TCP-LISTEN:8087,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 1295 1800 "
+0.001277439024390244,"[PID 4459] socat TCP-LISTEN:8084,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 2271 1800 "
+0.001274390243902439,"[PID 4463] socat TCP-LISTEN:8081,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 1582 1800 "
+0.0012682926829268293,"[PID 4474] socat TCP-LISTEN:8082,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 403 1800 "
+0.0012560975609756098,mix_interrupt_randomness
+0.001201219512195122,dev_watchdog
+0.0011981707317073173,[2] net tx(softirq)
+0.0004237804878048781,[PID 3884] sshd
+0.000375,[PID 3797] sshd
+0.0,[PID 415] [kworker/11:1]
+0.0,[PID 68] [kworker/8:0]
+0.0,[PID 441] [kworker/9:1]
+0.0,[63] eth0-fp-1
+0.0,[PID 1024] [kworker/6:1H]
+0.0,[PID 413] [kworker/12:1]
+0.0,[55] hpsa0-msix11
+0.0,[PID 18] [migration/0]
+0.0,[PID 3417] [kworker/10:2]
+0.0,[PID 104] [kworker/14:0]
+0.0,[PID 414] [kworker/2:1]
+0.0,[PID 443] [kworker/15:1]
+0.0,[PID 326] [kworker/13:1]
+0.0,[PID 2942] [kworker/3:2]
+0.0,tw_timer_handler
+0.0,[54] hpsa0-msix10
+0.0,[PID 48] [migration/5]
+0.0,writeout_period
+0.0,[68] eth1-fp-0
+0.0,[71] eth1-fp-3
+0.0,[PID 891] [kworker/12:1H]
+0.0,sync_timer_callback
+0.0,neigh_timer_handler
+0.0,bnx2x_sp_rtnl_task
+0.0,[70] eth1-fp-2
+0.0,[PID 3795] sshd
+0.0,[PID 3764] sshd: /usr/sbin/sshd [listener] 0 of 100-200 startups 
+0.0,[PID 3859] [kworker/7:2]
+0.0,[45] hpsa0-msix2
+0.0,[PID 1060] [kworker/2:1H]
+0.0,[69] eth1-fp-1
+0.0,[PID 442] kworker/7:1
+0.0,idle_worker_timeout
+0.0,[PID 137] kworker/u32:4
+0.0,[PID 98] kworker/13:0
+0.0,addrconf_rs_timer
+0.0,tsc_sync_check_timer_fn
+0.0,commit_timeout
+0.0,wq_barrier_func
+0.0,[PID 36] [migration/3]
+0.0,[56] hpsa0-msix12
+0.0,[PID 54] [migration/6]
+0.0,[PID 102] [migration/14]
+0.0,[PID 78] [migration/10]
+0.0,[PID 84] [migration/11]
+0.0,[PID 72] [migration/9]
+0.0,[PID 439] [kworker/6:1]
+0.0,[PID 24] [migration/1]
+0.0,[PID 42] [migration/4]
+0.0,[PID 30] [migration/2]
+0.0,[PID 96] [migration/13]
+0.0,[PID 108] [migration/15]
+0.0,[PID 60] [migration/7]
+0.0,[PID 90] [migration/12]
+0.0,[PID 66] [migration/8]
+0.0,[PID 912] [kworker/10:1H]
+0.0,[PID 125] [kworker/4:1]
+0.0,[PID 26] [kworker/1:0]
+0.0,[PID 712] [kworker/5:2]
+0.0,blk_rq_timed_out_timer
+0.0,[PID 978] [kworker/11:1H]

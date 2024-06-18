@@ -1,0 +1,327 @@
+PW Estimate (mW),Description
+511.7164634146341,tick_sched_timer
+427.655487804878,[PID 3882] containerd --config /var/run/docker/containerd/containerd.toml 
+114.66716768292677,[3] net_rx(softirq)
+69.27329573170731,[PID 3890] containerd --config /var/run/docker/containerd/containerd.toml 
+68.02743902439025,[PID 4440] ffmpeg -re -ss 2211 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+67.17682926829269,[PID 4446] ffmpeg -re -ss 801 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+66.81309756097558,[PID 3888] containerd --config /var/run/docker/containerd/containerd.toml 
+64.69728353658536,[PID 3884] containerd --config /var/run/docker/containerd/containerd.toml 
+58.790121951219454,[PID 18] [rcu_preempt]
+54.53221341463413,[PID 3887] containerd --config /var/run/docker/containerd/containerd.toml 
+42.69616463414635,[PID 3895] containerd --config /var/run/docker/containerd/containerd.toml 
+38.566893292682934,[PID 3897] containerd --config /var/run/docker/containerd/containerd.toml 
+38.15182926829287,toggle_allocation_gate
+32.93696036585365,[PID 3898] containerd --config /var/run/docker/containerd/containerd.toml 
+22.354454268292685,[PID 3900] containerd --config /var/run/docker/containerd/containerd.toml 
+21.617231707317075,[PID 3885] containerd --config /var/run/docker/containerd/containerd.toml 
+19.367378048780516,fb_flashcursor
+17.345884146341447,[PID 4172] powertop --csv --iteration=328 --time=10 
+17.121951219512194,[PID 3795] /usr/bin/dockerd 
+15.798170731707314,watchdog_timer_fn
+13.943597560975615,[PID 4444] ffmpeg -re -ss 801 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+13.26585365853658,[PID 4438] ffmpeg -re -ss 2211 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+10.031554878048743,handle_update
+9.846774390243906,[PID 3892] containerd --config /var/run/docker/containerd/containerd.toml 
+7.7703963414634165,[PID 119] [kcompactd0]
+7.746493902438994,bnx2x_sp_task
+6.6933536585365845,[PID 3891] containerd --config /var/run/docker/containerd/containerd.toml 
+5.315731707317077,[PID 4369] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 0b9efe664111fbbdeb0b6b5b86317e137cbb1ed42b928c26cb8f54c2350dbb0
+5.213750000000001,[PID 4373] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 48289f2a00d6bc9c3d9e77d45d939530bbd55300922445bded331d33208ca71
+4.368932926829272,bnx2x_period_task
+4.050548780487786,[PID 3791] log_proxy -m /var/log/docker.log 
+4.035426829268276,[PID 3793] log_proxy -m /var/log/docker.log 
+3.952743902439045,[PID 3790] log_proxy -m /var/log/docker.log 
+3.9493597560975813,[PID 3792] log_proxy -m /var/log/docker.log 
+3.8874695121951377,pci_pme_list_scan
+3.429774390243903,[PID 3896] containerd --config /var/run/docker/containerd/containerd.toml 
+3.3661280487804874,hrtimer_wakeup
+3.335975609756096,"[PID 4441] socat TCP-LISTEN:8081,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+3.2814329268292703,[66] eth1
+2.951280487804878,"[PID 4435] socat TCP-LISTEN:8080,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+2.6260274390243965,[60] eth0
+1.8764207317073203,kfree_rcu_monitor
+1.7336280487804867,[7] sched(softirq)
+1.0092378048780493,vmstat_shepherd
+0.8716707317073192,lru_add_drain_per_cpu
+0.8477652439024385,flush_memcg_stats_dwork
+0.8428445121951219,[PID 3878] /usr/bin/dockerd 
+0.8056585365853661,[PID 3869] /usr/bin/dockerd 
+0.7908689024390251,[PID 3797] /usr/bin/dockerd 
+0.7189725609756098,[4] block(softirq)
+0.7082164634146355,neigh_managed_work
+0.6059420731707317,[9] RCU(softirq)
+0.5487500000000001,[PID 3872] /usr/bin/dockerd 
+0.5229725609756102,[PID 3798] /usr/bin/dockerd 
+0.5000304878048775,[PID 121] [khugepaged]
+0.45575000000000004,[PID 4026] /usr/bin/dockerd 
+0.42366463414634137,kfree_rcu_work
+0.356954268292683,drm_fb_helper_damage_work
+0.3015243902439025,[PID 4413] runc:[2:INIT]
+0.2954268292682927,[PID 4409] runc:[2:INIT]
+0.26951219512195124,[PID 4365] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 0b9efe664111fbbdeb0b6b5b86317e137cbb1ed42b928c26cb8f54c2350dbb0
+0.25396341463414634,[PID 4368] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 48289f2a00d6bc9c3d9e77d45d939530bbd55300922445bded331d33208ca71
+0.25175304878048815,neigh_periodic_work
+0.24923780487804884,[1] timer(softirq)
+0.24115853658536585,[PID 4226] python3
+0.24044512195121953,delayed_vfree_work
+0.2334176829268292,delayed_work_timer_fn
+0.22408536585365854,[PID 4527] python3
+0.2074817073170732,hpsa_event_monitor_worker
+0.20518292682926828,[PID 4517] python3
+0.20518292682926828,[PID 4389] runc
+0.20202439024390248,[PID 17] [ksoftirqd/0]
+0.1872560975609759,gc_worker
+0.18109756097560975,[PID 4231] python3
+0.1549420731707317,process_timeout
+0.1507835365853658,[PID 31] [ksoftirqd/2]
+0.14642987804878044,blk_mq_run_work_fn
+0.14298780487804877,[PID 4390] runc
+0.14298780487804877,[PID 4334] docker
+0.1407835365853659,netstamp_clear
+0.12208841463414637,[PID 2029] [jbd2/sda3-8]
+0.12129573170731711,[PID 4370] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 0b9efe664111fbbdeb0b6b5b86317e137cbb1ed42b928c26cb8f54c2350dbb0
+0.1196737804878049,[PID 4372] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 0b9efe664111fbbdeb0b6b5b86317e137cbb1ed42b928c26cb8f54c2350dbb0
+0.11310975609756098,[PID 4335] docker
+0.09808231707317072,[PID 4385] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 48289f2a00d6bc9c3d9e77d45d939530bbd55300922445bded331d33208ca71
+0.09725609756097561,[PID 4330] python3
+0.09367682926829268,[PID 3875] /usr/bin/dockerd 
+0.09329268292682928,[PID 4627] python3
+0.09305792682926829,wb_workfn
+0.09187804878048773,[PID 109] [ksoftirqd/15]
+0.09146341463414634,[PID 4331] python3
+0.09085365853658538,[PID 4616] python3
+0.08967073170731706,[PID 4376] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 48289f2a00d6bc9c3d9e77d45d939530bbd55300922445bded331d33208ca71
+0.08170731707317073,[PID 4353] containerd-shim
+0.08170731707317073,[PID 4354] containerd-shim
+0.07574085365853658,[PID 3676] /usr/sbin/chronyd -f /etc/chrony/chrony.conf 
+0.07439024390243902,[PID 4373] containerd-shim
+0.07263414634146344,[PID 3703] /usr/sbin/crond -c /etc/crontabs -f 
+0.07196036585365856,[PID 4381] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 0b9efe664111fbbdeb0b6b5b86317e137cbb1ed42b928c26cb8f54c2350dbb0
+0.07195121951219513,[PID 4639] docker
+0.07195121951219513,[PID 4466] containerd-shim
+0.07115548780487806,[PID 4374] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 48289f2a00d6bc9c3d9e77d45d939530bbd55300922445bded331d33208ca71
+0.07069512195121952,wb_update_bandwidth_workfn
+0.07012499999999999,[PID 4383] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 48289f2a00d6bc9c3d9e77d45d939530bbd55300922445bded331d33208ca71
+0.0698170731707317,[PID 4629] docker
+0.06829268292682926,[PID 4495] containerd-shim
+0.06604878048780483,crng_reseed
+0.059134146341463405,ext4_end_io_rsv_work
+0.056402439024390245,[PID 4489] runc
+0.056402439024390245,[PID 4369] containerd-shim
+0.056402439024390245,[PID 4460] runc
+0.056402439024390245,[PID 4426] runc
+0.052743902439024395,[PID 4421] runc
+0.05217378048780486,[PID 4447] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 0b9efe664111fbbdeb0b6b5b86317e137cbb1ed42b928c26cb8f54c2350dbb0
+0.051524390243902436,[PID 4480] sshd: videoserver@notty 
+0.05039634146341464,flush_to_ldisc
+0.04922560975609758,[PID 4380] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 0b9efe664111fbbdeb0b6b5b86317e137cbb1ed42b928c26cb8f54c2350dbb0
+0.04918597560975613,blk_mq_timeout_work
+0.04695121951219512,"[PID 4446] dmx0:mov,mp4,m4"
+0.04695121951219512,[PID 4333] docker
+0.04611280487804878,[PID 3871] /usr/bin/dockerd 
+0.04223780487804879,[PID 25] [ksoftirqd/1]
+0.042042682926829264,[PID 4439] ffmpeg -re -ss 2211 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.039024390243902446,[PID 4332] docker
+0.037164634146341476,hpsa_monitor_ctlr_worker
+0.035975609756097565,"[PID 4407] socat TCP-LISTEN:8081,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.03567073170731707,"[PID 4408] socat TCP-LISTEN:8080,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.03363109756097562,check_lifetime
+0.03353658536585366,[PID 4209] sshd: videoserver@notty 
+0.02916768292682927,[PID 4449] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 48289f2a00d6bc9c3d9e77d45d939530bbd55300922445bded331d33208ca71
+0.02809451219512197,[PID 396] [kworker/0:8]
+0.027682926829268293,[PID 4627] sh
+0.0276219512195122,[PID 4474] runc
+0.0275030487804878,[PID 79] [ksoftirqd/10]
+0.026960365853658543,[6] tasklet(softirq)
+0.02670731707317073,[PID 4336] docker
+0.026402439024390247,[PID 4502] runc
+0.026018292682926828,[PID 4349] [kworker/u32:1]
+0.025914634146341466,"[PID 4440] dmx0:mov,mp4,m4"
+0.025426829268292685,[PID 4616] sh
+0.024859756097560977,[PID 73] [ksoftirqd/9]
+0.02429878048780488,[PID 4351] containerd-shim
+0.024207317073170732,[PID 4352] containerd-shim
+0.022823170731707323,addrconf_verify_work
+0.021750000000000002,[PID 158] [kworker/u32:5]
+0.02155487804878049,wait_rcu_exp_gp
+0.019939024390243903,[PID 4438] ffmpeg
+0.019847560975609756,[PID 4337] docker
+0.01948780487804878,[PID 38] [kworker/3:0]
+0.019253048780487805,[PID 85] [ksoftirqd/11]
+0.01877743902439025,[PID 61] [ksoftirqd/7]
+0.018414634146341466,[PID 4527] sh
+0.017954268292682925,[PID 97] [ksoftirqd/13]
+0.016795731707317074,hpsa_rescan_ctlr_worker
+0.016457317073170732,[PID 49] [ksoftirqd/5]
+0.016432926829268293,[PID 4331] sh
+0.015317073170731707,[PID 91] [ksoftirqd/12]
+0.015030487804878048,[PID 4341] docker
+0.014634146341463414,[PID 4231] sh
+0.014390243902439023,rht_deferred_worker
+0.01399390243902439,[PID 4340] docker
+0.013189024390243902,idle_cull_fn
+0.013079268292682928,[PID 4338] docker
+0.012713414634146342,[PID 4346] docker
+0.012439024390243903,[PID 3765] log_proxy -m /var/log/docker.log 
+0.011521341463414634,[PID 43] [ksoftirqd/4]
+0.011067073170731707,[PID 4330] sh
+0.010814024390243902,[PID 37] [ksoftirqd/3]
+0.010792682926829267,br_fdb_cleanup
+0.010762195121951219,[PID 4517] sh
+0.010152439024390244,[PID 4339] docker
+0.009664634146341463,bpf_prog_free_deferred
+0.009512195121951221,[PID 4207] sshd: videoserver [priv] 
+0.009390243902439026,[PID 4628] docker
+0.009298780487804878,[PID 4478] sshd: videoserver [priv] 
+0.00923780487804878,[PID 4444] ffmpeg
+0.009176829268292682,[PID 4208] sshd
+0.00900609756097561,mce_timer_fn
+0.008932926829268294,[PID 4479] sshd
+0.008414634146341462,release_one_tty
+0.008399390243902438,tcp_orphan_update
+0.007926829268292685,[PID 142] [kworker/u32:4]
+0.0076829268292682934,[PID 4400] runc
+0.007317073170731707,[PID 4396] runc
+0.007286585365853659,[PID 103] [ksoftirqd/14]
+0.006951219512195121,[PID 4638] docker
+0.006341463414634147,[PID 4472] containerd-shim
+0.0062195121951219515,[PID 4387] runc
+0.006097560975609756,[PID 4395] runc
+0.006097560975609756,[PID 4447] containerd-shim
+0.006079268292682927,sync_hw_clock
+0.00600609756097561,destroy_super_work
+0.005396341463414635,[PID 4305] python3
+0.005213414634146342,[PID 4356] containerd-shim
+0.005213414634146342,[PID 4628] python3
+0.005182926829268293,[PID 4347] docker
+0.005182926829268293,[PID 4383] containerd-shim
+0.005182926829268293,[PID 4638] python3
+0.005179878048780486,[PID 55] [ksoftirqd/6]
+0.005121951219512195,[PID 4642] docker
+0.0050914634146341465,[PID 4632] docker
+0.0050914634146341465,[PID 4589] python3
+0.004939024390243903,[PID 4531] python3
+0.004939024390243903,[PID 4399] runc
+0.004786585365853659,key_garbage_collector
+0.004695121951219513,[PID 4381] containerd-shim
+0.004268292682926829,[PID 4634] docker
+0.004176829268292683,[PID 4348] docker
+0.004146341463414634,[PID 4388] runc
+0.004085365853658537,[PID 4257] python3
+0.003975609756097562,[65] eth0-fp-3
+0.003932926829268293,[PID 4630] docker
+0.003884146341463415,bnx2x_timer
+0.003786585365853658,[PID 1] /sbin/init 
+0.0037804878048780487,[PID 4222] sshd
+0.0037804878048780487,[PID 4225] sshd
+0.0036890243902439027,mix_interrupt_randomness
+0.0036280487804878046,css_free_rwork_fn
+0.003597560975609756,css_release_work_fn
+0.003597560975609756,fsnotify_connector_destroy_work
+0.003597560975609756,drain_local_stock
+0.003597560975609756,srcu_invoke_callbacks
+0.003567073170731707,[PID 4615] sshd
+0.003384146341463415,[PID 4437] sh /stream.sh /videos/chosen.mp4 2211 1800 
+0.00326219512195122,[PID 4441] socat
+0.0031707317073170734,[PID 4451] [crond]
+0.0031097560975609758,[PID 4439] mux0:mpegts
+0.003079268292682927,[PID 4500] containerd-shim
+0.002926829268292683,[PID 4523] sshd
+0.002786585365853659,[PID 67] [ksoftirqd/8]
+0.002762195121951219,[PID 11] [kworker/u32:0]
+0.0024237804878048785,can_stat_update
+0.002405487804878049,inode_switch_wbs_work_fn
+0.00211890243902439,[PID 4443] sh /stream.sh /videos/chosen.mp4 801 1800 
+0.002021341463414634,[PID 4206] [crond]
+0.0020152439024390244,[PID 4450] [crond]
+0.0020121951219512196,[PID 4448] [crond]
+0.0019573170731707317,[PID 4649] [crond]
+0.0013445121951219513,"[PID 4442] socat TCP-LISTEN:8081,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.0013353658536585367,"[PID 4436] socat TCP-LISTEN:8080,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.0012439024390243903,tcp_write_timer
+0.0004786585365853659,[PID 3889] containerd --config /var/run/docker/containerd/containerd.toml 
+0.00044817073170731704,[PID 3893] containerd --config /var/run/docker/containerd/containerd.toml 
+0.00044817073170731704,[50] hpsa0-msix6
+0.0004115853658536586,[PID 4106] sshd
+0.0004085365853658537,[PID 4209] sshd
+0.0004085365853658537,[PID 4480] sshd
+0.00039939024390243905,[PID 3901] containerd --config /var/run/docker/containerd/containerd.toml 
+0.0,[PID 892] [kworker/5:1H]
+0.0,[PID 888] [kworker/8:1H]
+0.0,[52] hpsa0-msix8
+0.0,[PID 4478] sshd
+0.0,[51] hpsa0-msix7
+0.0,[49] hpsa0-msix5
+0.0,tw_timer_handler
+0.0,[PID 900] [kworker/7:1H]
+0.0,[PID 878] [kworker/4:1H]
+0.0,[PID 78] [migration/10]
+0.0,[PID 11] kworker/u32:0
+0.0,[70] eth1-fp-2
+0.0,blk_rq_timed_out_timer
+0.0,[PID 56] [kworker/6:0]
+0.0,[PID 412] [kworker/2:1]
+0.0,[54] hpsa0-msix10
+0.0,writeout_period
+0.0,wq_barrier_func
+0.0,[68] eth1-fp-0
+0.0,[PID 889] [kworker/15:1H]
+0.0,commit_timeout
+0.0,[PID 19] [migration/0]
+0.0,[PID 24] [migration/1]
+0.0,[PID 1021] [kworker/14:1H]
+0.0,[PID 442] [kworker/15:1]
+0.0,[71] eth1-fp-3
+0.0,[PID 3557] [kworker/1:2]
+0.0,[PID 767] [kworker/11:1H]
+0.0,[PID 444] [kworker/11:1]
+0.0,[58] hpsa0-msix14
+0.0,[PID 84] [migration/11]
+0.0,[PID 976] [kworker/10:1H]
+0.0,[PID 102] [migration/14]
+0.0,[PID 108] [migration/15]
+0.0,[PID 60] [migration/7]
+0.0,[PID 72] [migration/9]
+0.0,[PID 66] [migration/8]
+0.0,[PID 36] [migration/3]
+0.0,[PID 42] [migration/4]
+0.0,[PID 48] [migration/5]
+0.0,[PID 30] [migration/2]
+0.0,[PID 54] [migration/6]
+0.0,[PID 90] [migration/12]
+0.0,[PID 3620] /sbin/syslogd -t -n 
+0.0,[46] hpsa0-msix3
+0.0,[PID 942] [kworker/3:1H]
+0.0,tsc_sync_check_timer_fn
+0.0,[2] net tx(softirq)
+0.0,[64] eth0-fp-2
+0.0,[PID 3899] containerd --config /var/run/docker/containerd/containerd.toml 
+0.0,[PID 4207] sshd
+0.0,[62] eth0-fp-0
+0.0,[63] eth0-fp-1
+0.0,[PID 417] [kworker/7:1]
+0.0,[PID 125] [kworker/8:1]
+0.0,[PID 96] [migration/13]
+0.0,vmstat_update
+0.0,[PID 2488] [kworker/4:2]
+0.0,[PID 104] [kworker/14:0]
+0.0,[PID 445] [kworker/10:1]
+0.0,[PID 874] [kworker/6:1H]
+0.0,[69] eth1-fp-1
+0.0,[PID 415] [kworker/5:1]
+0.0,sync_timer_callback
+0.0,[PID 4198] kworker/u32:1
+0.0,addrconf_rs_timer
+0.0,bnx2x_sp_rtnl_task
+0.0,idle_worker_timeout
+0.0,[53] hpsa0-msix9
+0.0,[PID 712] [kworker/9:1H]
+0.0,[PID 4195] [kworker/12:2]
+0.0,[PID 3838] sshd: /usr/sbin/sshd [listener] 0 of 10-100 startups 
+0.0,neigh_timer_handler
+0.0,[PID 4104] sshd
+0.0,[PID 418] [kworker/9:1]
+0.0,[PID 132] [kworker/13:1]
+0.0,dev_watchdog
+0.0,[PID 110] kworker/15:0

@@ -1,0 +1,1347 @@
+PW Estimate (mW),Description
+4095.829573170732,tick_sched_timer
+1484.305771341464,[3] net_rx(softirq)
+728.178719512195,hrtimer_wakeup
+65.04152439024381,[PID 18] [rcu_preempt]
+29.43750000000005,toggle_allocation_gate
+22.199682926829276,[7] sched(softirq)
+20.807317073170733,[PID 8290] ffmpeg -re -ss 508 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+20.642378048780483,[PID 8302] ffmpeg -re -ss 584 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+20.39298780487804,[PID 8284] ffmpeg -re -ss 1692 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+20.325304878048776,[PID 8374] ffmpeg -re -ss 1561 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+20.067682926829267,[PID 8428] ffmpeg -re -ss 739 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+20.004573170731717,[PID 8362] ffmpeg -re -ss 557 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+20.003048780487813,[PID 8386] ffmpeg -re -ss 1646 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.992378048780495,[PID 8494] ffmpeg -re -ss 1694 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.964329268292683,[PID 8320] ffmpeg -re -ss 1380 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.93048780487805,[PID 8458] ffmpeg -re -ss 2418 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.89024390243902,[PID 8350] ffmpeg -re -ss 771 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.874085365853663,[PID 8314] ffmpeg -re -ss 1836 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.84786585365855,[PID 8464] ffmpeg -re -ss 1416 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.835670731707317,[PID 8590] ffmpeg -re -ss 2506 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.802134146341462,[PID 8368] ffmpeg -re -ss 2431 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.7765243902439,[PID 8308] ffmpeg -re -ss 1210 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.73841463414635,[PID 8296] ffmpeg -re -ss 2889 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.721036585365855,[PID 8422] ffmpeg -re -ss 1919 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.716768292682914,[PID 8410] ffmpeg -re -ss 2373 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.69786585365854,[PID 8476] ffmpeg -re -ss 2804 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.695426829268303,[PID 8404] ffmpeg -re -ss 2361 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.690853658536582,[PID 8326] ffmpeg -re -ss 1393 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.676219512195107,[PID 8470] ffmpeg -re -ss 1695 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.670121951219514,[PID 8338] ffmpeg -re -ss 843 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.657012195121947,[PID 8416] ffmpeg -re -ss 1739 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.649085365853658,[PID 8392] ffmpeg -re -ss 2086 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.64207317073171,[PID 8380] ffmpeg -re -ss 2231 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.6140243902439,[PID 8452] ffmpeg -re -ss 1479 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.59756097560976,[PID 8500] ffmpeg -re -ss 212 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.587804878048786,[PID 8398] ffmpeg -re -ss 2542 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.577134146341464,[PID 8614] ffmpeg -re -ss 2341 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.54573170731707,[PID 8356] ffmpeg -re -ss 938 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.534146341463416,[PID 8434] ffmpeg -re -ss 553 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.507317073170736,[PID 8650] ffmpeg -re -ss 1141 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.504268292682923,[PID 8536] ffmpeg -re -ss 1707 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.50060975609757,[PID 8446] ffmpeg -re -ss 2162 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.464634146341464,[PID 8740] ffmpeg -re -ss 1685 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.442073170731696,[PID 8738] ffmpeg -re -ss 969 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.4280487804878,[PID 8584] ffmpeg -re -ss 1242 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.413414634146346,[PID 8524] ffmpeg -re -ss 1007 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.411890243902437,[PID 8344] ffmpeg -re -ss 2208 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.401219512195134,[PID 8608] ffmpeg -re -ss 900 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.3375,[PID 8596] ffmpeg -re -ss 2965 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.33719512195123,[PID 8668] ffmpeg -re -ss 515 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.336585365853665,[PID 8716] ffmpeg -re -ss 349 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.312500000000004,[PID 8578] ffmpeg -re -ss 703 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.25853658536585,[PID 8488] ffmpeg -re -ss 1044 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.25060975609756,[PID 8644] ffmpeg -re -ss 2892 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.244817073170736,[PID 8620] ffmpeg -re -ss 2600 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.231707317073166,[PID 8692] ffmpeg -re -ss 1551 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.20792682926828,[PID 8690] ffmpeg -re -ss 216 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.190548780487802,[PID 8656] ffmpeg -re -ss 2894 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.1890243902439,[PID 8542] ffmpeg -re -ss 2973 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.164634146341463,[PID 8518] ffmpeg -re -ss 1630 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.105792682926833,[PID 8332] ffmpeg -re -ss 2321 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.05762195121952,[PID 8440] ffmpeg -re -ss 2749 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.055182926829268,[PID 8566] ffmpeg -re -ss 2946 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.031707317073167,[PID 8722] ffmpeg -re -ss 727 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.023170731707314,[PID 8554] ffmpeg -re -ss 2941 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.017073170731706,[PID 8752] ffmpeg -re -ss 2693 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.006707317073165,[PID 8674] ffmpeg -re -ss 1318 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.974085365853643,[PID 8680] ffmpeg -re -ss 2591 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.97286585365854,[PID 8632] ffmpeg -re -ss 823 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.955792682926823,[PID 8482] ffmpeg -re -ss 1628 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.93536585365854,[PID 8602] ffmpeg -re -ss 2592 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.91676829268293,[PID 8512] ffmpeg -re -ss 1005 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.868292682926832,[PID 8662] ffmpeg -re -ss 2615 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.85365853658537,[PID 8560] ffmpeg -re -ss 2357 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.791768292682924,[PID 8704] ffmpeg -re -ss 2281 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.788414634146346,[PID 8698] ffmpeg -re -ss 2113 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.788109756097565,[PID 8728] ffmpeg -re -ss 161 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.788109756097562,[PID 8626] ffmpeg -re -ss 652 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.759756097560988,[PID 8758] ffmpeg -re -ss 2526 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.739939024390242,[PID 8506] ffmpeg -re -ss 1276 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.656097560975596,[PID 8746] ffmpeg -re -ss 1106 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.548170731707312,[PID 8638] ffmpeg -re -ss 12 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.489024390243912,[PID 8530] ffmpeg -re -ss 2716 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.442073170731696,[PID 8548] ffmpeg -re -ss 189 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.4030487804878,[PID 8572] ffmpeg -re -ss 1075 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.632317073170743,[PID 8714] ffmpeg -re -ss 2273 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+10.419847560975628,fb_flashcursor
+9.524298780487804,[PID 3840] powertop --csv --iteration=328 --time=10 
+8.566981707317074,watchdog_timer_fn
+5.23493902439025,handle_update
+4.432012195121948,bnx2x_period_task
+4.193658536585377,[PID 118] [kcompactd0]
+3.2385823170731713,[9] RCU(softirq)
+2.2567073170731704,[PID 8336] ffmpeg -re -ss 843 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+2.1631097560975605,[PID 8636] ffmpeg -re -ss 12 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+2.1557926829268306,[PID 8486] ffmpeg -re -ss 1044 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+2.1290243902439085,bnx2x_sp_task
+2.086036585365855,pci_pme_list_scan
+2.0734756097560973,[PID 8570] ffmpeg -re -ss 1075 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+2.054573170731707,[PID 8444] ffmpeg -re -ss 2162 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+2.0238719512195122,delayed_vfree_work
+2.0024390243902443,[PID 8294] ffmpeg -re -ss 2889 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.9896341463414629,[PID 8330] ffmpeg -re -ss 2321 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.9570121951219517,[PID 8432] ffmpeg -re -ss 553 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.9286585365853657,[PID 8306] ffmpeg -re -ss 1210 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.8618902439024387,[PID 8576] ffmpeg -re -ss 703 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.85686280487805,[66] eth1
+1.8365853658536586,[PID 8510] ffmpeg -re -ss 1005 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.818140243902439,[PID 8390] ffmpeg -re -ss 2086 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.7939024390243896,[PID 8378] ffmpeg -re -ss 2231 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.7762195121951225,[PID 8711] ffmpeg -re -ss 2273 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.7685975609756097,[PID 8744] ffmpeg -re -ss 1106 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.7618902439024393,[PID 8348] ffmpeg -re -ss 771 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.7548780487804878,[PID 8702] ffmpeg -re -ss 2281 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.7195121951219519,[PID 8756] ffmpeg -re -ss 2526 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.7097560975609751,[PID 8546] ffmpeg -re -ss 189 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.7054878048780489,[PID 8354] ffmpeg -re -ss 938 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.6667682926829268,[PID 8360] ffmpeg -re -ss 557 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.6615853658536583,[PID 8504] ffmpeg -re -ss 1276 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.6420731707317076,[PID 8696] ffmpeg -re -ss 2113 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.6317073170731704,[PID 8342] ffmpeg -re -ss 2208 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.6274390243902437,[PID 8516] ffmpeg -re -ss 1630 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.619817073170732,[PID 8672] ffmpeg -re -ss 1318 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.6001219512195122,[PID 8480] ffmpeg -re -ss 1628 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.5753048780487804,[PID 8688] ffmpeg -re -ss 1551 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.569207317073171,[PID 8282] ffmpeg -re -ss 1692 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.5557926829268294,[PID 8396] ffmpeg -re -ss 2542 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.5549542682926838,[60] eth0
+1.5307926829268295,[PID 8522] ffmpeg -re -ss 1007 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.526829268292683,[PID 8582] ffmpeg -re -ss 1242 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.5118902439024386,[PID 8660] ffmpeg -re -ss 2615 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.5097560975609758,[PID 8492] ffmpeg -re -ss 1694 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.4792682926829268,[PID 8414] ffmpeg -re -ss 1739 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.470731707317073,[PID 8402] ffmpeg -re -ss 2361 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.4692073170731705,[PID 8528] ffmpeg -re -ss 2716 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.4246951219512196,[PID 8300] ffmpeg -re -ss 584 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.4246951219512196,[PID 8750] ffmpeg -re -ss 2693 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.4131097560975607,[PID 8312] ffmpeg -re -ss 1836 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.401829268292683,[PID 8408] ffmpeg -re -ss 2373 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.3960365853658536,[PID 8426] ffmpeg -re -ss 739 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.3914634146341462,[PID 8600] ffmpeg -re -ss 2592 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.3746951219512198,[PID 8666] ffmpeg -re -ss 515 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.3716463414634148,[PID 8726] ffmpeg -re -ss 161 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.3631097560975607,[PID 8324] ffmpeg -re -ss 1393 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.3612804878048776,[PID 8618] ffmpeg -re -ss 2600 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.3277439024390245,[PID 8318] ffmpeg -re -ss 1380 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.321951219512195,[PID 8678] ffmpeg -re -ss 2591 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.317987804878049,[PID 8462] ffmpeg -re -ss 1416 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.3152439024390241,[PID 8384] ffmpeg -re -ss 1646 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.3079268292682924,[PID 8468] ffmpeg -re -ss 1695 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.28140243902439,[PID 8734] ffmpeg -re -ss 1685 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.2664634146341465,[PID 8552] ffmpeg -re -ss 2941 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.2564024390243906,[PID 8288] ffmpeg -re -ss 508 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.2265243902439025,[PID 8606] ffmpeg -re -ss 900 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.2207317073170731,[PID 8736] ffmpeg -re -ss 969 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.2167682926829266,[PID 8366] ffmpeg -re -ss 2431 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.215548780487805,[PID 8498] ffmpeg -re -ss 212 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.2091463414634145,[PID 8648] ffmpeg -re -ss 1141 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.1911585365853656,[PID 8420] ffmpeg -re -ss 1919 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.1902439024390246,[PID 8624] ffmpeg -re -ss 652 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.1625,[PID 8712] ffmpeg -re -ss 349 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.1341463414634145,[PID 8438] ffmpeg -re -ss 2749 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.0935975609756097,[PID 8684] ffmpeg -re -ss 216 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.0585365853658535,[PID 8630] ffmpeg -re -ss 823 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.0439024390243903,[PID 8594] ffmpeg -re -ss 2965 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.0396341463414636,[PID 8558] ffmpeg -re -ss 2357 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.0314024390243905,[PID 8654] ffmpeg -re -ss 2894 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.0301829268292686,[PID 8474] ffmpeg -re -ss 2804 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.0158536585365852,[PID 8564] ffmpeg -re -ss 2946 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.9628048780487802,[PID 8372] ffmpeg -re -ss 1561 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.9170731707317072,[PID 8588] ffmpeg -re -ss 2506 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.8823780487804879,[PID 8456] ffmpeg -re -ss 2418 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.8798780487804877,[PID 8534] ffmpeg -re -ss 1707 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.8786585365853659,[PID 8642] ffmpeg -re -ss 2892 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.8673780487804877,[PID 8720] ffmpeg -re -ss 727 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.8216768292682927,[PID 8450] ffmpeg -re -ss 1479 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.8044786585365857,kfree_rcu_monitor
+0.7972560975609757,[PID 3876] sshd: videoserver@notty 
+0.7923780487804877,[PID 8540] ffmpeg -re -ss 2973 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.7323170731707316,[PID 8612] ffmpeg -re -ss 2341 -i chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.4335213414634154,lru_add_drain_per_cpu
+0.3657195121951229,neigh_managed_work
+0.32379268292682956,flush_memcg_stats_dwork
+0.2848689024390246,[PID 121] [khugepaged]
+0.2673780487804878,[PID 3878] python3
+0.2621951219512195,[PID 4265] python3
+0.2554878048780488,[PID 5350] python3
+0.25539634146341467,[PID 7925] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288234.400043-60261018706214/AnsiballZ_command.py 
+0.25365853658536586,[PID 4041] python3
+0.2527439024390244,[PID 5954] python3
+0.2521341463414634,[PID 4648] python3
+0.2520426829268293,[PID 7934] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288223.864233-137658292466494/AnsiballZ_command.py 
+0.25204268292682924,[PID 7980] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288238.0087357-43551472640704/AnsiballZ_command.py 
+0.25182926829268293,[PID 5597] python3
+0.25091463414634146,[PID 4037] python3
+0.25054878048780493,[PID 8050] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288223.309038-152621154260269/AnsiballZ_command.py 
+0.2503048780487805,[PID 5818] python3
+0.25,[PID 6111] python3
+0.2496036585365854,[PID 8043] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288217.5953403-257540172503992/AnsiballZ_command.py 
+0.24939024390243902,[PID 5488] python3
+0.24908536585365856,[PID 4596] python3
+0.24847560975609756,[PID 5990] python3
+0.24844512195121946,[PID 8104] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288233.7248552-267183612625464/AnsiballZ_command.py 
+0.24765243902439027,[PID 7860] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288224.5248294-147787371787583/AnsiballZ_command.py 
+0.24692073170731707,[PID 8009] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288222.1065986-248300538496469/AnsiballZ_command.py 
+0.24664634146341466,[PID 4039] python3
+0.24603658536585368,[PID 6152] python3
+0.24600609756097558,[PID 8136] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288221.4847193-9408382764326/AnsiballZ_command.py 
+0.24573170731707317,[PID 4973] python3
+0.24573170731707317,[PID 6039] python3
+0.2455487804878049,[PID 7905] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288229.806521-84636905176703/AnsiballZ_command.py 
+0.24533536585365845,[PID 8123] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288241.3255012-83969701217389/AnsiballZ_command.py 
+0.2448170731707317,[PID 5927] python3
+0.24451219512195124,[PID 6318] /usr/bin/python3 
+0.24451219512195124,[PID 3998] python3
+0.24347560975609756,[PID 8163] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288234.918449-20073925581752/AnsiballZ_command.py 
+0.24329268292682926,[PID 6259] python3
+0.2429878048780488,[PID 4374] python3
+0.2426829268292683,[PID 5263] python3
+0.24216463414634146,[PID 7936] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288219.0034604-135792178437698/AnsiballZ_command.py 
+0.24146341463414636,[PID 4191] python3
+0.24125,[PID 7907] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288216.332492-270452986201541/AnsiballZ_command.py 
+0.24036585365853658,[PID 8083] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288241.0984366-131270799367862/AnsiballZ_command.py 
+0.24018292682926826,[PID 8210] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288243.580335-60338007058658/AnsiballZ_command.py 
+0.23993902439024392,[PID 5340] python3
+0.23926829268292682,[PID 8189] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288243.760674-28794476795777/AnsiballZ_command.py 
+0.23881097560975606,[PID 7913] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288222.7545455-199904913095003/AnsiballZ_command.py 
+0.23871951219512194,[PID 3883] python3
+0.23871951219512194,[PID 6222] python3
+0.23810975609756097,[PID 5854] python3
+0.23789634146341465,[PID 8038] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288217.1103997-114995659831041/AnsiballZ_command.py 
+0.23731707317073175,[PID 8010] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288217.3194764-38097154137718/AnsiballZ_command.py 
+0.23728658536585368,[PID 8074] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288225.4206095-16863327826375/AnsiballZ_command.py 
+0.2371951219512195,[PID 4268] python3
+0.23701219512195126,[PID 8103] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288216.5359447-165961005974844/AnsiballZ_command.py 
+0.23689024390243904,[PID 5584] python3
+0.23689024390243896,[PID 7862] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288226.4423587-218425696987097/AnsiballZ_command.py 
+0.23664634146341462,[PID 8078] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288239.7489998-241806253500023/AnsiballZ_command.py 
+0.23664634146341462,[PID 7931] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288231.7075007-59922388673457/AnsiballZ_command.py 
+0.23658536585365852,[PID 3995] python3
+0.2364939024390244,[PID 7963] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288236.7751167-170808670565423/AnsiballZ_command.py 
+0.23634146341463413,[PID 7977] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288224.8734922-62829997973121/AnsiballZ_command.py 
+0.23567073170731706,[PID 4035] python3
+0.23567073170731706,[PID 5228] python3
+0.23542682926829273,[PID 7962] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288219.3874211-179262937029779/AnsiballZ_command.py 
+0.2353658536585366,[PID 4434] python3
+0.23487804878048782,[PID 7937] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288230.5365906-118171752577666/AnsiballZ_command.py 
+0.2345121951219512,[PID 8115] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288235.17323-188418233389982/AnsiballZ_command.py 
+0.23445121951219514,[PID 4077] python3
+0.23414634146341462,[PID 5118] python3
+0.23414634146341462,[PID 5674] python3
+0.23335365853658535,[PID 8144] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288238.8317263-221640793353968/AnsiballZ_command.py 
+0.23323170731707318,[PID 5925] python3
+0.23313719512195138,kfree_rcu_work
+0.23295731707317072,[PID 8131] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288228.9127345-249587970994925/AnsiballZ_command.py 
+0.23274390243902437,[PID 8170] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288243.162223-272953308084864/AnsiballZ_command.py 
+0.2326219512195122,[PID 5786] python3
+0.2326219512195122,[PID 4975] python3
+0.2326219512195122,[PID 3957] python3
+0.23231707317073172,[PID 4560] python3
+0.23152439024390245,[PID 8143] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288243.0378745-115661781876421/AnsiballZ_command.py 
+0.23149390243902435,[PID 8190] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288244.32821-140410651310238/AnsiballZ_command.py 
+0.23109756097560977,[PID 4937] python3
+0.23091463414634145,[PID 8162] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288243.5356202-214192427935256/AnsiballZ_command.py 
+0.23079268292682928,[PID 5671] python3
+0.23048780487804876,[PID 4828] python3
+0.23048780487804876,[PID 4488] python3
+0.2301829268292683,[PID 4887] python3
+0.2301829268292683,[PID 4489] python3
+0.2299695121951219,[PID 8153] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288241.006501-51045594082277/AnsiballZ_command.py 
+0.22987804878048784,[PID 3999] python3
+0.22987804878048784,[PID 3880] python3
+0.22987804878048784,[PID 6003] python3
+0.22896341463414632,[PID 3919] python3
+0.22865853658536586,[PID 4621] python3
+0.2283536585365854,[PID 4193] python3
+0.2280487804878049,[PID 5378] python3
+0.2280487804878049,[PID 5326] python3
+0.2277439024390244,[PID 5929] python3
+0.22695121951219507,[PID 8212] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288245.0853887-80419696339798/AnsiballZ_command.py 
+0.22695121951219505,[PID 7562] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288200.203275-34754178951765/AnsiballZ_command.py 
+0.22682926829268296,[PID 3993] python3
+0.22652439024390245,[PID 4704] python3
+0.22591463414634144,[PID 5768] python3
+0.22560975609756098,[PID 4250] python3
+0.2248475609756098,[PID 8184] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288243.4586904-50831566280775/AnsiballZ_command.py 
+0.2248170731707317,[PID 8178] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288242.6861377-249007038418696/AnsiballZ_command.py 
+0.22289634146341455,[PID 8030] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288231.1098003-169104559447450/AnsiballZ_command.py 
+0.22289634146341455,[PID 7982] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288238.1752574-188545062824567/AnsiballZ_command.py 
+0.2228658536585366,[PID 5513] python3
+0.22225609756097564,[PID 5289] python3
+0.22109756097560976,[PID 7809] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288227.5870748-65591062542697/AnsiballZ_command.py 
+0.22030487804878052,[PID 8201] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288244.349982-55580025157351/AnsiballZ_command.py 
+0.22012195121951217,[PID 8108] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288228.0091908-52633560633001/AnsiballZ_command.py 
+0.21859756097560978,[PID 6296] python3
+0.2173780487804878,[PID 4935] python3
+0.21432926829268292,[PID 4400] python3
+0.21280487804878048,[PID 4121] python3
+0.21097560975609758,[PID 4782] python3
+0.2100914634146341,[PID 7571] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288206.4489937-235056060369054/AnsiballZ_command.py 
+0.20853658536585368,[PID 7881] python3
+0.20682926829268292,[PID 7754] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288213.377368-11085822961961/AnsiballZ_command.py 
+0.20676829268292676,[PID 7611] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288199.8985226-212410216468434/AnsiballZ_command.py 
+0.20435975609756096,[PID 7640] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288198.801197-65601304781232/AnsiballZ_command.py 
+0.20237804878048782,[PID 7669] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288207.3716283-127515915676668/AnsiballZ_command.py 
+0.19771341463414627,[PID 7605] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288197.2950473-212862586029846/AnsiballZ_command.py 
+0.19680487804878063,drm_fb_helper_damage_work
+0.19634146341463418,[PID 4115] python3
+0.19556402439024387,[PID 17] [ksoftirqd/0]
+0.1951219512195122,[PID 4740] python3
+0.19451219512195123,[PID 4119] python3
+0.19207317073170732,[PID 7878] python3
+0.19176829268292683,[PID 5712] python3
+0.19115853658536586,[PID 7897] python3
+0.1908536585365853,[PID 7418] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288186.0595925-193262952897012/AnsiballZ_command.py 
+0.1894512195121951,[PID 7742] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288211.8591301-63038520753612/AnsiballZ_command.py 
+0.18814024390243897,[PID 7406] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288186.2686357-23727514234966/AnsiballZ_command.py 
+0.18628048780487805,[PID 7893] python3
+0.18506097560975612,[PID 7869] python3
+0.18353658536585368,[PID 7875] python3
+0.18292682926829268,[PID 7984] python3
+0.18292682926829268,[PID 4117] python3
+0.1826219512195122,[PID 8016] python3
+0.1823170731707317,[PID 7987] python3
+0.1823170731707317,[PID 8022] python3
+0.1823170731707317,[PID 8017] python3
+0.18140243902439024,[PID 8065] python3
+0.18140243902439024,[PID 8027] python3
+0.18140243902439024,[PID 8049] python3
+0.18109756097560975,[PID 8058] python3
+0.18079268292682926,[PID 8020] python3
+0.18079268292682926,[PID 7996] python3
+0.1804878048780488,[PID 8019] python3
+0.1804878048780488,[PID 8031] python3
+0.1804878048780488,[PID 7981] python3
+0.18018292682926831,[PID 7946] python3
+0.1801829268292683,[PID 7464] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288195.7278662-211673508046960/AnsiballZ_command.py 
+0.1798780487804878,[PID 7959] python3
+0.17942073170731704,[PID 7561] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288202.2698023-262450676877067/AnsiballZ_command.py 
+0.1792987804878049,[PID 7368] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288185.2521179-264450420720982/AnsiballZ_command.py 
+0.17926829268292682,[PID 3921] /usr/bin/python3 
+0.17926829268292682,[PID 7894] python3
+0.17926829268292682,[PID 8018] python3
+0.17896341463414636,[PID 8090] python3
+0.17896341463414636,[PID 7889] python3
+0.17896341463414636,[PID 7965] python3
+0.17865853658536587,[PID 7883] python3
+0.17865853658536587,[PID 7994] python3
+0.17835365853658539,[PID 7950] python3
+0.17774390243902438,[PID 7988] python3
+0.17774390243902438,[PID 7942] python3
+0.1773780487804878,[PID 7377] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288188.1833513-83089733499156/AnsiballZ_command.py 
+0.17713414634146343,[PID 7873] python3
+0.17682926829268295,[PID 8002] python3
+0.17664634146341457,[PID 7589] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288204.9786034-160989433189692/AnsiballZ_command.py 
+0.17652439024390243,[PID 7849] python3
+0.17652439024390243,[PID 7876] python3
+0.17652439024390243,[PID 8111] python3
+0.17642073170731706,[4] block(softirq)
+0.17621951219512194,[PID 8113] python3
+0.17524390243902435,[PID 7546] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288208.5525274-14831471304745/AnsiballZ_command.py 
+0.1746951219512195,[PID 7847] python3
+0.1723170731707317,[PID 7693] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288201.218835-219740902462906/AnsiballZ_command.py 
+0.17146341463414635,[PID 7652] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288197.4373024-254893457223000/AnsiballZ_command.py 
+0.17140243902439026,[PID 7676] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288199.6524734-265095712155838/AnsiballZ_command.py 
+0.17124999999999999,[PID 7400] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288190.1951537-55789625892219/AnsiballZ_command.py 
+0.1699390243902439,[PID 7715] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288213.607439-148809118935264/AnsiballZ_command.py 
+0.16981707317073172,"[PID 8572] dmx0:mov,mp4,m4"
+0.16951219512195123,[PID 7841] python3
+0.16951219512195123,[PID 7851] python3
+0.1692682926829268,[PID 7700] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288205.7437954-173182426236765/AnsiballZ_command.py 
+0.16920731707317074,[PID 7837] python3
+0.1676829268292683,[PID 7834] python3
+0.1676829268292683,[PID 7835] python3
+0.16585365853658537,"[PID 8530] dmx0:mov,mp4,m4"
+0.16466463414634147,[PID 7633] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288207.3835988-173782865040660/AnsiballZ_command.py 
+0.16219512195121952,[PID 7459] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288195.569136-82916165790615/AnsiballZ_command.py 
+0.16195121951219507,[PID 7535] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288205.0873091-255884707946550/AnsiballZ_command.py 
+0.1597560975609756,"[PID 8404] dmx0:mov,mp4,m4"
+0.1597256097560975,[PID 7659] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288207.0674324-223448535279690/AnsiballZ_command.py 
+0.15911585365853656,[PID 7482] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288210.5387034-210743356680852/AnsiballZ_command.py 
+0.15765243902439022,[PID 7512] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288208.4636774-46973393131510/AnsiballZ_command.py 
+0.15640243902439024,"[PID 8608] dmx0:mov,mp4,m4"
+0.15609756097560978,[PID 5011] /usr/bin/python3 
+0.1551829268292683,"[PID 8704] dmx0:mov,mp4,m4"
+0.15457317073170734,[PID 7843] python3
+0.15426829268292683,[PID 7777] python3
+0.15417682926829265,[PID 7387] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288193.4063544-231882688843317/AnsiballZ_command.py 
+0.1527439024390244,"[PID 8536] dmx0:mov,mp4,m4"
+0.15030487804878048,"[PID 8410] dmx0:mov,mp4,m4"
+0.1451219512195122,"[PID 8524] dmx0:mov,mp4,m4"
+0.1445121951219512,"[PID 8602] dmx0:mov,mp4,m4"
+0.14390243902439026,"[PID 8518] dmx0:mov,mp4,m4"
+0.14298780487804877,"[PID 8512] dmx0:mov,mp4,m4"
+0.14298780487804877,"[PID 8428] dmx0:mov,mp4,m4"
+0.14268292682926828,[PID 7654] python3
+0.14237804878048782,"[PID 8362] dmx0:mov,mp4,m4"
+0.14237804878048782,"[PID 8380] dmx0:mov,mp4,m4"
+0.14176829268292684,[PID 7528] python3
+0.14115853658536584,[PID 7710] python3
+0.14115853658536584,"[PID 8692] dmx0:mov,mp4,m4"
+0.14115853658536584,"[PID 8482] dmx0:mov,mp4,m4"
+0.14085365853658538,"[PID 8728] dmx0:mov,mp4,m4"
+0.1405487804878049,"[PID 8398] dmx0:mov,mp4,m4"
+0.13993902439024392,[PID 7645] python3
+0.13871951219512196,"[PID 8566] dmx0:mov,mp4,m4"
+0.13841463414634148,"[PID 8738] dmx0:mov,mp4,m4"
+0.1375,"[PID 8284] dmx0:mov,mp4,m4"
+0.13719512195121952,"[PID 8308] dmx0:mov,mp4,m4"
+0.13628048780487806,"[PID 8656] dmx0:mov,mp4,m4"
+0.13597560975609757,"[PID 8506] dmx0:mov,mp4,m4"
+0.1353658536585366,"[PID 8740] dmx0:mov,mp4,m4"
+0.1350609756097561,"[PID 8596] dmx0:mov,mp4,m4"
+0.13353658536585367,"[PID 8698] dmx0:mov,mp4,m4"
+0.1323170731707317,"[PID 8476] dmx0:mov,mp4,m4"
+0.1323170731707317,"[PID 8632] dmx0:mov,mp4,m4"
+0.13170731707317074,"[PID 8578] dmx0:mov,mp4,m4"
+0.13079268292682927,[PID 4483] /usr/bin/python3 
+0.13079268292682927,"[PID 8680] dmx0:mov,mp4,m4"
+0.1307042682926829,neigh_periodic_work
+0.13048780487804879,"[PID 8416] dmx0:mov,mp4,m4"
+0.1301829268292683,"[PID 8290] dmx0:mov,mp4,m4"
+0.1298780487804878,"[PID 8302] dmx0:mov,mp4,m4"
+0.1298780487804878,"[PID 8758] dmx0:mov,mp4,m4"
+0.12957317073170732,[PID 7737] python3
+0.12957317073170732,"[PID 8590] dmx0:mov,mp4,m4"
+0.12957317073170732,"[PID 8320] dmx0:mov,mp4,m4"
+0.12926829268292683,"[PID 8614] dmx0:mov,mp4,m4"
+0.12926829268292683,"[PID 8488] dmx0:mov,mp4,m4"
+0.12896341463414634,"[PID 8332] dmx0:mov,mp4,m4"
+0.12865853658536586,"[PID 8356] dmx0:mov,mp4,m4"
+0.12865853658536586,"[PID 8626] dmx0:mov,mp4,m4"
+0.12835365853658537,"[PID 8470] dmx0:mov,mp4,m4"
+0.1274390243902439,"[PID 8314] dmx0:mov,mp4,m4"
+0.12713414634146342,"[PID 8650] dmx0:mov,mp4,m4"
+0.12713414634146342,"[PID 8464] dmx0:mov,mp4,m4"
+0.12621951219512195,"[PID 8446] dmx0:mov,mp4,m4"
+0.12560975609756098,[PID 7684] python3
+0.1253048780487805,"[PID 8542] dmx0:mov,mp4,m4"
+0.1253048780487805,"[PID 8668] dmx0:mov,mp4,m4"
+0.125,"[PID 8638] dmx0:mov,mp4,m4"
+0.12469512195121951,"[PID 8434] dmx0:mov,mp4,m4"
+0.12408536585365855,"[PID 8350] dmx0:mov,mp4,m4"
+0.12408536585365855,"[PID 8296] dmx0:mov,mp4,m4"
+0.12347560975609756,"[PID 8560] dmx0:mov,mp4,m4"
+0.12347560975609756,"[PID 8368] dmx0:mov,mp4,m4"
+0.12256097560975611,"[PID 8392] dmx0:mov,mp4,m4"
+0.12195121951219512,"[PID 8690] dmx0:mov,mp4,m4"
+0.12195121951219512,[PID 7506] python3
+0.12134146341463414,"[PID 8422] dmx0:mov,mp4,m4"
+0.12134146341463414,[PID 7598] python3
+0.12073170731707318,"[PID 8494] dmx0:mov,mp4,m4"
+0.12042682926829269,"[PID 8548] dmx0:mov,mp4,m4"
+0.12042682926829269,[PID 7827] python3
+0.12012195121951219,"[PID 8644] dmx0:mov,mp4,m4"
+0.1198170731707317,"[PID 8458] dmx0:mov,mp4,m4"
+0.11798780487804879,"[PID 8500] dmx0:mov,mp4,m4"
+0.1176829268292683,"[PID 8746] dmx0:mov,mp4,m4"
+0.11737804878048781,"[PID 8386] dmx0:mov,mp4,m4"
+0.11737804878048781,"[PID 8722] dmx0:mov,mp4,m4"
+0.11707317073170731,[PID 7407] python3
+0.11676829268292682,"[PID 8440] dmx0:mov,mp4,m4"
+0.11676829268292682,[PID 7736] python3
+0.11615853658536586,"[PID 8752] dmx0:mov,mp4,m4"
+0.11585365853658537,[PID 7824] python3
+0.11554878048780488,"[PID 8662] dmx0:mov,mp4,m4"
+0.11524390243902438,"[PID 8452] dmx0:mov,mp4,m4"
+0.11371951219512194,"[PID 8326] dmx0:mov,mp4,m4"
+0.11341463414634148,[PID 7370] python3
+0.11280487804878049,"[PID 8554] dmx0:mov,mp4,m4"
+0.11280487804878049,"[PID 8716] dmx0:mov,mp4,m4"
+0.11189024390243904,[PID 7628] python3
+0.11189024390243904,[PID 7600] python3
+0.11097560975609756,[PID 7688] python3
+0.11006097560975611,"[PID 8674] dmx0:mov,mp4,m4"
+0.10828353658536584,delayed_work_timer_fn
+0.10679878048780478,hpsa_event_monitor_worker
+0.10640243902439024,"[PID 8620] dmx0:mov,mp4,m4"
+0.10609756097560975,"[PID 8338] dmx0:mov,mp4,m4"
+0.10457317073170731,"[PID 8374] dmx0:mov,mp4,m4"
+0.09969512195121952,"[PID 8344] dmx0:mov,mp4,m4"
+0.09939024390243903,"[PID 8584] dmx0:mov,mp4,m4"
+0.09939024390243903,"[PID 8714] dmx0:mov,mp4,m4"
+0.09573170731707317,[PID 7363] python3
+0.09420731707317073,[PID 7454] python3
+0.09329268292682928,[PID 7647] python3
+0.09329268292682928,[PID 7393] python3
+0.09207317073170732,[PID 7564] python3
+0.09176829268292684,[PID 7584] python3
+0.09085365853658538,[PID 7626] python3
+0.08932926829268294,[PID 7661] python3
+0.08932926829268294,[PID 7551] python3
+0.08902439024390243,[PID 7470] python3
+0.08902439024390243,[PID 7552] python3
+0.08628048780487806,[PID 7451] python3
+0.08585365853658536,[PID 8230] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288245.0214489-5873899025613/AnsiballZ_command.py 
+0.08472560975609755,[PID 8242] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288244.713739-149427330855663/AnsiballZ_command.py 
+0.08445121951219513,[PID 7541] python3
+0.08414634146341464,[PID 7382] python3
+0.07359756097560975,[PID 7749] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288215.0936108-37209298270721/AnsiballZ_command.py 
+0.07356707317073172,[PID 7794] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288215.28812-47067798353560/AnsiballZ_command.py 
+0.07353658536585364,[PID 8235] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288245.2158854-33216400078307/AnsiballZ_command.py 
+0.0735060975609756,[PID 7771] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288212.2475219-120523121919898/AnsiballZ_command.py 
+0.0722560975609756,[PID 7396] python3
+0.07052134146341467,[1] timer(softirq)
+0.06981707317073171,ext4_end_io_rsv_work
+0.0698170731707317,[PID 4079] /usr/bin/python3 
+0.06955182926829268,[PID 31] [ksoftirqd/2]
+0.061768292682926836,vmstat_shepherd
+0.059969512195121956,"[PID 8285] socat TCP-LISTEN:8085,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 508 1800 "
+0.058344512195121954,[PID 2027] [jbd2/sda3-8]
+0.05755487804878049,[PID 25] [ksoftirqd/1]
+0.05091463414634146,[PID 5668] python3
+0.04655487804878048,"[PID 8333] socat TCP-LISTEN:8097,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 843 1800 "
+0.045365853658536584,"[PID 8279] socat TCP-LISTEN:8086,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 1692 1800 "
+0.044804878048780486,netstamp_clear
+0.042682926829268296,[PID 8588] ffmpeg
+0.03700914634146343,[PID 3700] /usr/sbin/crond -c /etc/crontabs -f 
+0.03603658536585366,"[PID 8297] socat TCP-LISTEN:8081,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 584 1800 "
+0.03560975609756097,"[PID 8291] socat TCP-LISTEN:8088,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 2889 1800 "
+0.03407012195121952,[PID 109] [ksoftirqd/15]
+0.03384146341463415,"[PID 8303] socat TCP-LISTEN:8083,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 1210 1800 "
+0.03323170731707317,[PID 8318] ffmpeg
+0.032621951219512196,[PID 8648] ffmpeg
+0.032621951219512196,[PID 8438] ffmpeg
+0.032621951219512196,[PID 8504] ffmpeg
+0.032408536585365855,flush_to_ldisc
+0.032378048780487806,release_one_tty
+0.03231707317073171,[PID 8294] ffmpeg
+0.03231707317073171,[PID 8480] ffmpeg
+0.03173475609756098,wb_workfn
+0.031402439024390244,[PID 8654] ffmpeg
+0.031402439024390244,[PID 8734] ffmpeg
+0.031097560975609756,[PID 8486] ffmpeg
+0.030914634146341467,"[PID 8357] socat TCP-LISTEN:8099,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 557 1800 "
+0.029969512195121954,[PID 8750] ffmpeg
+0.029298780487804876,[PID 8336] ffmpeg
+0.028835365853658538,blk_mq_run_work_fn
+0.028140243902439025,[PID 7470] sh
+0.028048780487804875,[PID 7451] sh
+0.02673780487804878,[PID 7393] sh
+0.026426829268292682,crng_reseed
+0.0263109756097561,[PID 7551] sh
+0.02582317073170732,[PID 7552] sh
+0.025426829268292685,[PID 7382] sh
+0.025121951219512197,[PID 7584] sh
+0.0250609756097561,"[PID 8531] socat TCP-LISTEN:8134,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 1707 1800 "
+0.024695121951219513,[PID 3673] /usr/sbin/chronyd -f /etc/chrony/chrony.conf 
+0.024207317073170732,[PID 7647] sh
+0.02400304878048781,hpsa_monitor_ctlr_worker
+0.02399390243902439,[PID 7661] sh
+0.02399390243902439,[PID 7915] python3
+0.02388719512195122,[PID 3617] /sbin/syslogd -t -n 
+0.02375,[PID 7506] sh
+0.023036585365853655,[PID 97] [ksoftirqd/13]
+0.02277439024390244,[PID 7541] sh
+0.022469512195121954,[PID 7688] sh
+0.022103658536585368,"[PID 8411] socat TCP-LISTEN:8102,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 1739 1800 "
+0.021890243902439023,[PID 7628] sh
+0.021493902439024392,[PID 7626] sh
+0.02128048780487805,[PID 7899] python3
+0.02100609756097561,[PID 7855] python3
+0.020914634146341465,[PID 7557] python3
+0.020884146341463416,[PID 7657] python3
+0.020640243902439025,[PID 7909] python3
+0.020609756097560977,[PID 7396] sh
+0.020457317073170733,"[PID 8369] socat TCP-LISTEN:8098,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 1561 1800 "
+0.020365853658536586,"[PID 8375] socat TCP-LISTEN:8080,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 2231 1800 "
+0.020335365853658537,[PID 7600] sh
+0.02027439024390244,[PID 7926] python3
+0.020152439024390244,[PID 7921] python3
+0.020060975609756098,[PID 7858] python3
+0.02,[PID 7457] python3
+0.019939024390243903,[PID 7957] python3
+0.019878048780487805,[PID 7929] python3
+0.019847560975609756,[PID 7510] python3
+0.019573170731707317,[PID 7697] python3
+0.019573170731707317,[PID 7970] python3
+0.01954268292682927,[PID 7544] python3
+0.019420731707317073,[PID 7385] python3
+0.019420731707317073,[PID 7667] python3
+0.019420731707317073,[PID 7976] python3
+0.019390243902439028,[PID 7587] python3
+0.019390243902439028,[PID 7752] python3
+0.019390243902439028,[PID 7691] python3
+0.019329268292682927,[PID 7638] python3
+0.019329268292682927,[PID 7792] python3
+0.019146341463414637,[PID 7769] python3
+0.019146341463414637,[PID 7650] python3
+0.019115853658536585,[PID 7462] python3
+0.018993902439024393,[PID 7631] python3
+0.018993902439024393,[PID 7398] python3
+0.01896341463414634,[PID 7480] python3
+0.018932926829268292,"[PID 8321] socat TCP-LISTEN:8106,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 1393 1800 "
+0.018871951219512198,[PID 7902] python3
+0.01885365853658537,[PID 85] [ksoftirqd/11]
+0.018841463414634146,[PID 7958] python3
+0.018810975609756097,[PID 7674] python3
+0.01871951219512195,[PID 7972] python3
+0.018628048780487808,[PID 7558] python3
+0.018597560975609755,[PID 7932] python3
+0.018567073170731706,"[PID 8351] socat TCP-LISTEN:8093,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 938 1800 "
+0.01853658536585366,[PID 7403] python3
+0.01847560975609756,[PID 7740] python3
+0.01847560975609756,[PID 7533] python3
+0.01847560975609756,[PID 7807] python3
+0.01844512195121951,[PID 7416] python3
+0.01844512195121951,[PID 7366] python3
+0.018384146341463417,[PID 7569] python3
+0.01829268292682927,"[PID 8393] socat TCP-LISTEN:8101,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 2542 1800 "
+0.018109756097560978,[PID 7375] python3
+0.017987804878048783,[PID 7747] python3
+0.017865853658536587,[PID 7598] sh
+0.01771341463414634,[PID 7407] sh
+0.017073170731707315,[PID 7564] sh
+0.016981707317073172,[PID 7554] python3
+0.016826219512195123,check_lifetime
+0.01675,[PID 73] [ksoftirqd/9]
+0.016707317073170733,[PID 7555] python3
+0.016615853658536586,[PID 7553] python3
+0.01652439024390244,"[PID 8399] socat TCP-LISTEN:8100,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 2361 1800 "
+0.016432926829268293,"[PID 8381] socat TCP-LISTEN:8091,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 1646 1800 "
+0.016371951219512196,[PID 7363] sh
+0.016097560975609757,[PID 7454] sh
+0.015945121951219512,"[PID 8309] socat TCP-LISTEN:8082,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 1836 1800 "
+0.01565243902439024,[PID 79] [ksoftirqd/10]
+0.015396341463414634,[PID 7556] python3
+0.015152439024390243,[PID 7508] python3
+0.014972560975609754,[PID 1] /sbin/init 
+0.014771341463414637,[PID 61] [ksoftirqd/7]
+0.014695121951219513,[PID 7415] python3
+0.014695121951219513,"[PID 8405] socat TCP-LISTEN:8092,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 2373 1800 "
+0.014603658536585367,[PID 7655] python3
+0.014603658536585367,[PID 7478] python3
+0.014603658536585367,[PID 7455] python3
+0.014573170731707318,[PID 7479] python3
+0.014420731707317076,"[PID 8339] socat TCP-LISTEN:8084,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 2208 1800 "
+0.014207317073170732,[PID 5668] /usr/bin/python3 
+0.014176829268292685,[PID 7601] python3
+0.014176829268292685,[PID 7531] python3
+0.014146341463414633,[PID 7711] python3
+0.014146341463414633,[PID 7648] python3
+0.014085365853658537,[PID 7383] python3
+0.01405487804878049,[PID 7665] python3
+0.013963414634146342,[PID 7585] python3
+0.013871951219512195,[PID 7370] sh
+0.013780487804878047,[PID 7607] python3
+0.013719512195121951,[PID 7672] python3
+0.013689024390243904,[PID 7509] python3
+0.013658536585365855,[PID 7395] python3
+0.013628048780487805,[PID 7689] python3
+0.013628048780487805,[PID 7656] python3
+0.013597560975609756,[PID 7602] python3
+0.013597560975609756,[PID 7696] python3
+0.013567073170731709,[PID 7608] python3
+0.013567073170731709,[PID 6296] sh
+0.013567073170731709,[PID 3957] /usr/bin/python3 
+0.01353658536585366,[PID 7414] python3
+0.013527439024390246,[PID 91] [ksoftirqd/12]
+0.01350609756097561,[PID 7460] python3
+0.01347560975609756,[PID 7532] python3
+0.01347560975609756,[PID 7649] python3
+0.01347560975609756,[PID 7364] python3
+0.013445121951219514,[PID 7384] python3
+0.013445121951219514,[PID 7636] python3
+0.013414634146341465,[PID 7365] python3
+0.013323170731707318,[PID 7373] python3
+0.01329268292682927,[PID 7630] python3
+0.01326219512195122,[PID 7712] python3
+0.013185975609756097,wb_update_bandwidth_workfn
+0.013170731707317074,[PID 7690] python3
+0.013140243902439024,[PID 7456] python3
+0.013109756097560975,[PID 7542] python3
+0.01304878048780488,[PID 7629] python3
+0.01304878048780488,[PID 7397] python3
+0.013018292682926829,[PID 7586] python3
+0.013018292682926829,[PID 7374] python3
+0.013018292682926829,[PID 7567] python3
+0.01298780487804878,[PID 7666] python3
+0.012957317073170733,[PID 7402] python3
+0.012896341463414635,"[PID 8423] socat TCP-LISTEN:8090,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 739 1800 "
+0.012835365853658538,[PID 7401] python3
+0.01274390243902439,[PID 7673] python3
+0.012704268292682928,[PID 55] [ksoftirqd/6]
+0.012682926829268294,[PID 4596] /usr/bin/python3 
+0.012652439024390245,[PID 7461] python3
+0.012621951219512194,"[PID 8387] socat TCP-LISTEN:8096,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 2086 1800 "
+0.012621951219512194,[PID 7637] python3
+0.012560975609756098,[PID 7568] python3
+0.012560975609756098,[PID 7543] python3
+0.012408536585365854,[PID 4704] /usr/bin/python3 
+0.011920731707317073,"[PID 8327] socat TCP-LISTEN:8105,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 2321 1800 "
+0.011646341463414634,[PID 5081] /usr/bin/python3 
+0.011554878048780488,[PID 103] [ksoftirqd/14]
+0.01139329268292683,[PID 3872] sshd: videoserver [priv] 
+0.011006097560975609,[PID 4117] /usr/bin/python3 
+0.010823170731707316,[PID 4250] /usr/bin/python3 
+0.010795731707317074,blk_mq_timeout_work
+0.010701219512195121,[PID 5674] /usr/bin/python3 
+0.010628048780487806,[PID 37] [ksoftirqd/3]
+0.010609756097560976,[PID 5228] /usr/bin/python3 
+0.010579268292682928,[PID 4560] /usr/bin/python3 
+0.010548780487804879,[PID 4489] /usr/bin/python3 
+0.010396341463414635,[PID 4191] /usr/bin/python3 
+0.01020121951219512,[PID 396] [kworker/0:8]
+0.010182926829268293,[PID 4121] /usr/bin/python3 
+0.010182926829268293,[PID 4115] /usr/bin/python3 
+0.010121951219512195,[PID 5768] /usr/bin/python3 
+0.010030487804878049,[PID 4488] /usr/bin/python3 
+0.010030487804878049,[PID 3995] /usr/bin/python3 
+0.009969512195121951,[PID 5118] /usr/bin/python3 
+0.009939024390243903,[PID 4782] /usr/bin/python3 
+0.009939024390243903,[PID 5378] /usr/bin/python3 
+0.009878048780487807,[PID 5289] /usr/bin/python3 
+0.009847560975609756,[PID 5854] /usr/bin/python3 
+0.009847560975609756,[PID 4621] /usr/bin/python3 
+0.009817073170731709,[PID 4119] /usr/bin/python3 
+0.009695121951219514,[PID 5671] /usr/bin/python3 
+0.009695121951219514,[PID 3998] /usr/bin/python3 
+0.009542682926829268,[PID 6152] sh
+0.00948170731707317,[PID 5712] /usr/bin/python3 
+0.009420731707317073,[PID 3993] /usr/bin/python3 
+0.00931707317073171,[PID 3866] [kworker/u32:2]
+0.009207317073170733,[PID 4648] /usr/bin/python3 
+0.009176829268292682,[PID 3873] sshd
+0.009146341463414635,[PID 4828] /usr/bin/python3 
+0.009054878048780489,[PID 4265] /usr/bin/python3 
+0.009024390243902438,[PID 5818] /usr/bin/python3 
+0.009024390243902438,[PID 3875] sshd
+0.008993902439024391,[PID 5925] /usr/bin/python3 
+0.00896341463414634,[PID 5927] /usr/bin/python3 
+0.00896341463414634,[PID 3874] sshd
+0.008902439024390243,[PID 4193] /usr/bin/python3 
+0.008902439024390243,[PID 3919] sh
+0.008902439024390243,[PID 5340] /usr/bin/python3 
+0.008841463414634146,[PID 4740] /usr/bin/python3 
+0.008810975609756098,[PID 5350] /usr/bin/python3 
+0.008810975609756098,[PID 4268] /usr/bin/python3 
+0.008658536585365853,[PID 5488] /usr/bin/python3 
+0.008597560975609755,[PID 4041] /usr/bin/python3 
+0.00853658536585366,[PID 153] [kworker/u32:5]
+0.00850609756097561,[PID 6111] sh
+0.008445121951219513,[PID 5929] /usr/bin/python3 
+0.008414634146341462,[PID 3999] /usr/bin/python3 
+0.008414634146341462,[PID 5786] /usr/bin/python3 
+0.00839939024390244,hpsa_rescan_ctlr_worker
+0.008353658536585366,[PID 3880] sh
+0.008292682926829269,[PID 4937] /usr/bin/python3 
+0.008292682926829269,[PID 3883] sh
+0.00826219512195122,[PID 6003] /usr/bin/python3 
+0.00826219512195122,[PID 6039] /usr/bin/python3 
+0.008231707317073171,[PID 5990] /usr/bin/python3 
+0.008170731707317073,[PID 5263] /usr/bin/python3 
+0.008140243902439025,[PID 4039] /usr/bin/python3 
+0.008140243902439025,[PID 4035] /usr/bin/python3 
+0.007865853658536585,[PID 4887] /usr/bin/python3 
+0.007865853658536585,[PID 4037] /usr/bin/python3 
+0.007835365853658537,[PID 5326] /usr/bin/python3 
+0.0076829268292682934,[PID 4400] /usr/bin/python3 
+0.0076829268292682934,[PID 5513] /usr/bin/python3 
+0.007530487804878049,[PID 5954] /usr/bin/python3 
+0.0075,[PID 4374] /usr/bin/python3 
+0.0073780487804878045,[PID 3881] sshd
+0.0073475609756097566,[PID 6222] sh
+0.007317073170731707,[PID 6839] python3
+0.007286585365853659,[PID 5181] python3
+0.007195121951219512,"[PID 7372] socat TCP-LISTEN:8081,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 584 1800 "
+0.006890243902439024,[PID 4935] /usr/bin/python3 
+0.00676829268292683,[PID 4434] /usr/bin/python3 
+0.006676829268292683,[PID 3878] sh
+0.006585365853658537,[PID 6259] sh
+0.006280487804878049,[PID 5969] python3
+0.006237804878048781,[PID 67] [ksoftirqd/8]
+0.006167682926829269,tcp_orphan_update
+0.006137195121951219,[PID 43] [ksoftirqd/4]
+0.006128048780487804,[PID 5266] python3
+0.0058628048780487805,mce_timer_fn
+0.005640243902439025,[PID 6725] python3
+0.005640243902439025,[PID 6321] python3
+0.005335365853658537,[PID 4197] python3
+0.005274390243902439,[PID 3980] python3
+0.0052439024390243906,[PID 5891] python3
+0.0052439024390243906,[PID 5489] python3
+0.0052439024390243906,[PID 4581] python3
+0.005152439024390244,[PID 6261] python3
+0.0050914634146341465,[PID 6501] python3
+0.0050914634146341465,[PID 4888] python3
+0.005060975609756098,[PID 4083] python3
+0.0050426829268292684,[PID 49] [ksoftirqd/5]
+0.005030487804878049,[PID 6517] python3
+0.005030487804878049,[PID 5822] python3
+0.005,[PID 6441] python3
+0.005,[PID 6783] python3
+0.005,[PID 4831] python3
+0.004969512195121951,[PID 5666] python3
+0.004969512195121951,[PID 5123] python3
+0.004939024390243903,[PID 5971] python3
+0.004939024390243903,[PID 4084] python3
+0.0049085365853658545,[PID 6370] python3
+0.0049085365853658545,[PID 5418] python3
+0.004878048780487806,[PID 4001] python3
+0.004847560975609757,[PID 6223] python3
+0.004847560975609757,[PID 3923] python3
+0.004847560975609757,[PID 4397] python3
+0.004817073170731708,[PID 6156] python3
+0.004817073170731708,[PID 5525] python3
+0.004786585365853659,[PID 4672] python3
+0.004740853658536585,[PID 7320] sshd: videoserver@internal-sftp 
+0.004725609756097562,[PID 5264] python3
+0.004725609756097562,[PID 4668] python3
+0.004725609756097562,[PID 5784] python3
+0.004725609756097562,[PID 6005] python3
+0.004725609756097562,[PID 4600] python3
+0.004695121951219513,[PID 3885] python3
+0.004695121951219513,[PID 6225] python3
+0.004664634146341464,[PID 4526] python3
+0.004664634146341464,[PID 6427] python3
+0.004664634146341464,[PID 6117] python3
+0.004664634146341464,[PID 5382] python3
+0.004634146341463415,[PID 5086] python3
+0.004634146341463415,[PID 5120] python3
+0.004634146341463415,[PID 6354] python3
+0.0046036585365853665,[PID 5856] python3
+0.0046036585365853665,[PID 5743] python3
+0.0046036585365853665,[PID 6549] python3
+0.0046036585365853665,[PID 4269] python3
+0.004573170731707318,[PID 4307] python3
+0.004573170731707318,[PID 4372] python3
+0.004573170731707318,[PID 4775] python3
+0.004573170731707318,[PID 5933] python3
+0.004573170731707318,[PID 4786] python3
+0.004573170731707318,[PID 6590] python3
+0.004573170731707318,[PID 4196] python3
+0.004542682926829268,[PID 4707] python3
+0.004542682926829268,[PID 6630] python3
+0.004542682926829268,[PID 5017] python3
+0.004542682926829268,[PID 5486] python3
+0.004542682926829268,[PID 5343] python3
+0.004542682926829268,[PID 5019] python3
+0.004542682926829268,[PID 6043] python3
+0.004542682926829268,[PID 6669] python3
+0.004512195121951219,[PID 4124] python3
+0.004512195121951219,[PID 5304] python3
+0.004512195121951219,[PID 5747] python3
+0.004512195121951219,[PID 4903] python3
+0.004512195121951219,[PID 4127] python3
+0.004512195121951219,[PID 4446] python3
+0.00448170731707317,[PID 6109] python3
+0.00448170731707317,[PID 5677] python3
+0.004451219512195122,[PID 5196] python3
+0.004359756097560975,[PID 4485] /usr/bin/python3 
+0.004207317073170731,[PID 6876] sshd
+0.004152439024390244,[PID 8759] [kworker/u32:0]
+0.004073170731707316,[PID 8764] [kworker/u32:2]
+0.004024390243902439,[PID 7367] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288185.2521179-264450420720982/async_wrapper.py 5200
+0.004024390243902439,[PID 7376] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288188.1833513-83089733499156/async_wrapper.py 21341
+0.0039634146341463415,[PID 6919] sshd
+0.003932926829268293,[PID 6613] sshd
+0.003932926829268293,[PID 7386] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288193.4063544-231882688843317/async_wrapper.py 2102
+0.0038719512195121955,[PID 5780] sshd
+0.0038719512195121955,[PID 4809] python3
+0.0038414634146341467,[PID 7375] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288188.1833513-83089733499156/async_wrapper.py 21341
+0.0038109756097560975,[PID 4806] python3
+0.0038109756097560975,[PID 7416] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288186.0595925-193262952897012/async_wrapper.py 2944
+0.0038109756097560975,[PID 5713] python3
+0.0037804878048780487,[PID 4562] python3
+0.0037804878048780487,[PID 7265] sshd
+0.0037804878048780487,[PID 4595] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.0037804878048780487,[PID 6861] python3
+0.0037804878048780487,[PID 5244] python3
+0.00375,[PID 5197] python3
+0.00375,[PID 6777] python3
+0.00375,[PID 5714] python3
+0.00375,[PID 4851] python3
+0.00375,[PID 4171] python3
+0.00374390243902439,[PID 7323] sshd: videoserver@internal-sftp 
+0.0037408536585365852,[PID 7324] sshd: videoserver@internal-sftp 
+0.003719512195121951,[PID 8120] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288241.3255012-83969701217389/async_wrapper.py 37194
+0.003719512195121951,[PID 6277] python3
+0.003719512195121951,[PID 5988] python3
+0.003719512195121951,[PID 6336] python3
+0.003719512195121951,[PID 4366] python3
+0.0036890243902439022,[PID 4493] python3
+0.0036890243902439022,[PID 6278] python3
+0.0036890243902439022,[PID 4172] python3
+0.0036890243902439022,[PID 6484] python3
+0.0036890243902439022,[PID 3939] python3
+0.0036890243902439022,[PID 5198] python3
+0.0036890243902439022,[PID 5284] python3
+0.0036890243902439022,[PID 7650] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288197.4373024-254893457223000/async_wrapper.py 8061
+0.0036890243902439022,[PID 4207] python3
+0.0036890243902439022,[PID 4602] python3
+0.0036890243902439022,[PID 7273] sshd: videoserver@internal-sftp 
+0.0036585365853658534,[PID 3969] python3
+0.0036585365853658534,[PID 4379] python3
+0.003606707317073171,idle_cull_fn
+0.003597560975609756,[PID 6887] sshd
+0.003567073170731707,[PID 7275] sshd: videoserver@internal-sftp 
+0.003536585365853658,[PID 6067] python3
+0.0035060975609756094,[PID 7403] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288186.2686357-23727514234966/async_wrapper.py 21866
+0.0035060975609756094,[PID 7398] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288190.1951537-55789625892219/async_wrapper.py 20936
+0.0034756097560975606,[PID 7092] sshd
+0.0034756097560975606,[PID 6508] python3
+0.003445121951219512,[PID 7366] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288185.2521179-264450420720982/async_wrapper.py 5200
+0.003414634146341464,[PID 7385] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288193.4063544-231882688843317/async_wrapper.py 2102
+0.003384146341463415,[PID 7246] sshd
+0.003384146341463415,[PID 6819] sshd
+0.003384146341463415,[PID 6822] sshd
+0.0033536585365853662,[PID 7075] sshd
+0.0033231707317073174,[PID 7282] sshd: videoserver@internal-sftp 
+0.0032926829268292686,[PID 5767] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.0032926829268292686,[PID 6804] sshd
+0.0032926829268292686,[PID 6812] sshd
+0.00326219512195122,[PID 3994] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.00326219512195122,[PID 4808] python3
+0.003231707317073171,[PID 6788] sshd
+0.003231707317073171,[PID 6790] sshd
+0.003201219512195122,[PID 7404] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288186.2686357-23727514234966/async_wrapper.py 21866
+0.003201219512195122,[PID 7247] sshd: videoserver@internal-sftp 
+0.0031707317073170734,[PID 7399] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288190.1951537-55789625892219/async_wrapper.py 20936
+0.0031707317073170734,[PID 6818] sshd
+0.0031402439024390246,[PID 6809] sshd
+0.0031402439024390246,[PID 7251] sshd
+0.0031402439024390246,[PID 6740] stat
+0.003079268292682927,[PID 7458] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288195.569136-82916165790615/async_wrapper.py 358540
+0.002945121951219512,[PID 7065] sh
+0.0029176829268292683,[PID 7511] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288208.4636774-46973393131510/async_wrapper.py 56836
+0.0029115853658536585,[PID 6740] python3
+0.0029085365853658536,[PID 7494] sshd: videoserver@internal-sftp 
+0.002899390243902439,[PID 6880] sh
+0.0028871951219512195,[PID 7169] sshd
+0.002878048780487805,[PID 6710] sshd
+0.0028597560975609755,[PID 7018] sh
+0.002829268292682927,[PID 7033] sh
+0.0028170731707317077,[PID 7224] sshd
+0.0028140243902439028,[PID 6707] sshd
+0.002807926829268293,"[PID 7380] socat TCP-LISTEN:8086,reuseaddr,fork SYSTEM:sh  /home/videoserver/native/stream.sh chosen.mp4 1692 1800 "
+0.002780487804878049,[PID 7132] sshd
+0.0027713414634146344,[PID 7146] sshd
+0.0027713414634146344,[PID 7200] sh
+0.0027682926829268296,[PID 7204] sshd
+0.0027652439024390247,[PID 7419] sshd
+0.0027469512195121954,[PID 7481] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288210.5387034-210743356680852/async_wrapper.py 4469
+0.0027408536585365856,[PID 7210] sshd
+0.0027408536585365856,[PID 7176] sshd
+0.0027378048780487808,[PID 7177] sshd
+0.002728658536585366,[PID 7168] sshd
+0.002728658536585366,[PID 7175] sshd
+0.002728658536585366,[PID 7223] sshd
+0.002728658536585366,[PID 7222] sshd
+0.0027256097560975612,[PID 7211] sshd
+0.0027164634146341466,[PID 5027] python3
+0.0027134146341463417,[PID 7167] sshd
+0.0027134146341463417,[PID 5020] python3
+0.002710365853658537,[PID 7098] sh
+0.002707317073170732,[PID 4336] python3
+0.002701219512195122,[PID 7096] sh
+0.0026920731707317075,[PID 7086] sh
+0.0026859756097560978,[PID 4760] python3
+0.0026859756097560978,[PID 5764] python3
+0.002682926829268293,[PID 5705] python3
+0.002682926829268293,[PID 4367] python3
+0.002676829268292683,[PID 7123] sh
+0.002676829268292683,[PID 5986] python3
+0.002676829268292683,[PID 7115] sh
+0.0026707317073170734,[PID 5156] python3
+0.0026707317073170734,[PID 5472] python3
+0.0026646341463414636,[PID 5038] python3
+0.0026615853658536587,[PID 4259] python3
+0.0026615853658536587,[PID 4803] python3
+0.002658536585365854,[PID 4812] python3
+0.002658536585365854,[PID 5188] python3
+0.002658536585365854,[PID 4298] python3
+0.002658536585365854,[PID 5032] python3
+0.002655487804878049,[PID 5185] python3
+0.002655487804878049,[PID 4333] python3
+0.002652439024390244,[PID 5732] python3
+0.002652439024390244,[PID 4737] python3
+0.002652439024390244,[PID 5964] python3
+0.002652439024390244,[PID 4256] python3
+0.002652439024390244,[PID 5026] python3
+0.002649390243902439,[PID 5955] python3
+0.0026463414634146343,[PID 5285] python3
+0.0026463414634146343,[PID 4628] python3
+0.0026432926829268294,[PID 4736] python3
+0.0026402439024390246,[PID 6069] python3
+0.0026371951219512197,[PID 5033] python3
+0.0026371951219512197,[PID 5903] python3
+0.002634146341463415,[PID 5238] python3
+0.002634146341463415,[PID 5241] python3
+0.00263109756097561,[PID 5900] python3
+0.00263109756097561,[PID 5961] python3
+0.002628048780487805,[PID 5897] python3
+0.002625,[PID 5039] python3
+0.0026219512195121953,[PID 7277] sshd: videoserver@internal-sftp 
+0.0026219512195121953,[PID 4401] python3
+0.0026189024390243904,[PID 5442] python3
+0.0026189024390243904,[PID 4103] python3
+0.0026158536585365855,[PID 4503] python3
+0.002606707317073171,[PID 5022] python3
+0.002606707317073171,[PID 5183] python3
+0.002606707317073171,[PID 4890] python3
+0.002603658536585366,[PID 4206] python3
+0.0025975609756097562,[PID 5733] python3
+0.0025975609756097562,[PID 7067] sshd
+0.0025945121951219514,[PID 4435] python3
+0.0025914634146341465,[PID 5021] python3
+0.0025914634146341465,[PID 5366] python3
+0.0025884146341463416,[PID 4728] python3
+0.0025884146341463416,[PID 4254] python3
+0.002582317073170732,[PID 4805] python3
+0.002582317073170732,[PID 5788] python3
+0.002579268292682927,[PID 5477] python3
+0.002576219512195122,[PID 5401] python3
+0.002576219512195122,[PID 5859] python3
+0.002573170731707317,[PID 5192] python3
+0.002573170731707317,[PID 4563] python3
+0.002573170731707317,[PID 7271] sshd: videoserver@internal-sftp 
+0.002573170731707317,[PID 5647] python3
+0.002573170731707317,[PID 5124] python3
+0.0025701219512195123,[PID 5637] python3
+0.0025701219512195123,[PID 4342] python3
+0.0025670731707317074,[PID 4530] python3
+0.0025640243902439025,[PID 7064] sshd
+0.0025609756097560977,[PID 4673] python3
+0.0025609756097560977,[PID 4134] python3
+0.0025609756097560977,[PID 6037] python3
+0.0025609756097560977,[PID 4709] python3
+0.002557926829268293,[PID 7026] sshd
+0.002554878048780488,[PID 7016] sshd
+0.002551829268292683,[PID 4916] python3
+0.002548780487804878,[PID 4373] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.0025457317073170733,[PID 4231] python3
+0.0025457317073170733,[PID 4205] python3
+0.0025426829268292684,[PID 4833] python3
+0.0025396341463414635,[PID 4522] python3
+0.0025396341463414635,[PID 4884] python3
+0.0025365853658536586,[PID 4135] python3
+0.0025365853658536586,[PID 4104] python3
+0.0025365853658536586,[PID 5906] python3
+0.0025335365853658537,[PID 4436] python3
+0.0025335365853658537,[PID 7268] sshd
+0.0025335365853658537,[PID 4650] python3
+0.0025335365853658537,[PID 4850] python3
+0.0025335365853658537,[PID 5648] python3
+0.002530487804878049,[PID 4361] python3
+0.002530487804878049,[PID 5875] python3
+0.002527439024390244,[PID 7322] sshd: videoserver@internal-sftp 
+0.002527439024390244,[PID 4729] python3
+0.002527439024390244,[PID 5928] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.002527439024390244,[PID 7267] sshd
+0.002524390243902439,[PID 4359] python3
+0.002524390243902439,[PID 5951] python3
+0.002524390243902439,[PID 4873] python3
+0.0025213414634146342,[PID 5824] python3
+0.0025182926829268293,[PID 5799] python3
+0.0025182926829268293,[PID 7205] sshd
+0.0025182926829268293,[PID 4309] python3
+0.0025182926829268293,[PID 4402] python3
+0.0025152439024390245,[PID 4852] python3
+0.0025152439024390245,[PID 4546] python3
+0.0025152439024390245,[PID 4750] python3
+0.0025152439024390245,[PID 4152] python3
+0.0025121951219512196,[PID 4021] python3
+0.0025121951219512196,[PID 7195] sshd
+0.0025091463414634147,[PID 5749] python3
+0.0025091463414634147,[PID 3988] python3
+0.0025091463414634147,[PID 5922] python3
+0.002503048780487805,[PID 4274] python3
+0.002503048780487805,[PID 4418] python3
+0.002503048780487805,[PID 7236] sshd
+0.0025,[PID 4334] python3
+0.0024939024390243903,[PID 4085] python3
+0.0024939024390243903,[PID 3918] sshd
+0.0024939024390243903,[PID 4420] python3
+0.0024908536585365854,[PID 3900] python3
+0.0024878048780487805,[PID 7807] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288227.5870748-65591062542697/async_wrapper.py 62123
+0.0024878048780487805,[PID 8006] /usr/bin/python3 /home/videoserver/.ansible/tmp/ansible-tmp-1717288217.3194764-38097154137718/async_wrapper.py 12354
+0.0024847560975609756,[PID 7170] sshd
+0.0024817073170731708,[PID 3978] python3
+0.002478658536585366,[PID 4016] python3
+0.002478658536585366,[PID 7183] sshd
+0.002478658536585366,[PID 7194] sshd
+0.0024756097560975614,[PID 7225] sshd
+0.0024756097560975614,[PID 7212] sshd
+0.0024756097560975614,[PID 7178] sshd
+0.0024725609756097566,[PID 7189] sshd
+0.0024725609756097566,[PID 3898] python3
+0.0024542682926829273,[PID 7217] sshd
+0.0024512195121951224,[PID 4030] python3
+0.0024512195121951224,[PID 7269] sshd
+0.0024481707317073175,[PID 3952] python3
+0.0024481707317073175,[PID 3949] python3
+0.0024298780487804882,sync_hw_clock
+0.0024207317073170736,[PID 7278] sshd: videoserver@internal-sftp 
+0.002414634146341464,[PID 7230] sshd
+0.002411585365853659,[PID 7266] sshd
+0.002408536585365854,bpf_prog_free_deferred
+0.002405487804878049,[PID 7138] sshd
+0.00238109756097561,[PID 7274] sshd: videoserver@internal-sftp 
+0.002359756097560976,[PID 7272] sshd: videoserver@internal-sftp 
+0.002353658536585366,[PID 7321] sshd: videoserver@internal-sftp 
+0.0023475609756097564,[PID 7270] sshd: videoserver@internal-sftp 
+0.0023262195121951223,[PID 3911] python3
+0.002286585365853659,[PID 7276] sshd: videoserver@internal-sftp 
+0.0022774390243902438,[PID 7326] sshd: videoserver@internal-sftp 
+0.002268292682926829,[PID 3907] python3
+0.0022530487804878047,[PID 7184] sshd
+0.00225,[PID 7346] sshd
+0.002240853658536585,[PID 7262] sshd
+0.0022347560975609754,[PID 7327] sshd: videoserver@internal-sftp 
+0.0022347560975609754,[PID 3982] python3
+0.002219512195121951,[PID 3935] python3
+0.002216463414634146,[PID 7139] sshd
+0.0022073170731707315,[PID 4007] python3
+0.0022042682926829266,[PID 7151] sshd
+0.0021829268292682925,[PID 7279] sshd: videoserver@internal-sftp 
+0.0021768292682926827,[PID 7017] sshd
+0.0021585365853658534,[PID 7041] sshd
+0.0021585365853658534,[PID 7028] sshd
+0.0021554878048780485,[PID 7281] sshd: videoserver@internal-sftp 
+0.0021493902439024388,[PID 7027] sshd
+0.0021371951219512192,[PID 7071] sshd
+0.0021280487804878046,[PID 7062] sshd
+0.0021249999999999997,[PID 7280] sshd: videoserver@internal-sftp 
+0.0021249999999999997,[PID 7047] sshd
+0.0021249999999999997,[PID 7046] sshd
+0.002121951219512195,[PID 7006] sshd
+0.00211890243902439,[PID 3985] python3
+0.00211280487804878,[PID 3984] python3
+0.00211280487804878,[PID 7061] sshd
+0.0021097560975609753,[PID 7048] sshd
+0.0021097560975609753,[PID 7011] sshd
+0.0021067073170731704,[PID 3910] python3
+0.0021036585365853656,[PID 3992] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.0021006097560975607,[PID 7063] sshd
+0.0021006097560975607,[PID 7145] sshd
+0.002097560975609756,[PID 3916] python3
+0.0020945121951219513,[PID 7308] sshd
+0.0020945121951219513,[PID 7261] sshd
+0.0020914634146341465,[PID 4036] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.002073170731707317,[PID 3913] python3
+0.0020701219512195123,[PID 4038] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.0020640243902439025,[PID 3920] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.0020640243902439025,[PID 7231] sshd
+0.0020640243902439025,[PID 4040] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.0020609756097560977,[PID 7162] sshd
+0.0020609756097560977,[PID 7133] sshd
+0.0020579268292682928,[PID 7140] sshd
+0.002048780487804878,[PID 7306] sshd: videoserver@internal-sftp 
+0.002048780487804878,[PID 3926] python3
+0.0020457317073170733,[PID 3987] python3
+0.0020457317073170733,[PID 3996] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.0020426829268292684,[PID 3908] python3
+0.0020396341463414635,[PID 3990] python3
+0.0020396341463414635,[PID 7157] sshd
+0.0020365853658536586,[PID 4034] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.0020365853658536586,[PID 7286] sshd: videoserver@internal-sftp 
+0.0020335365853658537,[PID 7241] sshd
+0.0020335365853658537,[PID 7290] sshd: videoserver@internal-sftp 
+0.002027439024390244,[PID 3882] sshd
+0.002024390243902439,[PID 4013] python3
+0.002021341463414634,[PID 3932] python3
+0.002021341463414634,[PID 7259] sshd
+0.002021341463414634,[PID 3877] sshd
+0.0020152439024390244,[PID 9245] [crond]
+0.0020152439024390244,[PID 7328] sshd: videoserver@internal-sftp 
+0.0020121951219512196,[PID 3983] python3
+0.0020121951219512196,[PID 7287] sshd: videoserver@internal-sftp 
+0.0020121951219512196,[PID 7082] sshd
+0.0020091463414634147,[PID 7152] sshd
+0.0020091463414634147,[PID 3871] [crond]
+0.00200609756097561,[PID 4004] python3
+0.00200609756097561,[PID 3879] sshd
+0.00200609756097561,[PID 3997] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.002003048780487805,[PID 3989] python3
+0.002003048780487805,[PID 7285] sshd: videoserver@internal-sftp 
+0.001996951219512195,[PID 4009] python3
+0.0019908536585365854,[PID 7079] sshd
+0.0019878048780487805,[PID 3927] python3
+0.0019847560975609756,[PID 7304] sshd: videoserver@internal-sftp 
+0.0019817073170731708,[PID 7308] sshd: videoserver@internal-sftp 
+0.0019664634146341464,[PID 7117] sshd
+0.0019634146341463415,[PID 7325] sshd: videoserver@internal-sftp 
+0.0019603658536585366,[PID 7114] sshd
+0.0019603658536585366,[PID 7288] sshd: videoserver@internal-sftp 
+0.0019512195121951222,[PID 7313] sshd: videoserver@internal-sftp 
+0.0019481707317073173,[PID 7284] sshd: videoserver@internal-sftp 
+0.0019420731707317075,[PID 7255] sshd
+0.0019390243902439026,[PID 7289] sshd: videoserver@internal-sftp 
+0.0019329268292682929,[PID 7254] sshd
+0.0019329268292682929,[PID 7252] sshd
+0.0019085365853658538,[PID 7294] sshd: videoserver@internal-sftp 
+0.0019054878048780487,[PID 7283] sshd: videoserver@internal-sftp 
+0.0018841463414634146,[PID 7291] sshd: videoserver@internal-sftp 
+0.0018841463414634146,[PID 7305] sshd: videoserver@internal-sftp 
+0.0018780487804878048,[PID 7300] sshd: videoserver@internal-sftp 
+0.0018780487804878048,[PID 7250] sshd
+0.001875,[PID 7297] sshd: videoserver@internal-sftp 
+0.001875,[PID 7302] sshd: videoserver@internal-sftp 
+0.001871951219512195,[PID 7296] sshd: videoserver@internal-sftp 
+0.0018567073170731706,[PID 7301] sshd: videoserver@internal-sftp 
+0.0018567073170731706,[PID 7312] sshd: videoserver@internal-sftp 
+0.0018536585365853658,[PID 7295] sshd: videoserver@internal-sftp 
+0.001847560975609756,[PID 7331] sshd: videoserver@internal-sftp 
+0.0018414634146341462,[PID 7292] sshd: videoserver@internal-sftp 
+0.0018323170731707316,[PID 7333] sshd: videoserver@internal-sftp 
+0.001823170731707317,[PID 7329] sshd: videoserver@internal-sftp 
+0.0018170731707317072,[PID 7335] sshd: videoserver@internal-sftp 
+0.0018079268292682926,[PID 7298] sshd: videoserver@internal-sftp 
+0.0018079268292682926,[PID 7303] sshd: videoserver@internal-sftp 
+0.0018018292682926828,[PID 7293] sshd: videoserver@internal-sftp 
+0.001798780487804878,[PID 7307] sshd: videoserver@internal-sftp 
+0.001798780487804878,[PID 7330] sshd: videoserver@internal-sftp 
+0.001795731707317073,[PID 7332] sshd: videoserver@internal-sftp 
+0.0017835365853658535,[PID 7311] sshd: videoserver@internal-sftp 
+0.0017835365853658535,[PID 7299] sshd: videoserver@internal-sftp 
+0.001768292682926829,[PID 7314] sshd: videoserver@internal-sftp 
+0.0017652439024390242,[PID 7336] sshd: videoserver@internal-sftp 
+0.0017652439024390242,[PID 7309] sshd: videoserver@internal-sftp 
+0.0017499999999999998,[PID 7316] sshd: videoserver@internal-sftp 
+0.0017378048780487803,[PID 7318] sshd: videoserver@internal-sftp 
+0.0017256097560975608,[PID 7317] sshd: videoserver@internal-sftp 
+0.001722560975609756,[PID 7334] sshd: videoserver@internal-sftp 
+0.0017164634146341461,[PID 7319] sshd: videoserver@internal-sftp 
+0.0017134146341463417,[PID 7344] sshd: videoserver@internal-sftp 
+0.0017134146341463417,[PID 7338] sshd: videoserver@internal-sftp 
+0.0017103658536585368,[PID 7342] sshd: videoserver@internal-sftp 
+0.001704268292682927,[PID 7343] sshd: videoserver@internal-sftp 
+0.0017012195121951222,[PID 7341] sshd: videoserver@internal-sftp 
+0.0016768292682926831,[PID 7337] sshd: videoserver@internal-sftp 
+0.0016768292682926831,[PID 7315] sshd: videoserver@internal-sftp 
+0.0016737804878048782,[PID 7340] sshd: videoserver@internal-sftp 
+0.0016737804878048782,[PID 7345] sshd: videoserver@internal-sftp 
+0.0016707317073170734,[PID 7310] sshd: videoserver@internal-sftp 
+0.0016432926829268294,[PID 7339] sshd: videoserver@internal-sftp 
+0.0016250000000000001,[PID 7347] sh
+0.001579268292682927,[PID 3796] [kworker/u32:1]
+0.0014207317073170733,[PID 7278] sshd
+0.001253048780487805,bnx2x_timer
+0.001228658536585366,[PID 7346] sleep
+0.0012164634146341463,mix_interrupt_randomness
+0.0012042682926829268,dev_watchdog
+0.001201219512195122,addrconf_verify_work
+0.001155487804878049,[PID 7305] sshd
+0.0010213414634146342,[PID 7302] sshd
+0.0009939024390243903,[PID 7301] sshd
+0.0009908536585365854,[PID 7300] sshd
+0.0009573170731707318,[PID 7307] sshd
+0.0009420731707317073,[PID 7298] sshd
+0.0009390243902439024,[PID 7311] sshd
+0.0009359756097560975,[PID 7313] sshd
+0.0009329268292682926,[PID 7299] sshd
+0.0009207317073170731,[PID 7296] sshd
+0.0009146341463414634,[PID 7310] sshd
+0.0009146341463414634,[PID 7318] sshd
+0.0009085365853658536,[PID 7297] sshd
+0.0009054878048780487,[PID 7319] sshd
+0.0009024390243902438,[PID 7306] sshd
+0.0008841463414634146,[PID 7303] sshd
+0.0008658536585365853,[PID 7317] sshd
+0.000853658536585366,[PID 7309] sshd
+0.0008414634146341464,[PID 7314] sshd
+0.0008384146341463416,[PID 7316] sshd
+0.0007957317073170732,[PID 7304] sshd
+0.0007804878048780488,[PID 7312] sshd
+0.0006859756097560976,[PID 7289] sshd
+0.0006615853658536586,[PID 7315] sshd
+0.0006128048780487805,process_timeout
+0.0005975609756097562,[PID 7291] sshd
+0.0005945121951219513,[PID 7293] sshd
+0.0005701219512195122,[PID 7292] sshd
+0.0005670731707317073,[PID 7295] sshd
+0.0005518292682926829,[PID 7288] sshd
+0.000548780487804878,[PID 7286] sshd
+0.000548780487804878,[PID 7285] sshd
+0.0003628048780487805,[PID 3799] sshd
+0.0,tw_timer_handler
+0.0,[PID 108] [migration/15]
+0.0,[PID 211] [kworker/2:1]
+0.0,[PID 102] [migration/14]
+0.0,[PID 36] [migration/3]
+0.0,[PID 48] [migration/5]
+0.0,[PID 84] [migration/11]
+0.0,[PID 410] [kworker/1:1]
+0.0,[PID 19] [migration/0]
+0.0,[PID 96] [migration/13]
+0.0,[PID 72] [migration/9]
+0.0,[PID 60] [migration/7]
+0.0,[PID 24] [migration/1]
+0.0,[PID 30] [migration/2]
+0.0,[PID 441] [kworker/13:1]
+0.0,[PID 389] [kworker/5:1]
+0.0,[PID 56] [kworker/6:0]
+0.0,[PID 8761] kworker/u32:1
+0.0,can_stat_update
+0.0,[PID 125] [kworker/8:1]
+0.0,[PID 436] [kworker/10:1]
+0.0,[PID 439] [kworker/14:1]
+0.0,[PID 44] [kworker/4:0]
+0.0,vmstat_update
+0.0,[PID 442] [kworker/9:1]
+0.0,[46] hpsa0-msix3
+0.0,[58] hpsa0-msix14
+0.0,[PID 105] [kworker/14:0H]
+0.0,[51] hpsa0-msix7
+0.0,[PID 1823] [kworker/7:1H]
+0.0,[PID 42] [migration/4]
+0.0,[63] eth0-fp-1
+0.0,[PID 90] [migration/12]
+0.0,idle_worker_timeout
+0.0,[70] eth1-fp-2
+0.0,[68] eth1-fp-0
+0.0,[PID 3797] sshd
+0.0,[PID 3763] sshd: /usr/sbin/sshd [listener] 0 of 100-200 startups 
+0.0,[50] hpsa0-msix6
+0.0,[69] eth1-fp-1
+0.0,[PID 889] [kworker/6:1H]
+0.0,[PID 991] [kworker/9:1H]
+0.0,[53] hpsa0-msix9
+0.0,bnx2x_sp_rtnl_task
+0.0,tsc_sync_check_timer_fn
+0.0,[PID 10] kworker/u32:0
+0.0,[PID 752] kworker/5:2
+0.0,sync_timer_callback
+0.0,addrconf_rs_timer
+0.0,[71] eth1-fp-3
+0.0,[PID 132] [kworker/4:1H]
+0.0,[PID 54] [migration/6]
+0.0,neigh_timer_handler
+0.0,[PID 66] [migration/8]
+0.0,[PID 78] [migration/10]
+0.0,[PID 92] [kworker/12:0]
+0.0,[PID 900] [kworker/10:1H]
+0.0,[PID 438] [kworker/15:1]
+0.0,[PID 440] [kworker/11:1]
+0.0,blk_rq_timed_out_timer
+0.0,[PID 881] [kworker/0:1H]
+0.0,[47] hpsa0-msix4
+0.0,[PID 435] [kworker/7:1]
+0.0,[PID 38] [kworker/3:0]
+0.0,wq_barrier_func
+0.0,writeout_period
+0.0,[54] hpsa0-msix10
+0.0,commit_timeout
+0.0,[PID 1029] [kworker/3:1H]

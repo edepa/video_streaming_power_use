@@ -1,0 +1,1472 @@
+PW Estimate (mW),Description
+4038.3536585365855,tick_sched_timer
+1449.756978658537,[3] net_rx(softirq)
+935.0114634146341,hrtimer_wakeup
+251.1890243902439,[PID 3882] containerd --config /var/run/docker/containerd/containerd.toml 
+103.59277439024393,[PID 3794] /usr/bin/dockerd 
+68.97527439024395,[PID 18] [rcu_preempt]
+37.20247560975609,[PID 3881] containerd --config /var/run/docker/containerd/containerd.toml 
+29.13400304878048,[PID 3892] containerd --config /var/run/docker/containerd/containerd.toml 
+28.5615853658537,toggle_allocation_gate
+24.13863414634146,[PID 3897] containerd --config /var/run/docker/containerd/containerd.toml 
+23.672899390243934,[7] sched(softirq)
+20.193292682926835,[PID 8262] ffmpeg -re -ss 1711 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.718832317073172,[PID 3893] containerd --config /var/run/docker/containerd/containerd.toml 
+19.582012195121962,[PID 9089] ffmpeg -re -ss 247 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+19.017073170731717,[PID 11433] ffmpeg -re -ss 415 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.895121951219505,[PID 11453] ffmpeg -re -ss 2276 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.883536585365853,[PID 11485] ffmpeg -re -ss 151 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.860670731707312,[PID 8576] ffmpeg -re -ss 1644 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.59756097560976,[PID 11942] ffmpeg -re -ss 2373 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.549390243902437,[PID 11634] ffmpeg -re -ss 2897 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.542073170731697,[PID 11469] ffmpeg -re -ss 427 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.42221036585366,[PID 3884] containerd --config /var/run/docker/containerd/containerd.toml 
+18.2890243902439,[PID 11798] ffmpeg -re -ss 632 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.27530487804879,[PID 11514] ffmpeg -re -ss 1661 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.24451219512195,[PID 11531] ffmpeg -re -ss 1299 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.242378048780484,[PID 11938] ffmpeg -re -ss 271 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.237499999999997,[PID 11562] ffmpeg -re -ss 220 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.21737804878049,[PID 11628] ffmpeg -re -ss 109 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.191768292682926,[PID 11604] ffmpeg -re -ss 2363 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.15853658536586,[PID 11694] ffmpeg -re -ss 1300 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.15457317073171,[PID 11700] ffmpeg -re -ss 580 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.062499999999996,[PID 11810] ffmpeg -re -ss 2017 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.06006097560977,[PID 11834] ffmpeg -re -ss 2577 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.057317073170722,[PID 11670] ffmpeg -re -ss 712 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.050914634146345,[PID 11500] ffmpeg -re -ss 2878 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.04512195121951,[PID 11882] ffmpeg -re -ss 2350 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.037804878048785,[PID 11754] ffmpeg -re -ss 2185 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.036585365853654,[PID 11724] ffmpeg -re -ss 522 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.019344512195126,[PID 3891] containerd --config /var/run/docker/containerd/containerd.toml 
+18.017682926829277,[PID 11556] ffmpeg -re -ss 2037 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.01371951219512,[PID 11748] ffmpeg -re -ss 493 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.00609756097562,[PID 11822] ffmpeg -re -ss 1415 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+18.003353658536575,[PID 11524] ffmpeg -re -ss 2590 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.99939024390245,[PID 11804] ffmpeg -re -ss 2668 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.97652439024389,[PID 11718] ffmpeg -re -ss 1344 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.966768292682932,[PID 11712] ffmpeg -re -ss 1130 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.960060975609764,[PID 11664] ffmpeg -re -ss 966 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.951219512195117,[PID 11761] ffmpeg -re -ss 864 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.950914634146347,[PID 11870] ffmpeg -re -ss 1546 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.94878048780488,[PID 11888] ffmpeg -re -ss 2028 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.945426829268293,[PID 11876] ffmpeg -re -ss 1359 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.927134146341462,[PID 11846] ffmpeg -re -ss 1062 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.92256097560977,[PID 11592] ffmpeg -re -ss 765 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.92103658536585,[PID 11646] ffmpeg -re -ss 321 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.917987804878045,[PID 11706] ffmpeg -re -ss 1270 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.91432926829269,[PID 11840] ffmpeg -re -ss 217 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.91249999999999,[PID 11598] ffmpeg -re -ss 683 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.906707317073174,[PID 11622] ffmpeg -re -ss 2799 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.896036585365863,[PID 11568] ffmpeg -re -ss 559 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.871341463414634,[PID 11894] ffmpeg -re -ss 2495 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.86341463414635,[PID 11688] ffmpeg -re -ss 2492 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.85975609756098,[PID 11682] ffmpeg -re -ss 2593 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.841463414634145,[PID 11586] ffmpeg -re -ss 1251 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.83963414634146,[PID 11544] ffmpeg -re -ss 2668 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.830487804878043,[PID 11574] ffmpeg -re -ss 1297 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.814024390243908,[PID 11610] ffmpeg -re -ss 921 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.81189024390243,[PID 11742] ffmpeg -re -ss 764 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.810670731707315,[PID 11730] ffmpeg -re -ss 2416 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.802743902439037,[PID 11924] ffmpeg -re -ss 1555 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.80182926829269,[PID 11910] ffmpeg -re -ss 2064 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.778353658536577,[PID 11640] ffmpeg -re -ss 818 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.77469512195121,[PID 11658] ffmpeg -re -ss 121 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.768292682926838,[PID 11768] ffmpeg -re -ss 76 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.726524390243892,[PID 11786] ffmpeg -re -ss 550 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.71463414634146,[PID 11736] ffmpeg -re -ss 2727 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.70640243902439,[PID 11550] ffmpeg -re -ss 192 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.66128048780488,[PID 11940] ffmpeg -re -ss 1451 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.64725609756098,[PID 11538] ffmpeg -re -ss 887 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.643292682926834,[PID 11858] ffmpeg -re -ss 2498 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.61432926829268,[PID 11912] ffmpeg -re -ss 1921 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.595121951219518,[PID 11616] ffmpeg -re -ss 1254 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.590243902439028,[PID 11676] ffmpeg -re -ss 1776 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.574695121951223,[PID 11816] ffmpeg -re -ss 1550 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.51036585365852,[PID 11774] ffmpeg -re -ss 337 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.507012195121963,[PID 11652] ffmpeg -re -ss 1442 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.47835365853659,[PID 11828] ffmpeg -re -ss 2719 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.434451219512194,[PID 11900] ffmpeg -re -ss 2294 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.329878048780483,[PID 11918] ffmpeg -re -ss 945 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.311280487804886,[PID 11580] ffmpeg -re -ss 2031 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.139939024390248,[PID 11852] ffmpeg -re -ss 306 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.137804878048776,[PID 11780] ffmpeg -re -ss 2441 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+17.00914634146341,[PID 11864] ffmpeg -re -ss 244 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+16.944817073170732,[PID 11792] ffmpeg -re -ss 892 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+16.931707317073162,[PID 11948] ffmpeg -re -ss 2686 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+16.15404878048781,[PID 3889] containerd --config /var/run/docker/containerd/containerd.toml 
+16.118579268292685,[PID 3895] containerd --config /var/run/docker/containerd/containerd.toml 
+11.594786585365853,[PID 3899] containerd --config /var/run/docker/containerd/containerd.toml 
+11.160829268292686,[PID 3898] containerd --config /var/run/docker/containerd/containerd.toml 
+10.10271341463416,fb_flashcursor
+9.474298780487796,[PID 4152] powertop --csv --iteration=328 --time=10 
+8.198414634146342,watchdog_timer_fn
+7.566463414634147,[PID 8537] containerd --config /var/run/docker/containerd/containerd.toml 
+5.816710365853655,[9] RCU(softirq)
+5.4217256097560975,delayed_vfree_work
+4.84237804878049,handle_update
+4.259512195121948,bnx2x_period_task
+4.0272256097561066,[PID 119] [kcompactd0]
+3.967073170731708,[PID 3883] containerd --config /var/run/docker/containerd/containerd.toml 
+3.8618018292682925,[PID 3885] containerd --config /var/run/docker/containerd/containerd.toml 
+3.5102195121951216,[PID 3870] /usr/bin/dockerd 
+3.2561646341463413,[PID 3875] /usr/bin/dockerd 
+2.952579268292683,[4] block(softirq)
+2.642378048780488,[PID 3896] containerd --config /var/run/docker/containerd/containerd.toml 
+2.639634146341463,[PID 8558] ffmpeg -re -ss 1644 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+2.5538018292682936,[PID 3879] /usr/bin/dockerd 
+2.5191890243902453,[PID 3876] /usr/bin/dockerd 
+2.1885670731707343,[PID 3783] log_proxy -m /var/log/docker.log 
+2.187548780487805,[PID 3900] containerd --config /var/run/docker/containerd/containerd.toml 
+2.1649390243902453,[PID 3781] log_proxy -m /var/log/docker.log 
+2.037652439024393,[PID 3782] log_proxy -m /var/log/docker.log 
+2.0289939024390273,[PID 3780] log_proxy -m /var/log/docker.log 
+2.020243902439026,pci_pme_list_scan
+2.010365853658537,[PID 11431] ffmpeg -re -ss 415 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+2.0073170731707317,[PID 3901] containerd --config /var/run/docker/containerd/containerd.toml 
+1.7803201219512221,[60] eth0
+1.7444756097561012,[66] eth1
+1.7353658536585364,[PID 3877] /usr/bin/dockerd 
+1.7286585365853657,[PID 3890] containerd --config /var/run/docker/containerd/containerd.toml 
+1.5564024390243902,[PID 9087] ffmpeg -re -ss 247 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.5470426829268293,[PID 11498] ffmpeg -re -ss 2878 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.467073170731707,[PID 11542] ffmpeg -re -ss 2668 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.4307926829268296,[PID 11916] ffmpeg -re -ss 945 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.413414634146341,[PID 11656] ffmpeg -re -ss 121 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.391768292682927,[PID 11451] ffmpeg -re -ss 2276 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.3789634146341463,[PID 11614] ffmpeg -re -ss 1254 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.377439024390244,[PID 11578] ffmpeg -re -ss 2031 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.3569756097560974,blk_mq_run_work_fn
+1.336890243902439,[PID 11778] ffmpeg -re -ss 2441 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.329268292682927,[PID 11536] ffmpeg -re -ss 887 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.3289634146341467,[PID 11850] ffmpeg -re -ss 306 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.3176829268292685,[PID 11674] ffmpeg -re -ss 1776 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.3146341463414637,[PID 11572] ffmpeg -re -ss 1297 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.2749085365853654,[PID 11566] ffmpeg -re -ss 559 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.2728963414634147,[PID 11467] ffmpeg -re -ss 427 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.2703018292682926,[PID 2028] [jbd2/sda3-8]
+1.2460365853658533,[PID 11784] ffmpeg -re -ss 550 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.2405487804878048,[PID 11650] ffmpeg -re -ss 1442 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.2394695121951218,[PID 17] [ksoftirqd/0]
+1.2262347560975608,[PID 3867] /usr/bin/dockerd 
+1.2237804878048784,[PID 11590] ffmpeg -re -ss 765 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.1993902439024389,[PID 11584] ffmpeg -re -ss 1251 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.1588414634146338,[PID 11704] ffmpeg -re -ss 1270 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.1586798780487804,ext4_end_io_rsv_work
+1.1381097560975606,[PID 11790] ffmpeg -re -ss 892 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.0990853658536583,[PID 11529] ffmpeg -re -ss 1299 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.0780487804878045,[PID 11482] ffmpeg -re -ss 151 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.0533536585365852,[PID 11548] ffmpeg -re -ss 192 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.052439024390244,[PID 11772] ffmpeg -re -ss 337 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.0445121951219514,[PID 11808] ffmpeg -re -ss 2017 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.041158536585366,[PID 11602] ffmpeg -re -ss 2363 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.0219512195121954,[PID 11662] ffmpeg -re -ss 966 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.0170731707317073,[PID 11680] ffmpeg -re -ss 2593 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.011890243902439,[PID 11946] ffmpeg -re -ss 2686 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+1.0076219512195124,[PID 11560] ffmpeg -re -ss 220 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.9978658536585364,[PID 11521] ffmpeg -re -ss 2590 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.9964329268292682,[PID 11686] ffmpeg -re -ss 2492 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.994207317073171,[PID 11740] ffmpeg -re -ss 764 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.9902439024390243,[PID 11716] ffmpeg -re -ss 1344 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.9844512195121953,[PID 11596] ffmpeg -re -ss 683 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.9816554878048779,[PID 3872] /usr/bin/dockerd 
+0.9722560975609756,[PID 11868] ffmpeg -re -ss 1546 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.9624999999999998,[PID 11759] ffmpeg -re -ss 864 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.9057926829268294,[PID 11820] ffmpeg -re -ss 1415 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.8969207317073171,[PID 11722] ffmpeg -re -ss 522 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.8931402439024388,[PID 11692] ffmpeg -re -ss 1300 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.876219512195122,[PID 11856] ffmpeg -re -ss 2498 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.8698170731707318,[PID 11638] ffmpeg -re -ss 818 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.8682926829268293,[PID 11668] ffmpeg -re -ss 712 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.8609756097560977,[PID 11626] ffmpeg -re -ss 109 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.8597560975609757,[PID 11766] ffmpeg -re -ss 76 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.8185975609756098,[PID 11814] ffmpeg -re -ss 1550 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.813719512195122,[PID 11904] ffmpeg -re -ss 2064 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.8106707317073171,[PID 11862] ffmpeg -re -ss 244 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.7982012195121949,[PID 11608] ffmpeg -re -ss 921 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.7926371951219517,kfree_rcu_monitor
+0.7704268292682926,[PID 11922] ffmpeg -re -ss 1555 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.7637195121951219,[PID 11512] ffmpeg -re -ss 1661 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.7545731707317075,[PID 11698] ffmpeg -re -ss 580 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.7527439024390244,[PID 8066] ffmpeg -re -ss 1711 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.7301829268292683,[PID 11796] ffmpeg -re -ss 632 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.6969512195121951,[PID 11838] ffmpeg -re -ss 217 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.6957317073170732,[PID 11734] ffmpeg -re -ss 2727 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.6848780487804879,[PID 11644] ffmpeg -re -ss 321 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.6371951219512195,[PID 11554] ffmpeg -re -ss 2037 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.6338414634146342,[PID 11936] ffmpeg -re -ss 2373 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.6271341463414635,[PID 11892] ffmpeg -re -ss 2495 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.6219512195121951,[PID 11710] ffmpeg -re -ss 1130 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.613719512195122,[PID 11898] ffmpeg -re -ss 2294 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.609451219512195,[PID 11880] ffmpeg -re -ss 2350 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.6036585365853657,[PID 11620] ffmpeg -re -ss 2799 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.5792682926829267,[PID 11932] ffmpeg -re -ss 1451 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.5783536585365853,key_garbage_collector
+0.5698170731707317,[PID 11886] ffmpeg -re -ss 2028 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.540670731707317,wait_rcu_exp_gp
+0.524390243902439,[PID 11908] ffmpeg -re -ss 1921 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.511890243902439,[PID 11752] ffmpeg -re -ss 2185 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.5073170731707317,[PID 11746] ffmpeg -re -ss 493 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.48628048780487804,[PID 11832] ffmpeg -re -ss 2577 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.4728658536585366,[PID 11632] ffmpeg -re -ss 2897 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.46371951219512186,free_ipc
+0.4478658536585366,[PID 11874] ffmpeg -re -ss 1359 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.4286554878048786,lru_add_drain_per_cpu
+0.42772865853658526,[PID 3955] /usr/bin/dockerd 
+0.3850609756097561,[PID 11826] ffmpeg -re -ss 2719 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.3628048780487805,[PID 6557] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 466d276b3e6f28f17e61313050781b89fd822533172219c854bb4c5fb758fda
+0.3628048780487805,[PID 16758] python3
+0.35457317073170735,[PID 11728] ffmpeg -re -ss 2416 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.34207317073170734,[PID 11802] ffmpeg -re -ss 2668 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.3411585365853659,[PID 4189] sshd: videoserver@notty 
+0.3397499999999999,[PID 3880] /usr/bin/dockerd 
+0.3323170731707317,[PID 8867] runc:[2:INIT]
+0.3323170731707317,[PID 13141] python3
+0.32838414634146346,[PID 3956] /usr/bin/dockerd 
+0.3231707317073171,[PID 12064] python3
+0.3231707317073171,[PID 5957] runc:[2:INIT]
+0.31759756097560976,wb_workfn
+0.3170731707317073,[PID 13869] python3
+0.31219512195121957,[PID 11931] ffmpeg -re -ss 271 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.3114024390243902,[PID 5692] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 053314eaa408cec12cb4e605a4a4a215063110fc705c649d41cdc3a2aa23546
+0.3079268292682927,[PID 16262] python3
+0.3048780487804878,[PID 6136] python3
+0.3048780487804878,[PID 8561] runc:[2:INIT]
+0.2990853658536585,[PID 4448] python3
+0.2984756097560976,[PID 8594] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3f5ec3dc38cbd2f4235a5ed2a0fb93668347c917df95159ec9f6402e8b47e84
+0.2975609756097561,[PID 13148] python3
+0.29573170731707316,[PID 10639] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 5a3d8f53f52d2f0d4855a5364d443cbf4798c868d68ac514e0373a0f303971
+0.29573170731707316,[PID 8330] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 455887ffd531217b9376c1d835557aefa1c28a58059d102425153783b3061ab
+0.2954268292682927,[PID 10538] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 0098ed404d1fd2819003eb2c500071d94ee11a8681b9dd7d76cc7f38a597f1
+0.2939024390243903,[PID 10388] /usr/bin/containerd-shim-runc-v2 -namespace moby -id fc4d96d62c14ff7e4b65daeed231acf4899e6aa2c80db768fc3b31e55c4670
+0.28963414634146345,[PID 12225] python3
+0.2890243902439024,[PID 12542] python3
+0.288719512195122,[PID 4236] python3
+0.288109756097561,[PID 5283] python3
+0.288109756097561,[PID 16416] python3
+0.288109756097561,[PID 8746] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 13141bc1b5677ca3246ceed27011b4be4b8ea86065cd160bc80d1c9151a99ef
+0.2856707317073171,[PID 7372] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 1ccd9cd72851599fd01182618ae01db884c928570be754a62569222c2de6c4c
+0.28536585365853656,[PID 12374] python3
+0.28414634146341466,[PID 8431] /usr/bin/containerd-shim-runc-v2 -namespace moby -id f1ea3af1d35c4f6669c4e1d282ea50ce6fafd1d2d0001b9c320f0b31a9b69c8
+0.2832317073170732,[PID 16097] python3
+0.28292682926829266,[PID 8847] /usr/bin/containerd-shim-runc-v2 -namespace moby -id b3e22661c7231ac29839a40e3e1dc708c3b782ee947b97ecd24aaf8724ad1cf
+0.2810975609756098,[PID 16287] python3
+0.2801829268292683,[PID 5127] python3
+0.2801829268292683,[PID 13267] python3
+0.27987804878048783,[PID 6420] python3
+0.2774390243902439,[PID 6627] python3
+0.2762195121951219,[PID 7569] runc:[2:INIT]
+0.2762195121951219,[PID 14029] python3
+0.275,[PID 5205] python3
+0.275,[PID 6500] python3
+0.2746951219512195,[PID 10158] runc:[2:INIT]
+0.27317073170731704,[PID 10289] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 9c71c7fa1b5b431c006df88ada3160096a0c52a55c1b8bd351d1595a0c0cf0
+0.27225609756097563,[PID 16180] python3
+0.2703353658536585,[PID 6351] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 64262a7434dd656c5ed27c9060cf33b1c044bb3bf6f1c2c0faa3e79b80b3aa6
+0.2701219512195122,[PID 6795] python3
+0.26951219512195124,[PID 5841] python3
+0.26920731707317075,[PID 6834] python3
+0.2682926829268293,[PID 8381] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 259a7e3eb7707365fa32f75ae13fadb330f0f42cbe04b4fa7decd2d65053edc
+0.2679878048780488,[PID 10241] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 0a40c3ecb1229b0d3482635a3c9a98d8c402cc18bd17c7e674fe710a1c7937
+0.2676829268292683,[PID 8796] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 17388d281737c05a0604628f3cfa1b72ec9ec87ecb0146be10bdeb5db9f7dbf
+0.267612804878049,[PID 121] [khugepaged]
+0.26615853658536587,[PID 7746] runc:[2:INIT]
+0.26615853658536587,[PID 10137] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 03b754c15c267db4e879867f9789c0ec885859393e6f914451cf5cfb5deb46
+0.26524390243902435,[PID 7904] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 67a5c2f7690655211d69e38b43a3d12a93329e928da897f0f139bdb27af601a
+0.26402439024390245,[PID 10309] runc:[2:INIT]
+0.263109756097561,[PID 16132] python3
+0.2628048780487805,[PID 4811] python3
+0.2625,[PID 6873] python3
+0.2621951219512195,[PID 15199] python3
+0.26189024390243903,[PID 6422] python3
+0.26158536585365855,[PID 5322] python3
+0.26158536585365855,[PID 5595] python3
+0.26128048780487806,[PID 16815] python3
+0.26128048780487806,[PID 4729] python3
+0.2606707317073171,[PID 4191] python3
+0.2603658536585366,[PID 7658] runc:[2:INIT]
+0.2597560975609756,[PID 5010] python3
+0.25914634146341464,[PID 10710] runc:[2:INIT]
+0.25884146341463415,[PID 4446] python3
+0.2576219512195122,[PID 4237] python3
+0.2570121951219512,[PID 10459] runc:[2:INIT]
+0.2570121951219512,[PID 5049] python3
+0.25670731707317074,[PID 6705] python3
+0.25640243902439025,[PID 16375] python3
+0.25640243902439025,[PID 4810] python3
+0.25640243902439025,[PID 4491] python3
+0.2557926829268293,[PID 16350] python3
+0.25574390243902434,[PID 3795] /usr/bin/dockerd 
+0.2551829268292683,[PID 4319] python3
+0.2548780487804878,[PID 4450] python3
+0.2548780487804878,[PID 6912] python3
+0.25426829268292683,[PID 8644] /usr/bin/containerd-shim-runc-v2 -namespace moby -id b94811814a66320d4ac4441e7d9700149f17e9640e261744c9d78b8a6c8f7dd
+0.25426829268292683,[PID 14568] python3
+0.25396341463414634,[PID 6744] python3
+0.25396341463414634,[PID 15046] python3
+0.25365853658536586,[PID 4727] python3
+0.2527439024390244,[PID 15934] python3
+0.2527439024390244,"[PID 11900] dmx0:mov,mp4,m4"
+0.2524390243902439,[PID 5439] python3
+0.2521341463414634,[PID 10339] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 5577f1a603df75978221f87f55ccdb261df887a03b592fb1b96b0ae8f52813
+0.25182926829268293,[PID 8507] runc:[2:INIT]
+0.25182926829268293,[PID 6207] python3
+0.25152439024390244,[PID 16738] python3
+0.25125914634146346,[PID 9315] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 6544d9d091878ead56096afab0917ca9dc1f814878fdadddf39d57eee2da700
+0.25121951219512195,[PID 6951] python3
+0.250609756097561,[PID 8664] runc:[2:INIT]
+0.25,[PID 4318] python3
+0.25,[PID 4403] python3
+0.24969512195121954,[PID 6461] python3
+0.24939024390243902,[PID 7483] runc:[2:INIT]
+0.24939024390243902,[PID 8970] runc:[2:INIT]
+0.24908536585365856,[PID 16219] python3
+0.24695121951219512,[PID 6762] /usr/bin/containerd-shim-runc-v2 -namespace moby -id c3e0059a7fa885dee159507892cfed7b93b84e6891ca4e799517cac28c8022b
+0.24603658536585368,[PID 4444] python3
+0.24573170731707317,[PID 5802] python3
+0.24573170731707317,[PID 16391] python3
+0.24573170731707317,[PID 15980] python3
+0.24542682926829268,[PID 4282] python3
+0.24542682926829268,"[PID 11816] dmx0:mov,mp4,m4"
+0.2448170731707317,[PID 15895] python3
+0.24420731707317073,[PID 15454] python3
+0.24420731707317073,[PID 15897] python3
+0.24420731707317073,[PID 10487] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 403d72b99575c38c6f26afc1b5e9d0ed69fae3538805af2e9568e138bc3044
+0.24390243902439024,[PID 8533] /usr/bin/containerd-shim-runc-v2 -namespace moby -id aa688c5653843622c00a299d525db06603233d89f7de289f4c4cc7c419b44d8
+0.24390243902439024,"[PID 11852] dmx0:mov,mp4,m4"
+0.24359756097560978,[PID 10359] runc:[2:INIT]
+0.24329268292682926,[PID 5763] python3
+0.24329268292682926,[PID 4442] python3
+0.24329268292682926,[PID 5088] python3
+0.24329268292682926,[PID 16044] python3
+0.2429878048780488,[PID 10591] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 06b0cd7c3606e1d710e194e8c35fa49c7718594d9cca17ad0a8021d6688e98
+0.24146341463414636,[PID 8352] runc:[2:INIT]
+0.24115853658536585,[PID 8017] runc:[2:INIT]
+0.24085365853658539,[PID 4571] python3
+0.23993902439024392,[PID 5993] python3
+0.23993902439024392,[PID 4770] python3
+0.2396341463414634,[PID 4321] python3
+0.2396341463414634,[PID 7462] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 14d20304f3ebdc9fa58431f864208af10ec43a5ad2a9817644bfb9d7af6075e
+0.2396341463414634,[PID 5880] python3
+0.2396341463414634,[PID 12023] sshd: videoserver@notty 
+0.23932926829268295,[PID 5166] python3
+0.23871951219512194,[PID 4616] python3
+0.23810975609756097,[PID 15100] python3
+0.23810975609756097,[PID 6333] python3
+0.23810975609756097,[PID 10686] /usr/bin/containerd-shim-runc-v2 -namespace moby -id befdce40b8993e866fb9ced1e9f6e49a6c54c3fcf06c4630076a0207096c4b
+0.23750000000000002,[PID 5400] python3
+0.23750000000000002,[PID 16438] /usr/bin/python3 
+0.2371951219512195,[PID 5361] python3
+0.2371951219512195,[PID 16221] python3
+0.2371951219512195,[PID 14955] python3
+0.23597560975609758,[PID 4877] python3
+0.23567073170731706,[PID 5937] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 5dc2d47e0acd5fa8d0e33dd4b3f2a393ce5bbac3b838a4b81827aaab14c08bb
+0.23567073170731706,[PID 15955] python3
+0.23567073170731706,[PID 8695] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 6fd5c9234c1f90d933fd407a96efc9ae157cbdf0933880b88f9d3fe988bcc43
+0.23567073170731706,[PID 15172] python3
+0.2353658536585366,[PID 10212] runc:[2:INIT]
+0.2353658536585366,[PID 8921] runc:[2:INIT]
+0.2353658536585366,[PID 8715] runc:[2:INIT]
+0.23506097560975608,[PID 6046] python3
+0.23506097560975608,[PID 14749] python3
+0.23506097560975608,[PID 16849] python3
+0.23475609756097562,[PID 4673] python3
+0.23414634146341462,[PID 4239] python3
+0.23384146341463416,[PID 4591] python3
+0.23384146341463416,[PID 5717] python3
+0.23353658536585364,[PID 14900] python3
+0.23323170731707318,[PID 6064] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 034e3cb7e3742e5479c225cbed08655aa1f40d82fcaedd9fcd5f6b926a9da5c
+0.2329268292682927,[PID 10787] /usr/bin/containerd-shim-runc-v2 -namespace moby -id bae71cd88f4363c5bc2c5ee95daed1d4ace484fefbb1c1651d9535cd9a1129
+0.2329268292682927,[PID 4850] python3
+0.2320121951219512,[PID 6539] python3
+0.23140243902439028,"[PID 11888] dmx0:mov,mp4,m4"
+0.23079268292682928,[PID 4971] python3
+0.23079268292682928,[PID 7637] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4edfc31956d01563dc8ec4418e9027be8348e740fe7dc00dde4dd2d22977791
+0.23079268292682928,[PID 6577] runc:[2:INIT]
+0.22987804878048784,[PID 8948] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 59a0d43447957f2f9ba9b0f6cb57548244f21a2ed3bcb184b92a5de93eb0123
+0.22957317073170733,[PID 4489] python3
+0.22957317073170733,[PID 16077] python3
+0.22926829268292684,[PID 16630] python3
+0.22865853658536586,[PID 8485] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 413b083d40b2b75ff650f1c305534def43c2936ddca2aadd64a47c05bc4619b
+0.22713414634146342,[PID 15581] python3
+0.22682926829268296,"[PID 11894] dmx0:mov,mp4,m4"
+0.22560975609756098,[PID 7923] runc:[2:INIT]
+0.22317073170731708,[PID 10925] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 66e75d85c43991ce518fdcb6fbaa72f7361f26a316d2768cedb304e9e38882
+0.22317073170731708,[PID 8616] runc:[2:INIT]
+0.2225609756097561,[PID 8996] /usr/bin/containerd-shim-runc-v2 -namespace moby -id b7397d5682d1e09726e189ff194da199cf8ad74f1b0906b7e557f5f4ead2a98
+0.22243902439024393,[PID 4925] /usr/bin/python3 
+0.22225609756097564,[PID 16311] python3
+0.22195121951219512,[PID 10759] runc:[2:INIT]
+0.22134146341463415,[PID 4193] python3
+0.22103658536585366,[PID 6084] runc:[2:INIT]
+0.22103658536585366,[PID 5634] python3
+0.22103658536585366,"[PID 11834] dmx0:mov,mp4,m4"
+0.22056402439024406,neigh_managed_work
+0.21829268292682927,"[PID 11876] dmx0:mov,mp4,m4"
+0.21768292682926832,[PID 6065] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 034e3cb7e3742e5479c225cbed08655aa1f40d82fcaedd9fcd5f6b926a9da5c
+0.2173780487804878,[PID 14031] python3
+0.21676829268292683,[PID 4731] python3
+0.21585365853658536,[PID 9180] runc:[2:INIT]
+0.2155487804878049,[PID 4323] /usr/bin/python3 
+0.21487500000000004,kfree_rcu_work
+0.21463414634146344,"[PID 11810] dmx0:mov,mp4,m4"
+0.21432926829268292,[PID 8898] /usr/bin/containerd-shim-runc-v2 -namespace moby -id aba9b03abd7d6033de26e9143f27e9bbfc0c383e3a17ec3ae9aa2baba484fe1
+0.21371951219512195,[PID 14097] python3
+0.21272560975609756,[PID 10539] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 0098ed404d1fd2819003eb2c500071d94ee11a8681b9dd7d76cc7f38a597f1
+0.21097560975609758,[PID 14599] python3
+0.2103658536585366,"[PID 11822] dmx0:mov,mp4,m4"
+0.20997865853658534,[PID 7373] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 1ccd9cd72851599fd01182618ae01db884c928570be754a62569222c2de6c4c
+0.2097560975609756,"[PID 11804] dmx0:mov,mp4,m4"
+0.2097560975609756,[PID 8227] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 769ef6e940ef8c0200bc1801711a9dac7aae22d6504080881b553362ae633da
+0.20945121951219514,[PID 7992] /usr/bin/containerd-shim-runc-v2 -namespace moby -id b70f77be5e3775aeab751b55691c5408dc76a934aa1cd7d879d522fdf7cbef1
+0.2079268292682927,[PID 8088] /usr/bin/containerd-shim-runc-v2 -namespace moby -id c1fd34c562d9ed24f1b77ae57aed7b280757285d6bc69f6029b8275b703b05d
+0.20701219512195124,[PID 13107] python3
+0.20670731707317072,[PID 6134] python3
+0.2030487804878049,[PID 11844] ffmpeg -re -ss 1062 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.2027439024390244,[PID 7835] runc:[2:INIT]
+0.2027439024390244,[PID 15776] /usr/bin/python3 
+0.20179878048780486,[PID 8089] /usr/bin/containerd-shim-runc-v2 -namespace moby -id c1fd34c562d9ed24f1b77ae57aed7b280757285d6bc69f6029b8275b703b05d
+0.20091463414634148,[PID 7903] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 67a5c2f7690655211d69e38b43a3d12a93329e928da897f0f139bdb27af601a
+0.2003048780487805,"[PID 11840] dmx0:mov,mp4,m4"
+0.19908536585365855,[PID 10438] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 78416069acd52e7928d55ccd0580d4ea4dcf6b9f57aba8abb3d341650a9509
+0.19863719512195116,flush_memcg_stats_dwork
+0.19786585365853662,[PID 10185] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 7d27eae6c442bdef0eecf0e4514ed0ffc5dfea350950ad5643c456e5c97d8a
+0.19771036585365856,[PID 3797] /usr/bin/dockerd 
+0.1969512195121951,[PID 10560] runc:[2:INIT]
+0.1948170731707317,"[PID 11828] dmx0:mov,mp4,m4"
+0.194609756097561,[PID 25] [ksoftirqd/1]
+0.19420731707317074,[PID 8455] runc:[2:INIT]
+0.19420731707317074,[PID 8818] runc:[2:INIT]
+0.19420731707317074,[PID 8766] runc:[2:INIT]
+0.19420731707317074,[PID 9072] runc:[2:INIT]
+0.19376829268292683,[PID 3871] /usr/bin/dockerd 
+0.19298780487804879,[PID 10807] runc:[2:INIT]
+0.19234756097560973,[PID 5938] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 5dc2d47e0acd5fa8d0e33dd4b3f2a393ce5bbac3b838a4b81827aaab14c08bb
+0.19207317073170732,"[PID 11792] dmx0:mov,mp4,m4"
+0.19207317073170732,"[PID 11846] dmx0:mov,mp4,m4"
+0.19207317073170732,[PID 10510] runc:[2:INIT]
+0.19205182926829265,[PID 9051] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 33f2a16a892850e81a012bae641d8d110bf370f7764802994ff3a00de2b8e35
+0.1902439024390244,"[PID 11798] dmx0:mov,mp4,m4"
+0.1902439024390244,[PID 4969] python3
+0.18932926829268293,"[PID 11882] dmx0:mov,mp4,m4"
+0.18841463414634146,[PID 8108] runc:[2:INIT]
+0.188283536585366,drm_fb_helper_damage_work
+0.1875,"[PID 11786] dmx0:mov,mp4,m4"
+0.1847560975609756,"[PID 11858] dmx0:mov,mp4,m4"
+0.18140243902439024,[PID 6782] runc:[2:INIT]
+0.18077439024390243,[PID 10640] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 5a3d8f53f52d2f0d4855a5364d443cbf4798c868d68ac514e0373a0f303971
+0.1804878048780488,[PID 7549] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 1f4515baeef7411cfe3aa5f338e21749902c7ae947583675ad64d857fd3a56e
+0.17865853658536587,"[PID 11870] dmx0:mov,mp4,m4"
+0.17835365853658539,[PID 7725] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 9228a5beb429a48b15ef50f98d7811ac5ee749f35ab752561478316d8e6ba4d
+0.17713414634146343,[PID 17776] python3
+0.17317073170731712,[PID 9727] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 7adc88caa3c90210b5103cb53c4a3b6e9421cb1e534f3160fc80627247b33b3
+0.17164634146341462,[PID 10659] runc:[2:INIT]
+0.17134146341463416,[PID 10106] python3
+0.1704268292682927,[PID 9021] runc:[2:INIT]
+0.16920731707317074,[PID 7812] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 6fa2dc8de486666c77b5d51633595463617a1f58fae5ededb2000e96566b81f
+0.16851524390243902,[PID 7463] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 14d20304f3ebdc9fa58431f864208af10ec43a5ad2a9817644bfb9d7af6075e
+0.1679878048780488,[PID 10261] runc:[2:INIT]
+0.1679878048780488,"[PID 11682] dmx0:mov,mp4,m4"
+0.16737804878048781,"[PID 11864] dmx0:mov,mp4,m4"
+0.16463414634146342,[PID 10471] docker
+0.16463414634146342,[PID 6331] python3
+0.16097560975609757,[PID 10738] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 21cbf387369369df4b6867daebe01b635a5604531e9eac97b356a6f0d5797b
+0.15945121951219512,"[PID 11646] dmx0:mov,mp4,m4"
+0.15945121951219512,[PID 9863] python3
+0.15945121951219512,"[PID 11774] dmx0:mov,mp4,m4"
+0.1592439024390244,[PID 6763] /usr/bin/containerd-shim-runc-v2 -namespace moby -id c3e0059a7fa885dee159507892cfed7b93b84e6891ca4e799517cac28c8022b
+0.15853658536585366,[PID 17717] python3
+0.15792682926829268,[PID 17625] python3
+0.1573170731707317,[PID 10365] python3
+0.1572073170731707,[PID 11008] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 0628ac07cbef4b174ee8fb68c9f1ad3ad804aa734c07652b2644f649560f6c
+0.15656402439024392,[PID 8747] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 13141bc1b5677ca3246ceed27011b4be4b8ea86065cd160bc80d1c9151a99ef
+0.1548780487804878,[PID 7270] python3
+0.15396341463414634,"[PID 11780] dmx0:mov,mp4,m4"
+0.15354268292682927,[PID 6558] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 466d276b3e6f28f17e61313050781b89fd822533172219c854bb4c5fb758fda
+0.1527439024390244,[PID 15635] python3
+0.1515030487804878,[PID 9213] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 787a3e69fd8b86901bc781bf8cd49270a2a5d49231e9ad91cbb6f6de7a80d9d
+0.15121951219512197,[PID 8391] runc
+0.15000000000000002,[PID 8958] runc
+0.15000000000000002,[PID 10649] runc
+0.15000000000000002,[PID 10400] runc
+0.15000000000000002,[PID 10148] runc
+0.14969512195121953,[PID 17899] python3
+0.14908536585365853,"[PID 11664] dmx0:mov,mp4,m4"
+0.14908536585365853,[PID 10548] runc
+0.14878048780487804,[PID 7382] runc
+0.14878048780487804,[PID 10611] runc:[2:INIT]
+0.1475609756097561,[PID 10349] runc
+0.1475609756097561,[PID 10251] runc
+0.1475609756097561,[PID 10449] runc
+0.1475609756097561,[PID 10700] runc
+0.1475609756097561,[PID 9060] runc
+0.1475609756097561,[PID 8705] runc
+0.1475609756097561,[PID 8806] runc
+0.1475609756097561,[PID 7913] runc
+0.1472560975609756,[PID 10489] python3
+0.14695121951219514,[PID 6772] runc
+0.14695121951219514,[PID 6567] runc
+0.14664634146341465,[PID 10601] runc
+0.14634146341463417,[PID 7559] runc
+0.14634146341463417,[PID 9222] runc
+0.14634146341463417,[PID 8604] runc
+0.14634146341463417,[PID 8495] runc
+0.14634146341463417,[PID 8098] runc
+0.14634146341463417,[PID 9707] python3
+0.14634146341463417,[PID 10749] runc
+0.14634146341463417,[PID 10299] runc
+0.1454268292682927,[PID 8909] runc
+0.1451219512195122,[PID 7736] runc
+0.1451219512195122,[PID 7648] runc
+0.1451219512195122,[PID 6074] runc
+0.1451219512195122,[PID 10200] runc
+0.1451219512195122,[PID 17452] python3
+0.1451219512195122,[PID 8857] runc
+0.1451219512195122,[PID 8654] runc
+0.1451219512195122,[PID 8445] runc
+0.14481707317073172,"[PID 11652] dmx0:mov,mp4,m4"
+0.1445121951219512,[PID 17705] python3
+0.14420731707317072,[PID 5947] runc
+0.14390243902439026,[PID 7473] runc
+0.1438109756097561,[PID 7050] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 1ba0fcf9eaa022d98b45e6bd3b6155eddb6c4f8651ac1f4c2dedac4a5428f81
+0.14298780487804877,[PID 6541] docker
+0.14268292682926828,[PID 8005] runc
+0.14268292682926828,[PID 7825] runc
+0.14268292682926828,[PID 8547] runc
+0.14268292682926828,[PID 17219] python3
+0.14207317073170733,"[PID 11700] dmx0:mov,mp4,m4"
+0.14176829268292684,[PID 10500] runc
+0.14146341463414633,[PID 8341] runc
+0.14146341463414633,[PID 8756] runc
+0.14085365853658538,[PID 17258] python3
+0.14085365853658538,[PID 7937] python3
+0.13902439024390245,[PID 5441] python3
+0.13871951219512196,"[PID 11718] dmx0:mov,mp4,m4"
+0.13842378048780485,[PID 8696] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 6fd5c9234c1f90d933fd407a96efc9ae157cbdf0933880b88f9d3fe988bcc43
+0.13810975609756096,[PID 8467] python3
+0.13810975609756096,[PID 10410] runc:[2:INIT]
+0.1375,[PID 4196] /usr/bin/python3 
+0.13719512195121952,"[PID 11768] dmx0:mov,mp4,m4"
+0.13689024390243903,[PID 12025] python3
+0.13684146341463416,[PID 9830] /usr/bin/containerd-shim-runc-v2 -namespace moby -id bee338ef4421abff313dc37c4b9a541b2e542867c6f59007faf178757b5105a
+0.13615853658536584,[PID 9522] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 66443b6a874ab884d2b993ce349394656f9c787132c71f7f6787da36ea62d26
+0.13597560975609757,[PID 9915] python3
+0.1353658536585366,[PID 15529] python3
+0.1350609756097561,"[PID 11562] dmx0:mov,mp4,m4"
+0.13485670731707317,[PID 8139] /usr/bin/containerd-shim-runc-v2 -namespace moby -id d7f8842b71a908bf12533b491faccf9215f9158b35b001a83c0c8dbe76be73f
+0.13475609756097562,[PID 7777] python3
+0.13414634146341464,[PID 9009] runc
+0.13353658536585367,[PID 17674] python3
+0.13323170731707318,[PID 10858] runc
+0.13323170731707318,[PID 16659] python3
+0.1326219512195122,[PID 8014] python3
+0.1326219512195122,[PID 15348] python3
+0.1326219512195122,"[PID 11574] dmx0:mov,mp4,m4"
+0.13260060975609758,[PID 8797] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 17388d281737c05a0604628f3cfa1b72ec9ec87ecb0146be10bdeb5db9f7dbf
+0.13217378048780487,[PID 8848] /usr/bin/containerd-shim-runc-v2 -namespace moby -id b3e22661c7231ac29839a40e3e1dc708c3b782ee947b97ecd24aaf8724ad1cf
+0.13201219512195123,"[PID 11568] dmx0:mov,mp4,m4"
+0.13201219512195123,[PID 17694] python3
+0.13097560975609757,[PID 11246] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 2161a1f46c267e8cbb34c5ddf8f8117a73bbc47db242dcd12c20cbecf252e7
+0.13079268292682927,[PID 7392] runc:[2:INIT]
+0.13048780487804879,"[PID 11706] dmx0:mov,mp4,m4"
+0.12957317073170732,[PID 14646] containerd-shim
+0.12957317073170732,[PID 7199] python3
+0.12957317073170732,[PID 8933] docker
+0.12865853658536586,[PID 7119] python3
+0.12865853658536586,[PID 16519] python3
+0.1283993902439024,vmstat_shepherd
+0.12835365853658537,[PID 12287] containerd-shim
+0.12835365853658537,"[PID 8262] dmx0:mov,mp4,m4"
+0.1277439024390244,"[PID 11538] dmx0:mov,mp4,m4"
+0.1277439024390244,"[PID 11550] dmx0:mov,mp4,m4"
+0.1277439024390244,[PID 17315] python3
+0.12713414634146342,[PID 17605] python3
+0.12713414634146342,"[PID 11670] dmx0:mov,mp4,m4"
+0.12713414634146342,[PID 9803] python3
+0.12682926829268293,[PID 17745] python3
+0.12652439024390244,"[PID 11485] dmx0:mov,mp4,m4"
+0.12652439024390244,"[PID 11658] dmx0:mov,mp4,m4"
+0.12591463414634146,"[PID 11500] dmx0:mov,mp4,m4"
+0.12591463414634146,"[PID 8576] dmx0:mov,mp4,m4"
+0.12589329268292684,[PID 9159] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ffedc9ca74ca9f41f96c0381d4324f7302ec3cdb4330bddf98f2bb590ff3c3
+0.12560975609756098,"[PID 11712] dmx0:mov,mp4,m4"
+0.1253048780487805,[PID 16243] python3
+0.125,[PID 17765] python3
+0.12347560975609756,[PID 7238] python3
+0.12333841463414634,[PID 31] [ksoftirqd/2]
+0.12286585365853658,[PID 9745] python3
+0.12256097560975611,[PID 16549] docker
+0.12256097560975611,[PID 17520] python3
+0.12256097560975611,[PID 17875] docker
+0.12225609756097562,[PID 17708] python3
+0.12195121951219512,[PID 17141] python3
+0.12195121951219512,[PID 17635] python3
+0.12164634146341463,[PID 17849] python3
+0.12164634146341463,[PID 8346] python3
+0.12134146341463414,[PID 8414] python3
+0.12103658536585367,[PID 5556] python3
+0.12042682926829269,[PID 9652] python3
+0.12042682926829269,[PID 10573] python3
+0.12042682926829269,[PID 17382] python3
+0.12042682926829269,[PID 14128] python3
+0.12012195121951219,[PID 10374] docker
+0.12012195121951219,[PID 7031] python3
+0.1198170731707317,"[PID 11592] dmx0:mov,mp4,m4"
+0.1198170731707317,[PID 17755] python3
+0.11951219512195123,[PID 17180] python3
+0.11951219512195123,[PID 17647] python3
+0.11951219512195123,[PID 14157] python3
+0.11951219512195123,"[PID 11580] dmx0:mov,mp4,m4"
+0.11945121951219513,[PID 11396] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 5fe6cbbc8b6cd43aff704bbbe0dc6219a39b4c91308f8ea436710e88277a4c
+0.11920731707317074,[PID 8567] python3
+0.11920731707317074,[PID 17623] python3
+0.11890243902439025,[PID 10905] runc:[2:INIT]
+0.11859756097560975,[PID 16680] python3
+0.11829268292682926,[PID 10057] python3
+0.11829268292682926,"[PID 11469] dmx0:mov,mp4,m4"
+0.11829268292682926,[PID 17662] python3
+0.11829268292682926,[PID 17270] python3
+0.11829268292682926,[PID 8260] python3
+0.11798780487804879,[PID 7121] python3
+0.11737804878048781,[PID 17392] python3
+0.11737804878048781,[PID 16992] python3
+0.11737804878048781,[PID 8728] python3
+0.11707317073170731,[PID 16028] python3
+0.11707317073170731,[PID 15842] python3
+0.11676829268292682,[PID 15237] python3
+0.11676829268292682,[PID 10315] python3
+0.11646341463414635,[PID 17443] docker
+0.11646341463414635,[PID 17787] python3
+0.11646341463414635,[PID 8416] docker
+0.11646341463414635,[PID 16596] python3
+0.11646341463414635,[PID 14417] containerd-shim
+0.11615853658536586,[PID 17901] python3
+0.11615853658536586,[PID 7678] python3
+0.11615853658536586,"[PID 11544] dmx0:mov,mp4,m4"
+0.11585365853658537,[PID 10821] python3
+0.11524390243902438,[PID 7446] docker
+0.11524390243902438,[PID 10423] docker
+0.11493902439024392,"[PID 11586] dmx0:mov,mp4,m4"
+0.11493902439024392,[PID 6953] python3
+0.11493902439024392,[PID 17008] python3
+0.11432926829268293,[PID 12189] python3
+0.11402439024390244,"[PID 11531] dmx0:mov,mp4,m4"
+0.11402439024390244,[PID 10171] docker
+0.11402439024390244,[PID 10324] docker
+0.11309146341463415,[PID 10037] /usr/bin/containerd-shim-runc-v2 -namespace moby -id be26f37ada995f7ce1ff41f8bc5dbabbb25ff5df3e0c15f8f3056752a682f6
+0.11280487804878049,[PID 8401] runc:[2:INIT]
+0.11280487804878049,[PID 3873] /usr/bin/dockerd 
+0.11280487804878049,[PID 10274] docker
+0.11280487804878049,[PID 17102] python3
+0.11280487804878049,[PID 13281] containerd-shim
+0.1125,[PID 8504] python3
+0.11189024390243904,[PID 10965] python3
+0.11189024390243904,[PID 9050] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 33f2a16a892850e81a012bae641d8d110bf370f7764802994ff3a00de2b8e35
+0.11158536585365854,[PID 10624] docker
+0.11158536585365854,[PID 8882] docker
+0.11158536585365854,[PID 7976] docker
+0.11158536585365854,[PID 6746] docker
+0.11158536585365854,"[PID 11640] dmx0:mov,mp4,m4"
+0.11128048780487805,[PID 12540] python3
+0.11097560975609756,[PID 17727] python3
+0.11097560975609756,[PID 17798] python3
+0.11067073170731707,[PID 5921] docker
+0.1103658536585366,[PID 10672] docker
+0.1103658536585366,[PID 8520] docker
+0.1103658536585366,[PID 7621] docker
+0.11033536585365847,hpsa_event_monitor_worker
+0.11006097560975611,[PID 9959] python3
+0.11006097560975611,[PID 17373] python3
+0.11006097560975611,[PID 7160] python3
+0.10975609756097561,[PID 17399] python3
+0.10945121951219512,[PID 7316] python3
+0.10945121951219512,[PID 10017] python3
+0.10945121951219512,[PID 13212] python3
+0.10935975609756099,[PID 7726] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 9228a5beb429a48b15ef50f98d7811ac5ee749f35ab752561478316d8e6ba4d
+0.10914634146341463,[PID 8578] docker
+0.10914634146341463,[PID 10575] docker
+0.1090548780487805,[PID 4493] /usr/bin/python3 
+0.10823170731707317,[PID 8305] python3
+0.10823170731707317,[PID 17789] docker
+0.10823170731707317,[PID 13294] python3
+0.10792682926829268,[PID 10833] docker
+0.10792682926829268,[PID 17847] python3
+0.10792682926829268,[PID 17846] python3
+0.10792682926829268,[PID 10122] docker
+0.10792682926829268,[PID 10980] docker
+0.10792682926829268,[PID 10224] docker
+0.10792682926829268,[PID 10557] python3
+0.10792682926829268,[PID 8831] docker
+0.1076219512195122,[PID 7709] docker
+0.1076219512195122,[PID 17058] python3
+0.10731707317073172,[PID 9109] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 70e0b74a9a39694e77d3aca411806741f9f1ed215dd81e3deca8e47d76dff94
+0.10718292682926835,delayed_work_timer_fn
+0.10701219512195123,[PID 17441] python3
+0.10670731707317073,"[PID 11524] dmx0:mov,mp4,m4"
+0.10670731707317073,[PID 10722] docker
+0.10670731707317073,[PID 8469] docker
+0.10609756097560975,[PID 7848] python3
+0.10609756097560975,"[PID 11634] dmx0:mov,mp4,m4"
+0.10609756097560975,[PID 17676] python3
+0.10548780487804879,[PID 6048] docker
+0.10548780487804879,[PID 8068] docker
+0.10548780487804879,[PID 17584] python3
+0.10548780487804878,[PID 11197] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 5db73f624af81a1a8abb2f64bb2e8aff938a7efb07fcf87e26f256bf039a7a
+0.1051829268292683,[PID 6175] python3
+0.10457317073170731,[PID 8781] docker
+0.10426829268292684,[PID 8629] docker
+0.10426829268292684,[PID 8730] docker
+0.10426829268292684,[PID 8365] docker
+0.10375,"[PID 8555] socat TCP-LISTEN:8081,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.10368902439024391,"[PID 11428] socat TCP-LISTEN:8083,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.10365853658536586,[PID 17596] python3
+0.10365853658536586,[PID 7604] python3
+0.10335365853658536,[PID 16922] python3
+0.10335365853658536,"[PID 11433] dmx0:mov,mp4,m4"
+0.10335365853658536,[PID 7798] docker
+0.10335365853658536,[PID 7534] docker
+0.10304878048780487,[PID 9285] runc:[2:INIT]
+0.10304878048780487,"[PID 11676] dmx0:mov,mp4,m4"
+0.10243902439024391,"[PID 11556] dmx0:mov,mp4,m4"
+0.10243902439024391,[PID 17326] python3
+0.10219512195121949,[PID 11347] /usr/bin/containerd-shim-runc-v2 -namespace moby -id a8338b4d2ed262e26afc5dc11af44a0ea3d0ff0c42295d052d17256c5bdbf4
+0.10091463414634147,[PID 9830] containerd-shim
+0.10060975609756098,[PID 14027] python3
+0.10022560975609757,[PID 10391] /usr/bin/containerd-shim-runc-v2 -namespace moby -id fc4d96d62c14ff7e4b65daeed231acf4899e6aa2c80db768fc3b31e55c4670
+0.09969512195121952,[PID 9883] containerd-shim
+0.09847560975609755,"[PID 11694] dmx0:mov,mp4,m4"
+0.09847560975609755,[PID 7887] docker
+0.09603658536585366,[PID 7357] docker
+0.09359756097560976,"[PID 11688] dmx0:mov,mp4,m4"
+0.09359756097560976,[PID 13367] containerd-shim
+0.09268292682926829,[PID 9778] containerd-shim
+0.0902439024390244,[PID 9985] containerd-shim
+0.0901310975609756,[PID 9110] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 70e0b74a9a39694e77d3aca411806741f9f1ed215dd81e3deca8e47d76dff94
+0.08915548780487806,[PID 8486] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 413b083d40b2b75ff650f1c305534def43c2936ddca2aadd64a47c05bc4619b
+0.0889329268292683,[PID 11296] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 280c2760fb49404ba4f3495399147a7118189763aa15fca29c7ca270750d29
+0.08871951219512196,[PID 13227] containerd-shim
+0.08658536585365853,[PID 10037] containerd-shim
+0.08554878048780488,[PID 7638] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4edfc31956d01563dc8ec4418e9027be8348e740fe7dc00dde4dd2d22977791
+0.08536585365853659,"[PID 11761] dmx0:mov,mp4,m4"
+0.08429878048780487,[PID 11128] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 955f4b5ac7039f53460b7e0fbbf6fed0d4a106d1f6204f71f2d352a46c3ee6
+0.08414634146341464,[PID 10340] containerd-shim
+0.08414634146341464,[PID 13253] containerd-shim
+0.08365853658536586,gc_worker
+0.08287804878048781,[PID 9367] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 94e18ff60447dbd3a5aaca21ab103b0c20e63a707fe25b866da2ae8b85a7811
+0.08201219512195122,[PID 14555] containerd-shim
+0.08170731707317073,[PID 7896] containerd-shim
+0.08170731707317073,[PID 10189] containerd-shim
+0.08170731707317073,[PID 9727] containerd-shim
+0.0816768292682927,[PID 109] [ksoftirqd/15]
+0.07957317073170732,[PID 9934] containerd-shim
+0.07926829268292683,[PID 14469] containerd-shim
+0.07865853658536585,"[PID 11628] dmx0:mov,mp4,m4"
+0.0786524390243902,[1] timer(softirq)
+0.07711585365853657,[PID 9883] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 15b8045b66a55e87b13300c9002e7622d28d43d927971d2387fa11fca0a547b
+0.07702134146341463,[PID 8645] /usr/bin/containerd-shim-runc-v2 -namespace moby -id b94811814a66320d4ac4441e7d9700149f17e9640e261744c9d78b8a6c8f7dd
+0.07682926829268293,[PID 12526] containerd-shim
+0.07560975609756099,[PID 8538] containerd-shim
+0.07560975609756099,[PID 14887] containerd-shim
+0.07560975609756099,[PID 16475] /usr/bin/python3 
+0.07560975609756099,[PID 12412] containerd-shim
+0.07560975609756099,[PID 14390] containerd-shim
+0.07560975609756097,[PID 9470] /usr/bin/containerd-shim-runc-v2 -namespace moby -id b3604fa930caf983866b4c0b75fc7dfcabc9dd55e8de2c5937e60bfb0d12232
+0.07469512195121951,[PID 6057] containerd-shim
+0.07467378048780487,[PID 9263] /usr/bin/containerd-shim-runc-v2 -namespace moby -id f0aedde23ce0509da416f9d0dcde195111164d8b10ce5f7200b34f9898e4fe6
+0.07467378048780487,[PID 8899] /usr/bin/containerd-shim-runc-v2 -namespace moby -id aba9b03abd7d6033de26e9143f27e9bbfc0c383e3a17ec3ae9aa2baba484fe1
+0.07439024390243902,[PID 14735] containerd-shim
+0.07439024390243902,[PID 16961] docker
+0.07439024390243902,[PID 17719] docker
+0.07439024390243902,[PID 14696] containerd-shim
+0.07439024390243902,[PID 10088] /usr/bin/containerd-shim-runc-v2 -namespace moby -id a892ab3f7a356f75c1a070eda0e63338c4d1f748fe29def733d1f166aa8993
+0.07363719512195122,[PID 8595] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3f5ec3dc38cbd2f4235a5ed2a0fb93668347c917df95159ec9f6402e8b47e84
+0.07347560975609757,[PID 6755] containerd-shim
+0.07317073170731708,[PID 16046] docker
+0.07317073170731708,[PID 17607] docker
+0.0725609756097561,"[PID 11622] dmx0:mov,mp4,m4"
+0.0722560975609756,[PID 17678] docker
+0.0722560975609756,[PID 17709] docker
+0.0722560975609756,[PID 17767] docker
+0.0722560975609756,[PID 16303] docker
+0.0722560975609756,[PID 17637] docker
+0.07195121951219513,[PID 5930] containerd-shim
+0.07195121951219513,[PID 17375] docker
+0.07195121951219513,[PID 11015] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4fc49559467cadf44abe84cfbeee660f847234b59f393e0e08c492d61e1b52
+0.07195121951219513,[PID 17648] docker
+0.07195121951219513,[PID 8081] containerd-shim
+0.07195121951219513,[PID 17586] docker
+0.07195121951219513,[PID 17597] docker
+0.07195121951219513,[PID 14508] docker
+0.07195121951219513,[PID 14482] docker
+0.07195121951219513,[PID 15899] docker
+0.07134146341463414,[PID 15996] docker
+0.07134146341463414,[PID 17818] docker
+0.07134146341463414,[PID 15947] docker
+0.07128048780487804,"[PID 8060] socat TCP-LISTEN:8080,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.07103658536585367,[PID 17384] docker
+0.07103658536585367,[PID 17737] docker
+0.07103658536585367,[PID 17729] docker
+0.07103658536585367,[PID 10138] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 03b754c15c267db4e879867f9789c0ec885859393e6f914451cf5cfb5deb46
+0.07103658536585367,[PID 12544] docker
+0.07103658536585367,[PID 17615] docker
+0.07103658536585367,[PID 12191] docker
+0.07103658536585367,[PID 17800] docker
+0.07103658536585367,[PID 17747] docker
+0.07103658536585367,[PID 17808] docker
+0.07103658536585367,[PID 17656] docker
+0.07103658536585367,[PID 17835] docker
+0.07103658536585367,[PID 17696] docker
+0.07103658536585367,[PID 16873] docker
+0.07073170731707316,[PID 7718] containerd-shim
+0.07073170731707316,[PID 14363] containerd-shim
+0.07073170731707316,[PID 17686] docker
+0.07073170731707316,[PID 17922] docker
+0.07073170731707316,[PID 17666] docker
+0.07073170731707316,[PID 13319] containerd-shim
+0.07073170731707316,[PID 17365] docker
+0.07073170731707316,[PID 17317] docker
+0.0701219512195122,[PID 17826] docker
+0.0698170731707317,[PID 16171] docker
+0.0698170731707317,[PID 17627] docker
+0.0698170731707317,[PID 17047] docker
+0.0698170731707317,[PID 17891] docker
+0.0698170731707317,[PID 17094] docker
+0.0698170731707317,[PID 17859] docker
+0.0698170731707317,[PID 17778] docker
+0.0698170731707317,[PID 14582] containerd-shim
+0.0698170731707317,[PID 9675] containerd-shim
+0.0698170731707317,[PID 17931] docker
+0.0698170731707317,[PID 13296] docker
+0.06954268292682927,"[PID 9084] socat TCP-LISTEN:8082,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.06951219512195123,[PID 14530] containerd-shim
+0.06951219512195123,[PID 15804] containerd-shim
+0.06951219512195123,[PID 8115] runc
+0.06951219512195123,[PID 14848] containerd-shim
+0.06859756097560976,[PID 13361] runc
+0.06859756097560976,[PID 8645] containerd-shim
+0.06835975609756095,neigh_periodic_work
+0.06829268292682926,[PID 7455] containerd-shim
+0.06829268292682926,[PID 7630] containerd-shim
+0.06829268292682926,[PID 12079] containerd-shim
+0.06829268292682926,[PID 7930] runc
+0.06829268292682926,[PID 6091] runc
+0.06750914634146342,[PID 7815] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 6fa2dc8de486666c77b5d51633595463617a1f58fae5ededb2000e96566b81f
+0.06737804878048781,[PID 7050] containerd-shim
+0.06737804878048781,[PID 7463] containerd-shim
+0.06726524390243901,[PID 8382] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 259a7e3eb7707365fa32f75ae13fadb330f0f42cbe04b4fa7decd2d65053edc
+0.06615853658536586,[PID 14506] python3
+0.06615853658536586,[PID 13445] containerd-shim
+0.06615853658536586,[PID 13439] runc
+0.06615853658536586,[PID 13275] runc
+0.06615853658536586,[PID 13221] runc
+0.06585365853658537,[PID 14430] python3
+0.0649390243902439,[PID 13815] python3
+0.0649390243902439,[PID 6550] containerd-shim
+0.0649390243902439,[PID 8028] runc
+0.06463414634146342,[PID 7807] containerd-shim
+0.06371951219512195,[PID 14463] runc
+0.06371951219512195,[PID 7366] containerd-shim
+0.06371951219512195,[PID 14794] runc
+0.062875,[PID 8331] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 455887ffd531217b9376c1d835557aefa1c28a58059d102425153783b3061ab
+0.06280487804878049,[PID 8435] containerd-shim
+0.06135060975609755,[PID 8435] /usr/bin/containerd-shim-runc-v2 -namespace moby -id f1ea3af1d35c4f6669c4e1d282ea50ce6fafd1d2d0001b9c320f0b31a9b69c8
+0.061280487804878055,[PID 7542] containerd-shim
+0.060469512195121956,bnx2x_sp_task
+0.060192073170731705,[PID 9778] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 48bea1b727a3e7756e50c1fa2f6f25408b70cc583f6e317a5b5f80c719d3870
+0.0601829268292683,[PID 7996] /usr/bin/containerd-shim-runc-v2 -namespace moby -id b70f77be5e3775aeab751b55691c5408dc76a934aa1cd7d879d522fdf7cbef1
+0.060060975609756095,[PID 14411] runc
+0.060060975609756095,[PID 7841] runc
+0.060060975609756095,[PID 6065] containerd-shim
+0.05884146341463415,[PID 7987] containerd-shim
+0.05884146341463415,[PID 13777] containerd-shim
+0.057926829268292686,[PID 8595] containerd-shim
+0.05762195121951219,[PID 12281] runc
+0.056899390243902434,[PID 7550] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 1f4515baeef7411cfe3aa5f338e21749902c7ae947583675ad64d857fd3a56e
+0.05670731707317074,fsnotify_mark_destroy_workfn
+0.056402439024390245,[PID 14549] runc
+0.056402439024390245,[PID 12520] runc
+0.056402439024390245,[PID 13247] runc
+0.05548780487804878,[PID 10439] containerd-shim
+0.05548780487804878,[PID 8747] containerd-shim
+0.0552560975609756,[PID 10340] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 5577f1a603df75978221f87f55ccdb261df887a03b592fb1b96b0ae8f52813
+0.0551829268292683,[PID 14384] runc
+0.0551829268292683,[PID 12406] runc
+0.0551829268292683,"[PID 11514] dmx0:mov,mp4,m4"
+0.0551829268292683,[PID 13505] containerd-shim
+0.0551829268292683,[PID 14524] runc
+0.0551829268292683,[PID 14640] runc
+0.0551829268292683,[PID 15798] runc
+0.05396341463414634,[PID 14357] runc
+0.05314024390243902,[PID 10242] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 0a40c3ecb1229b0d3482635a3c9a98d8c402cc18bd17c7e674fe710a1c7937
+0.05304878048780488,"[PID 11754] dmx0:mov,mp4,m4"
+0.052743902439024395,[PID 6789] runc
+0.052317073170731705,"[PID 11464] socat TCP-LISTEN:8086,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.05182926829268293,[PID 6558] containerd-shim
+0.05165853658536585,[PID 10290] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 9c71c7fa1b5b431c006df88ada3160096a0c52a55c1b8bd351d1595a0c0cf0
+0.05150609756097562,[PID 10490] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 403d72b99575c38c6f26afc1b5e9d0ed69fae3538805af2e9568e138bc3044
+0.05060975609756098,[PID 12073] runc
+0.04992378048780489,netstamp_clear
+0.0480640243902439,[PID 10875] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 868fc7146170a7807bca7035d1b521c2690440998db84f5ba7b0bcf8ac6537
+0.047865853658536586,[PID 5967] runc
+0.04695121951219512,[PID 11396] containerd-shim
+0.046841463414634146,[PID 10926] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 66e75d85c43991ce518fdcb6fbaa72f7361f26a316d2768cedb304e9e38882
+0.046841463414634146,[PID 9625] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 2d39f8828f470c0613af3588922a7e8162e8580f881cd513113610aef859fe4
+0.045929878048780494,[PID 10788] /usr/bin/containerd-shim-runc-v2 -namespace moby -id bae71cd88f4363c5bc2c5ee95daed1d4ace484fefbb1c1651d9535cd9a1129
+0.04573170731707317,[PID 6584] runc
+0.04560975609756098,[PID 9574] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 7f14d118cc70809113984c11bbb1b6e9e1d1518d07ace8e52f909b1fca27437
+0.04472560975609756,[PID 10849] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 1f4f06c622830b631bc5a0ea15b80af3cdab3917cd281a83c4f0d7809c64ea
+0.04470731707317073,[PID 9675] /usr/bin/containerd-shim-runc-v2 -namespace moby -id cc364de99cb1c99504beda03d457424187812d564992e5bcbeb14bd19e36a99
+0.04451219512195122,[PID 6253] /usr/bin/python3 
+0.04451219512195122,[PID 10439] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 78416069acd52e7928d55ccd0580d4ea4dcf6b9f57aba8abb3d341650a9509
+0.04351524390243902,[PID 8538] /usr/bin/containerd-shim-runc-v2 -namespace moby -id aa688c5653843622c00a299d525db06603233d89f7de289f4c4cc7c419b44d8
+0.04207317073170732,[PID 11494] /usr/bin/containerd-shim-runc-v2 -namespace moby -id fc4d96d62c14ff7e4b65daeed231acf4899e6aa2c80db768fc3b31e55c4670
+0.04070121951219512,"[PID 11448] socat TCP-LISTEN:8085,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.04070121951219512,[PID 43] [ksoftirqd/4]
+0.03957317073170732,[PID 10592] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 06b0cd7c3606e1d710e194e8c35fa49c7718594d9cca17ad0a8021d6688e98
+0.03869817073170732,[PID 9000] /usr/bin/containerd-shim-runc-v2 -namespace moby -id b7397d5682d1e09726e189ff194da199cf8ad74f1b0906b7e557f5f4ead2a98
+0.03839329268292683,[PID 9420] /usr/bin/containerd-shim-runc-v2 -namespace moby -id f83c30eadacb97ed989f614e09311cf1c6e5c69bda87c143023b5a22c75ec73
+0.03719512195121951,"[PID 11847] socat TCP-LISTEN:8136,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.03628048780487805,"[PID 11919] socat TCP-LISTEN:8149,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.035975609756097565,"[PID 11689] socat TCP-LISTEN:8118,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.035957317073170736,[PID 9985] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 0f9d5817e58f725c5591daa8c6c6d7cf3e34ae41a2b983ed65420581d191926
+0.03591463414634147,"[PID 11509] socat TCP-LISTEN:8089,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.03572865853658536,[PID 3702] /usr/sbin/crond -c /etc/crontabs -f 
+0.03384146341463415,[PID 11498] ffmpeg
+0.033820121951219514,[PID 8949] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 59a0d43447957f2f9ba9b0f6cb57548244f21a2ed3bcb184b92a5de93eb0123
+0.03357317073170732,wb_update_bandwidth_workfn
+0.03277439024390244,"[PID 11479] socat TCP-LISTEN:8084,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.03231707317073171,"[PID 5956] socat TCP-LISTEN:8081,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.03121646341463415,crng_reseed
+0.02826219512195122,"[PID 5710] socat TCP-LISTEN:8080,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.02778658536585366,[PID 8280] /usr/bin/containerd-shim-runc-v2 -namespace moby -id c49f61bddef8c64e511139ea2e4a8b7f07c1ccd6daa13ffb5c55c992289c19a
+0.027408536585365854,"[PID 6781] socat TCP-LISTEN:8086,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.026036585365853657,[PID 5926] docker
+0.024481707317073168,[PID 3764] log_proxy -m /var/log/docker.log 
+0.02405487804878049,[PID 15811] runc
+0.023798780487804882,[PID 3675] /usr/sbin/chronyd -f /etc/chrony/chrony.conf 
+0.022875,[PID 11102] /usr/bin/containerd-shim-runc-v2 -namespace moby -id c9f6d853ae06a3eaaaa35df07309c126019ea97dffe6a595fe3ff635916e93
+0.022658536585365853,[PID 73] [ksoftirqd/9]
+0.022408536585365853,[PID 11523] ffmpeg -re -ss 2590 -i /videos/chosen.mp4 -t 1800 -c copy -f mpegts pipe:1 
+0.02225609756097561,[PID 4540] python3
+0.022225609756097563,[PID 6049] docker
+0.021579268292682925,hpsa_monitor_ctlr_worker
+0.020091463414634147,"[PID 6083] socat TCP-LISTEN:8082,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.02003048780487805,"[PID 11545] socat TCP-LISTEN:8094,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.019634146341463418,"[PID 11587] socat TCP-LISTEN:8099,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.019512195121951223,"[PID 11533] socat TCP-LISTEN:8087,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.01925,[PID 9934] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 9d136b1098758a0da507b2304b880f3979bf7e535ed137a0467ee54001da47f
+0.018475609756097564,[PID 4540] /usr/bin/python3 
+0.018009146341463413,idle_cull_fn
+0.017469512195121953,"[PID 6576] socat TCP-LISTEN:8085,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.017317073170731705,[PID 6749] docker
+0.01719512195121951,"[PID 11948] dmx0:mov,mp4,m4"
+0.016920731707317074,"[PID 11526] socat TCP-LISTEN:8093,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.016158536585365854,[PID 6540] docker
+0.016128048780487805,[PID 5517] /usr/bin/python3 
+0.016097560975609757,[PID 4327] python3
+0.015945121951219512,[PID 5244] python3
+0.015859756097560976,[PID 165] [kworker/u32:5]
+0.01579268292682927,[PID 6569] runc
+0.015701219512195122,[PID 5244] /usr/bin/python3 
+0.015701219512195122,[PID 6500] /usr/bin/python3 
+0.015615853658536589,check_lifetime
+0.015274390243902439,"[PID 11495] socat TCP-LISTEN:8088,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.015030487804878048,[PID 5923] docker
+0.014969512195121952,[PID 4591] /usr/bin/python3 
+0.014878048780487804,"[PID 11569] socat TCP-LISTEN:8095,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.014725609756097562,[PID 4325] /usr/bin/python3 
+0.014634146341463414,[PID 5841] /usr/bin/python3 
+0.014481707317073171,[PID 16097] /usr/bin/python3 
+0.014390243902439023,"[PID 11575] socat TCP-LISTEN:8100,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.014085365853658537,[PID 16077] /usr/bin/python3 
+0.01399390243902439,[PID 4967] /usr/bin/python3 
+0.013963414634146342,[PID 4236] /usr/bin/python3 
+0.013780487804878047,[PID 16874] docker
+0.01375,[PID 6047] docker
+0.013658536585365855,[PID 5439] /usr/bin/python3 
+0.013567073170731709,[PID 15817] /usr/bin/python3 
+0.013384146341463414,[PID 6705] /usr/bin/python3 
+0.013359756097560975,[PID 55] [ksoftirqd/6]
+0.013323170731707318,[PID 15980] /usr/bin/python3 
+0.013170731707317074,[PID 15897] /usr/bin/python3 
+0.013012195121951217,[PID 49] [ksoftirqd/5]
+0.012865853658536585,[PID 16262] /usr/bin/python3 
+0.012835365853658538,[PID 6666] /usr/bin/python3 
+0.01274390243902439,[PID 5010] /usr/bin/python3 
+0.012652439024390245,[PID 16630] /usr/bin/python3 
+0.012591463414634147,[PID 5993] /usr/bin/python3 
+0.012560975609756098,"[PID 11539] socat TCP-LISTEN:8091,reuseaddr,fork SYSTEM:sh /stream.sh /videos/$VIDEO $START_AT $VIDEO_DURATION "
+0.012408536585365854,[PID 17180] /usr/bin/python3 
+0.012408536585365854,[PID 5920] docker
+0.011798780487804878,[PID 6422] /usr/bin/python3 
+0.01176829268292683,[PID 5927] docker
+0.01173780487804878,[PID 61] [ksoftirqd/7]
+0.011371951219512195,[PID 4403] /usr/bin/python3 
+0.011341463414634148,[PID 4186] sshd
+0.01128048780487805,[PID 4188] sshd
+0.01125,[PID 6547] docker
+0.011219512195121953,[PID 4727] /usr/bin/python3 
+0.011097560975609757,[PID 16577] /usr/bin/python3 
+0.011097560975609757,[PID 16219] /usr/bin/python3 
+0.01103658536585366,[PID 4731] /usr/bin/python3 
+0.010975609756097562,[PID 16180] /usr/bin/python3 
+0.010914634146341464,[PID 5880] /usr/bin/python3 
+0.010823170731707316,[PID 5919] /usr/bin/python3 
+0.01079268292682927,hpsa_rescan_ctlr_worker
+0.010579268292682928,[PID 5556] /usr/bin/python3 
+0.010548780487804879,[PID 15898] docker
+0.010515243902439025,[PID 103] [ksoftirqd/14]
+0.010457317073170732,[PID 4450] /usr/bin/python3 
+0.010426829268292684,[PID 6747] docker
+0.010335365853658537,[PID 15946] docker
+0.010152439024390244,[PID 4442] /usr/bin/python3 
+0.010152439024390244,[PID 5948] runc
+0.010152439024390244,[PID 4327] /usr/bin/python3 
+0.010060975609756098,[PID 4237] /usr/bin/python3 
+0.010060975609756098,[PID 15955] /usr/bin/python3 
+0.010030487804878049,[PID 16132] /usr/bin/python3 
+0.009969512195121951,[PID 16044] /usr/bin/python3 
+0.009939024390243903,[PID 4448] /usr/bin/python3 
+0.009939024390243903,[PID 4811] /usr/bin/python3 
+0.009878048780487807,[PID 4850] /usr/bin/python3 
+0.009878048780487807,[PID 4770] /usr/bin/python3 
+0.009847560975609756,[PID 4444] /usr/bin/python3 
+0.009847560975609756,[PID 4729] /usr/bin/python3 
+0.009817073170731709,[PID 5802] /usr/bin/python3 
+0.009817073170731709,[PID 6461] /usr/bin/python3 
+0.009786585365853659,[PID 4446] /usr/bin/python3 
+0.009756097560975611,[PID 5763] /usr/bin/python3 
+0.009725609756097561,[PID 16849] /usr/bin/python3 
+0.009725609756097561,[PID 5127] /usr/bin/python3 
+0.009725609756097561,[PID 5283] /usr/bin/python3 
+0.009695121951219514,[PID 4969] /usr/bin/python3 
+0.009646341463414636,[PID 10189] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 7d27eae6c442bdef0eecf0e4514ed0ffc5dfea350950ad5643c456e5c97d8a
+0.009634146341463416,[PID 5322] /usr/bin/python3 
+0.009603658536585366,[PID 4810] /usr/bin/python3 
+0.009542682926829268,[PID 16922] /usr/bin/python3 
+0.009512195121951221,[PID 5049] /usr/bin/python3 
+0.009451219512195123,[PID 5166] /usr/bin/python3 
+0.009451219512195123,[PID 4489] /usr/bin/python3 
+0.009390243902439026,[PID 6539] /usr/bin/python3 
+0.009359756097560975,[PID 5205] /usr/bin/python3 
+0.009359756097560975,[PID 6744] /usr/bin/python3 
+0.009329268292682928,[PID 16871] /usr/bin/python3 
+0.009298780487804878,[PID 6627] /usr/bin/python3 
+0.009298780487804878,[PID 6912] /usr/bin/python3 
+0.009298780487804878,[PID 17058] /usr/bin/python3 
+0.009207317073170733,[PID 16883] /usr/bin/python3 
+0.009207317073170733,[PID 6331] /usr/bin/python3 
+0.009176829268292682,[PID 4321] sh
+0.009085365853658536,[PID 5595] /usr/bin/python3 
+0.00896341463414634,[PID 15934] /usr/bin/python3 
+0.008932926829268294,[PID 5361] /usr/bin/python3 
+0.008932926829268294,[PID 5400] /usr/bin/python3 
+0.008902439024390243,[PID 5924] docker
+0.008902439024390243,[PID 6795] /usr/bin/python3 
+0.008871951219512196,[PID 6050] docker
+0.008871951219512196,[PID 6046] /usr/bin/python3 
+0.008871951219512196,[PID 16758] /usr/bin/python3 
+0.008810975609756098,[PID 15895] /usr/bin/python3 
+0.008780487804878048,[PID 6134] /usr/bin/python3 
+0.008780487804878048,[PID 4185] sshd: videoserver [priv] 
+0.008780487804878048,[PID 4319] sh
+0.008780487804878048,[PID 17141] /usr/bin/python3 
+0.008780487804878048,[PID 4191] sh
+0.00875,[PID 4187] sshd: videoserver [priv] 
+0.00875,[PID 6175] /usr/bin/python3 
+0.00871951219512195,[PID 6752] docker
+0.008658536585365853,[PID 5441] /usr/bin/python3 
+0.008658536585365853,[PID 16596] sh
+0.008658536585365853,[PID 4193] sh
+0.008658536585365853,[PID 16815] /usr/bin/python3 
+0.008658536585365853,[PID 16738] /usr/bin/python3 
+0.008628048780487806,[PID 4877] /usr/bin/python3 
+0.008628048780487806,[PID 6777] runc
+0.008628048780487806,[PID 17008] /usr/bin/python3 
+0.008567073170731708,[PID 16221] /usr/bin/python3 
+0.008567073170731708,[PID 4491] /usr/bin/python3 
+0.008536585365853657,[PID 4239] /usr/bin/python3 
+0.00850609756097561,[PID 6136] /usr/bin/python3 
+0.00850609756097561,[PID 16659] sh
+0.008414634146341462,[PID 6951] /usr/bin/python3 
+0.008390243902439025,blk_mq_timeout_work
+0.008384146341463415,[PID 6873] /usr/bin/python3 
+0.008323170731707318,[PID 16302] docker
+0.00826219512195122,[PID 15999] docker
+0.008231707317073171,[PID 6292] /usr/bin/python3 
+0.008231707317073171,[PID 6834] /usr/bin/python3 
+0.008201219512195122,[PID 4571] /usr/bin/python3 
+0.008170731707317073,[PID 6992] /usr/bin/python3 
+0.008140243902439025,[PID 16992] /usr/bin/python3 
+0.008109756097560976,[PID 16548] docker
+0.008079268292682927,[PID 16311] /usr/bin/python3 
+0.008079268292682927,[PID 17102] /usr/bin/python3 
+0.00801829268292683,[PID 6544] docker
+0.008003048780487805,[PID 79] [ksoftirqd/10]
+0.007957317073170732,[PID 6953] /usr/bin/python3 
+0.007896341463414634,[PID 4971] /usr/bin/python3 
+0.007804878048780489,[PID 16287] /usr/bin/python3 
+0.007743902439024391,[PID 4318] sh
+0.007713414634146341,[PID 16243] /usr/bin/python3 
+0.0075792682926829275,[PID 97] [ksoftirqd/13]
+0.007560975609756097,[PID 16391] sh
+0.007560975609756097,[PID 15948] docker
+0.007530487804878049,[PID 11946] ffmpeg
+0.007469512195121952,[PID 17050] docker
+0.007439024390243902,[PID 16680] sh
+0.0073780487804878045,[PID 4541] python3
+0.0073475609756097566,[PID 4574] python3
+0.007286585365853659,[PID 4975] python3
+0.007228658536585365,tcp_orphan_update
+0.007225609756097561,[PID 15842] sh
+0.007103658536585366,[PID 4194] sshd: videoserver@notty 
+0.0070426829268292685,[PID 16960] docker
+0.006981707317073171,[PID 17093] docker
+0.006829268292682928,[PID 16028] sh
+0.006341463414634147,[PID 16963] docker
+0.006310975609756097,[PID 17096] docker
+0.006310975609756097,[PID 16875] docker
+0.0062499999999999995,[PID 16964] docker
+0.0062499999999999995,[PID 16552] docker
+0.0062195121951219515,[PID 15859] python3
+0.006189024390243902,[PID 16395] python3
+0.00600609756097561,addrconf_verify_work
+0.005996951219512195,br_fdb_cleanup
+0.005975609756097561,[PID 15946] python3
+0.005783536585365854,[PID 6356] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 64262a7434dd656c5ed27c9060cf33b1c044bb3bf6f1c2c0faa3e79b80b3aa6
+0.0055792682926829274,[PID 16302] python3
+0.0055792682926829274,[PID 15898] python3
+0.005567073170731707,[PID 4177] [kworker/0:0]
+0.0055304878048780485,mce_timer_fn
+0.00549390243902439,[PID 91] [ksoftirqd/12]
+0.005304878048780488,[PID 4834] python3
+0.005274390243902439,[PID 5184] python3
+0.0052439024390243906,[PID 4893] python3
+0.005213414634146342,[PID 5560] python3
+0.005213414634146342,[PID 7055] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 1ba0fcf9eaa022d98b45e6bd3b6155eddb6c4f8651ac1f4c2dedac4a5428f81
+0.005213414634146342,[PID 5382] python3
+0.005121951219512195,[PID 5287] python3
+0.0050670731707317075,[PID 6352] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 64262a7434dd656c5ed27c9060cf33b1c044bb3bf6f1c2c0faa3e79b80b3aa6
+0.005060975609756098,[PID 5521] python3
+0.005060975609756098,[PID 4932] python3
+0.005060975609756098,[PID 5447] python3
+0.005030487804878049,[PID 4331] python3
+0.005030487804878049,[PID 4611] python3
+0.005030487804878049,[PID 4454] python3
+0.004969512195121951,[PID 4494] python3
+0.004939024390243903,[PID 4259] python3
+0.004939024390243903,[PID 5288] python3
+0.004932926829268292,[PID 138] [kworker/u32:3]
+0.0049085365853658545,[PID 4355] python3
+0.0049085365853658545,[PID 4378] python3
+0.004878048780487806,[PID 4198] python3
+0.004878048780487806,[PID 5221] python3
+0.004817073170731708,[PID 4243] python3
+0.004817073170731708,[PID 5207] python3
+0.004786585365853659,[PID 5599] python3
+0.0047560975609756105,[PID 4407] python3
+0.004725609756097562,[PID 5445] python3
+0.004695121951219513,[PID 5402] python3
+0.004695121951219513,[PID 4732] python3
+0.004685975609756097,[PID 6070] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 034e3cb7e3742e5479c225cbed08655aa1f40d82fcaedd9fcd5f6b926a9da5c
+0.004664634146341464,[PID 5326] python3
+0.004634146341463415,[PID 5247] python3
+0.0046036585365853665,[PID 5014] python3
+0.0046036585365853665,[PID 4852] python3
+0.0046036585365853665,[PID 5131] python3
+0.004390243902439024,[PID 6770] /usr/bin/containerd-shim-runc-v2 -namespace moby -id c3e0059a7fa885dee159507892cfed7b93b84e6891ca4e799517cac28c8022b
+0.004259146341463416,[PID 4179] [kworker/u32:0]
+0.0041158536585365856,[PID 9988] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 0f9d5817e58f725c5591daa8c6c6d7cf3e34ae41a2b983ed65420581d191926
+0.003932926829268293,[PID 4844] python3
+0.0039024390243902443,[PID 5405] python3
+0.0039024390243902443,[PID 8648] /usr/bin/containerd-shim-runc-v2 -namespace moby -id b94811814a66320d4ac4441e7d9700149f17e9640e261744c9d78b8a6c8f7dd
+0.0038719512195121955,[PID 4979] python3
+0.0038292682926829263,process_timeout
+0.0038109756097560975,[PID 5132] python3
+0.0038109756097560975,[PID 5363] python3
+0.0038109756097560975,[PID 4570] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.0037804878048780487,[PID 4762] python3
+0.00375,[PID 4776] python3
+0.00375,[PID 4933] python3
+0.00375,[PID 4354] python3
+0.00375,[PID 4502] python3
+0.003719512195121951,[PID 4409] python3
+0.003719512195121951,[PID 5016] python3
+0.003719512195121951,[PID 4754] python3
+0.0036890243902439022,[PID 4901] python3
+0.0036890243902439022,[PID 4924] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.003649390243902439,sync_hw_clock
+0.0036280487804878046,[PID 4374] python3
+0.003597560975609756,[PID 4800] python3
+0.003445121951219512,[PID 4774] python3
+0.003414634146341464,[PID 5415] python3
+0.0033658536585365858,[PID 5718] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 053314eaa408cec12cb4e605a4a4a215063110fc705c649d41cdc3a2aa23546
+0.0033536585365853662,[PID 5695] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 053314eaa408cec12cb4e605a4a4a215063110fc705c649d41cdc3a2aa23546
+0.0033536585365853662,[PID 11430] sh /stream.sh /videos/chosen.mp4 415 1800 
+0.0033231707317073174,[PID 6067] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 034e3cb7e3742e5479c225cbed08655aa1f40d82fcaedd9fcd5f6b926a9da5c
+0.003201219512195122,[PID 5941] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 5dc2d47e0acd5fa8d0e33dd4b3f2a393ce5bbac3b838a4b81827aaab14c08bb
+0.0030396341463414635,[PID 10447] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 78416069acd52e7928d55ccd0580d4ea4dcf6b9f57aba8abb3d341650a9509
+0.00300609756097561,[PID 7640] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4edfc31956d01563dc8ec4418e9027be8348e740fe7dc00dde4dd2d22977791
+0.003,[PID 5943] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 5dc2d47e0acd5fa8d0e33dd4b3f2a393ce5bbac3b838a4b81827aaab14c08bb
+0.002954268292682927,[PID 9579] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 7f14d118cc70809113984c11bbb1b6e9e1d1518d07ace8e52f909b1fca27437
+0.0029115853658536585,[PID 8441] /usr/bin/containerd-shim-runc-v2 -namespace moby -id f1ea3af1d35c4f6669c4e1d282ea50ce6fafd1d2d0001b9c320f0b31a9b69c8
+0.0029115853658536585,[PID 10789] /usr/bin/containerd-shim-runc-v2 -namespace moby -id bae71cd88f4363c5bc2c5ee95daed1d4ace484fefbb1c1651d9535cd9a1129
+0.0029085365853658536,[PID 10093] /usr/bin/containerd-shim-runc-v2 -namespace moby -id a892ab3f7a356f75c1a070eda0e63338c4d1f748fe29def733d1f166aa8993
+0.002902439024390244,[PID 11303] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 280c2760fb49404ba4f3495399147a7118189763aa15fca29c7ca270750d29
+0.002902439024390244,[PID 9678] /usr/bin/containerd-shim-runc-v2 -namespace moby -id cc364de99cb1c99504beda03d457424187812d564992e5bcbeb14bd19e36a99
+0.0028841463414634146,[PID 5088] /usr/bin/python3 
+0.002871951219512195,[PID 12279] [kworker/0:1]
+0.002871951219512195,[PID 7557] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 1f4515baeef7411cfe3aa5f338e21749902c7ae947583675ad64d857fd3a56e
+0.0028628048780487804,[PID 5255] python3
+0.0028506097560975613,[PID 5151] python3
+0.002829268292682927,[PID 6565] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 466d276b3e6f28f17e61313050781b89fd822533172219c854bb4c5fb758fda
+0.0028231707317073174,[PID 8855] /usr/bin/containerd-shim-runc-v2 -namespace moby -id b3e22661c7231ac29839a40e3e1dc708c3b782ee947b97ecd24aaf8724ad1cf
+0.002807926829268293,[PID 5048] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.0027957317073170735,[PID 4961] python3
+0.002780487804878049,[PID 5510] python3
+0.002780487804878049,[PID 5516] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.002777439024390244,[PID 4563] python3
+0.0027743902439024393,[PID 5514] python3
+0.0027743902439024393,[PID 5355] python3
+0.0027652439024390247,[PID 4841] python3
+0.00276219512195122,[PID 4564] python3
+0.00276219512195122,[PID 5160] python3
+0.00276219512195122,[PID 5157] python3
+0.00276219512195122,[PID 5586] python3
+0.002759146341463415,[PID 4964] python3
+0.002759146341463415,[PID 4808] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.002759146341463415,[PID 5349] python3
+0.002753048780487805,[PID 11442] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 15b8045b66a55e87b13300c9002e7622d28d43d927971d2387fa11fca0a547
+0.002753048780487805,[PID 5592] python3
+0.0027500000000000003,[PID 5534] python3
+0.0027469512195121954,[PID 5232] python3
+0.0027469512195121954,[PID 4559] python3
+0.0027469512195121954,[PID 4914] python3
+0.0027408536585365856,[PID 11503] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 06b0cd7c3606e1d710e194e8c35fa49c7718594d9cca17ad0a8021d6688e98
+0.0027378048780487808,[PID 10296] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 9c71c7fa1b5b431c006df88ada3160096a0c52a55c1b8bd351d1595a0c0cf0
+0.0027378048780487808,[PID 4988] python3
+0.002734756097560976,[PID 4949] python3
+0.002734756097560976,[PID 4436] python3
+0.002734756097560976,[PID 4247] python3
+0.002734756097560976,[PID 11462] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 413b083d40b2b75ff650f1c305534def43c2936ddca2aadd64a47c05bc4619
+0.002734756097560976,[PID 5009] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.002728658536585366,[PID 11486] /usr/bin/containerd-shim-runc-v2 -namespace moby -id f83c30eadacb97ed989f614e09311cf1c6e5c69bda87c143023b5a22c75ec7
+0.0027256097560975612,[PID 11488] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 48bea1b727a3e7756e50c1fa2f6f25408b70cc583f6e317a5b5f80c719d387
+0.0027225609756097563,[PID 11477] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 70e0b74a9a39694e77d3aca411806741f9f1ed215dd81e3deca8e47d76dff9
+0.0027195121951219515,[PID 11476] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 33f2a16a892850e81a012bae641d8d110bf370f7764802994ff3a00de2b8e3
+0.0027195121951219515,[PID 11441] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 466d276b3e6f28f17e61313050781b89fd822533172219c854bb4c5fb758fd
+0.0027164634146341466,[PID 4428] python3
+0.002710365853658537,[PID 9784] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 48bea1b727a3e7756e50c1fa2f6f25408b70cc583f6e317a5b5f80c719d3870
+0.002707317073170732,[PID 4221] python3
+0.002704268292682927,[PID 10877] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 868fc7146170a7807bca7035d1b521c2690440998db84f5ba7b0bcf8ac6537
+0.002701219512195122,[PID 8338] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 455887ffd531217b9376c1d835557aefa1c28a58059d102425153783b3061ab
+0.0026920731707317075,[PID 4545] python3
+0.0026859756097560978,[PID 4560] python3
+0.0026859756097560978,[PID 4244] python3
+0.0026859756097560978,[PID 4220] python3
+0.002682926829268293,[PID 4576] python3
+0.002682926829268293,[PID 4455] python3
+0.002679878048780488,[PID 4552] python3
+0.0026737804878048783,[PID 4836] python3
+0.0026676829268292685,[PID 4952] python3
+0.0026646341463414636,[PID 4835] python3
+0.002664634146341463,[PID 85] [ksoftirqd/11]
+0.002649390243902439,[PID 11228] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 5db73f624af81a1a8abb2f64bb2e8aff938a7efb07fcf87e26f256bf039a7a
+0.0026371951219512197,[PID 4561] python3
+0.002634146341463415,[PID 4991] python3
+0.002628048780487805,[PID 4245] python3
+0.002625,[PID 4517] python3
+0.0026219512195121953,[PID 11492] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 9c71c7fa1b5b431c006df88ada3160096a0c52a55c1b8bd351d1595a0c0cf0
+0.0026219512195121953,[PID 4728] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.0026158536585365855,[PID 4987] python3
+0.002606707317073171,[PID 4542] python3
+0.002606707317073171,[PID 5045] python3
+0.002606707317073171,[PID 4878] python3
+0.002600609756097561,[PID 4774] stat
+0.0025975609756097562,[PID 4562] python3
+0.0025975609756097562,[PID 4765] python3
+0.0025945121951219514,[PID 5038] python3
+0.0025914634146341465,[PID 4584] python3
+0.0025884146341463416,[PID 4548] python3
+0.0025884146341463416,[PID 4410] python3
+0.0025853658536585367,[PID 4726] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.002582317073170732,[PID 4258] python3
+0.002582317073170732,[PID 4577] python3
+0.002582317073170732,[PID 4567] python3
+0.002576219512195122,[PID 4501] python3
+0.002573170731707317,[PID 4566] python3
+0.0025701219512195123,[PID 1] /sbin/init 
+0.0025701219512195123,[PID 4449] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.0025670731707317074,[PID 4488] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.0025670731707317074,[PID 4373] python3
+0.0025670731707317074,[PID 4490] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.0025640243902439025,[PID 4586] python3
+0.0025426829268292684,[PID 4248] python3
+0.0025365853658536586,[PID 4249] python3
+0.0025335365853658537,[PID 4251] python3
+0.002524390243902439,[PID 4246] python3
+0.002503048780487805,[PID 4276] python3
+0.0025,[PID 4269] python3
+0.002496951219512195,[PID 4261] python3
+0.0024908536585365854,[PID 4235] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.0024878048780487805,[PID 4270] python3
+0.0024817073170731708,[PID 4195] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.002478658536585366,[PID 4231] python3
+0.002457317073170732,[PID 4273] python3
+0.0024573170731707317,[PID 67] [ksoftirqd/8]
+0.0024207317073170736,[PID 10739] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 21cbf387369369df4b6867daebe01b635a5604531e9eac97b356a6f0d5797b
+0.002414634146341464,bpf_prog_free_deferred
+0.0024024390243902443,[PID 4225] python3
+0.002362804878048781,[PID 4234] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.002225609756097561,[PID 4222] python3
+0.002219512195121951,[PID 4256] python3
+0.0022073170731707315,[PID 4232] python3
+0.0021524390243902436,[PID 4227] python3
+0.002146341463414634,[PID 4192] sshd
+0.002143292682926829,[PID 4226] python3
+0.002143292682926829,[PID 4229] python3
+0.002140243902439024,[PID 4223] python3
+0.0021310975609756095,[PID 11450] sh /stream.sh /videos/chosen.mp4 2276 1800 
+0.0020914634146341465,[PID 4238] /bin/sh -c /usr/bin/python3 && sleep 0 
+0.002079268292682927,[PID 4228] python3
+0.0020579268292682928,[PID 4255] python3
+0.002051829268292683,[PID 4250] python3
+0.0020335365853658537,[PID 4190] sshd
+0.002027439024390244,[PID 17946] [crond]
+0.002021341463414634,[PID 4184] [crond]
+0.002021341463414634,[PID 4230] python3
+0.0020091463414634147,[PID 4224] python3
+0.0019603658536585366,[PID 4254] python3
+0.0019573170731707317,[PID 4252] python3
+0.0019024390243902439,[PID 7646] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4edfc31956d01563dc8ec4418e9027be8348e740fe7dc00dde4dd2d22977791
+0.001823170731707317,[PID 12512] [kworker/u32:1]
+0.001795731707317073,[PID 7464] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 14d20304f3ebdc9fa58431f864208af10ec43a5ad2a9817644bfb9d7af6075e
+0.0017804878048780486,[PID 10496] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 403d72b99575c38c6f26afc1b5e9d0ed69fae3538805af2e9568e138bc3044
+0.0017804878048780486,[PID 7470] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 14d20304f3ebdc9fa58431f864208af10ec43a5ad2a9817644bfb9d7af6075e
+0.0017652439024390242,[PID 8771] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 13141bc1b5677ca3246ceed27011b4be4b8ea86065cd160bc80d1c9151a99ef
+0.0017530487804878047,[PID 8491] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 413b083d40b2b75ff650f1c305534def43c2936ddca2aadd64a47c05bc4619b
+0.0017530487804878047,[PID 10063] /usr/bin/containerd-shim-runc-v2 -namespace moby -id be26f37ada995f7ce1ff41f8bc5dbabbb25ff5df3e0c15f8f3056752a682f6
+0.00174390243902439,[PID 8282] /usr/bin/containerd-shim-runc-v2 -namespace moby -id c49f61bddef8c64e511139ea2e4a8b7f07c1ccd6daa13ffb5c55c992289c19a
+0.00174390243902439,[PID 11348] /usr/bin/containerd-shim-runc-v2 -namespace moby -id a8338b4d2ed262e26afc5dc11af44a0ea3d0ff0c42295d052d17256c5bdbf4
+0.0017317073170731705,[PID 11109] /usr/bin/containerd-shim-runc-v2 -namespace moby -id c9f6d853ae06a3eaaaa35df07309c126019ea97dffe6a595fe3ff635916e93
+0.0017286585365853657,[PID 11160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 955f4b5ac7039f53460b7e0fbbf6fed0d4a106d1f6204f71f2d352a46c3ee6
+0.0017256097560975608,[PID 8033] /usr/bin/containerd-shim-runc-v2 -namespace moby -id b70f77be5e3775aeab751b55691c5408dc76a934aa1cd7d879d522fdf7cbef1
+0.0017134146341463417,[PID 8141] /usr/bin/containerd-shim-runc-v2 -namespace moby -id d7f8842b71a908bf12533b491faccf9215f9158b35b001a83c0c8dbe76be73f
+0.001704268292682927,[PID 11253] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 2161a1f46c267e8cbb34c5ddf8f8117a73bbc47db242dcd12c20cbecf252e7
+0.0016981707317073173,[PID 7734] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 9228a5beb429a48b15ef50f98d7811ac5ee749f35ab752561478316d8e6ba4d
+0.0016981707317073173,[PID 8597] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3f5ec3dc38cbd2f4235a5ed2a0fb93668347c917df95159ec9f6402e8b47e84
+0.0016981707317073173,[PID 7911] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 67a5c2f7690655211d69e38b43a3d12a93329e928da897f0f139bdb27af601a
+0.0016859756097560978,[PID 10851] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 1f4f06c622830b631bc5a0ea15b80af3cdab3917cd281a83c4f0d7809c64ea
+0.001679878048780488,[PID 11017] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 0628ac07cbef4b174ee8fb68c9f1ad3ad804aa734c07652b2644f649560f6c
+0.0016768292682926831,[PID 4241] python3
+0.0016676829268292685,[PID 10793] /usr/bin/containerd-shim-runc-v2 -namespace moby -id bae71cd88f4363c5bc2c5ee95daed1d4ace484fefbb1c1651d9535cd9a1129
+0.0016676829268292685,[PID 11247] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 2161a1f46c267e8cbb34c5ddf8f8117a73bbc47db242dcd12c20cbecf252e7
+0.0016402439024390245,[PID 7469] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 14d20304f3ebdc9fa58431f864208af10ec43a5ad2a9817644bfb9d7af6075e
+0.00163109756097561,[PID 12023] sshd
+0.0016097560975609757,[PID 11107] /usr/bin/containerd-shim-runc-v2 -namespace moby -id c9f6d853ae06a3eaaaa35df07309c126019ea97dffe6a595fe3ff635916e93
+0.0015975609756097562,[PID 7580] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 1f4515baeef7411cfe3aa5f338e21749902c7ae947583675ad64d857fd3a56e
+0.0015396341463414635,[PID 10933] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 66e75d85c43991ce518fdcb6fbaa72f7361f26a316d2768cedb304e9e38882
+0.0015365853658536586,[PID 11016] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4fc49559467cadf44abe84cfbeee660f847234b59f393e0e08c492d61e1b52
+0.0015335365853658537,[PID 4274] python3
+0.001527439024390244,[PID 10883] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 868fc7146170a7807bca7035d1b521c2690440998db84f5ba7b0bcf8ac6537
+0.0015213414634146342,[PID 11202] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 5db73f624af81a1a8abb2f64bb2e8aff938a7efb07fcf87e26f256bf039a7a
+0.0015091463414634147,[PID 4217] python3
+0.0014695121951219512,[PID 4200] python3
+0.0014603658536585366,[PID 11446] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 868fc7146170a7807bca7035d1b521c2690440998db84f5ba7b0bcf8ac6537
+0.001451219512195122,[PID 11174] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 1ba0fcf9eaa022d98b45e6bd3b6155eddb6c4f8651ac1f4c2dedac4a5428f8
+0.0014207317073170733,[PID 4199] python3
+0.0014207317073170733,[PID 12021] sshd
+0.0014176829268292685,[PID 4197] python3
+0.0014115853658536587,[PID 4240] python3
+0.001402439024390244,[PID 4242] python3
+0.0013841463414634148,[PID 4201] python3
+0.0013231707317073172,[PID 4219] python3
+0.0013231707317073172,[PID 4202] python3
+0.0013079268292682928,[PID 4262] python3
+0.0013079268292682928,[PID 4207] python3
+0.001301829268292683,[PID 4275] python3
+0.0012957317073170732,[PID 4213] python3
+0.0012134146341463415,mix_interrupt_randomness
+0.0012134146341463415,can_stat_update
+0.00040243902439024393,[PID 4108] sshd
+0.0,[PID 37] [ksoftirqd/3]
+0.0,schedule_page_work_fn
+0.0,tsc_sync_check_timer_fn
+0.0,fill_page_cache_func
+0.0,[PID 125] kworker/8:1
+0.0,[PID 336] kworker/u32:6
+0.0,[PID 396] kworker/0:8
+0.0,[PID 401] [kworker/6:1]
+0.0,bnx2x_sp_rtnl_task
+0.0,[69] eth1-fp-1
+0.0,sync_timer_callback
+0.0,[70] eth1-fp-2
+0.0,[PID 3837] sshd: /usr/sbin/sshd [listener] 0 of 100-200 startups 
+0.0,[PID 3619] /sbin/syslogd -t -n 
+0.0,[PID 4106] sshd
+0.0,idle_worker_timeout
+0.0,[PID 1051] [kworker/1:1H]
+0.0,[PID 12204] [kworker/13:0]
+0.0,tw_timer_handler
+0.0,[PID 4029] kworker/13:2
+0.0,[PID 440] kworker/5:1
+0.0,[PID 2854] kworker/10:2
+0.0,[PID 444] kworker/9:1
+0.0,[PID 32] kworker/2:0
+0.0,[PID 56] kworker/6:0
+0.0,[PID 3985] kworker/14:3
+0.0,[PID 11958] kworker/u32:0
+0.0,[PID 905] [kworker/3:1H]
+0.0,[PID 12877] [kworker/1:2]
+0.0,[46] hpsa0-msix3
+0.0,[58] hpsa0-msix14
+0.0,[PID 1825] [kworker/14:1H]
+0.0,[44] hpsa0-msix1
+0.0,[56] hpsa0-msix12
+0.0,[PID 12595] [kworker/2:2]
+0.0,[PID 906] [kworker/6:1H]
+0.0,[PID 74] [kworker/9:0]
+0.0,commit_timeout
+0.0,bnx2x_timer
+0.0,[71] eth1-fp-3
+0.0,[PID 36] [migration/3]
+0.0,[PID 54] [migration/6]
+0.0,[PID 42] [migration/4]
+0.0,[PID 24] [migration/1]
+0.0,[PID 60] [migration/7]
+0.0,[PID 30] [migration/2]
+0.0,[PID 48] [migration/5]
+0.0,[PID 102] [migration/14]
+0.0,[PID 84] [migration/11]
+0.0,[PID 96] [migration/13]
+0.0,[PID 108] [migration/15]
+0.0,[PID 438] [kworker/10:1]
+0.0,[PID 26] [kworker/1:0]
+0.0,[PID 115] [kworker/12:1]
+0.0,neigh_timer_handler
+0.0,[50] hpsa0-msix6
+0.0,[PID 442] [kworker/11:1]
+0.0,vmstat_update
+0.0,[PID 4183] [kworker/8:0]
+0.0,[PID 90] [migration/12]
+0.0,[PID 66] [migration/8]
+0.0,[PID 78] [migration/10]
+0.0,blk_rq_timed_out_timer
+0.0,[54] hpsa0-msix10
+0.0,[68] eth1-fp-0
+0.0,[PID 711] [kworker/11:1H]
+0.0,[55] hpsa0-msix11
+0.0,wq_barrier_func
+0.0,[PID 766] [kworker/15:1H]
+0.0,[PID 441] [kworker/7:1]
+0.0,writeout_period
+0.0,[PID 439] [kworker/4:1]
+0.0,[PID 132] [kworker/13:1]
+0.0,[PID 443] [kworker/15:1]
+0.0,[PID 413] [kworker/14:1]
+0.0,dev_watchdog
+0.0,[PID 437] [kworker/2:1]
+0.0,[PID 131] [kworker/3:1]
+0.0,[PID 19] [migration/0]
+0.0,[PID 2509] [kworker/5:2]
+0.0,[PID 72] [migration/9]
+0.0,[PID 705] kworker/11:2
