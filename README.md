@@ -1,0 +1,1 @@
+This repository contains complementary results of experiments that compare power used by a video cache server, when its server program (ffmpeg) is run in a container, with the power used when the server runs as an application native to the operating system.
